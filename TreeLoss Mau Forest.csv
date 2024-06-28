@@ -1,0 +1,2409 @@
+country,subnational1,subnational2,threshold,area_ha,extent_2000_ha,tc_loss_ha_2014,tc_loss_ha_2015,tc_loss_ha_2016,tc_loss_ha_2017,tc_loss_ha_2018,tc_loss_ha_2019,tc_loss_ha_2020,tc_loss_ha_2021,tc_loss_ha_2022,
+Kenya,Baringo,805,0,17383,17383,10,1,5,0,0,0,0,11,2,
+Kenya,Baringo,805,10,17383,2875,4,1,3,0,0,0,0,9,1,
+Kenya,Baringo,805,15,17383,1280,1,0,2,0,0,0,0,5,1,
+Kenya,Baringo,805,20,17383,154,0,0,0,0,0,0,0,3,0,
+Kenya,Baringo,805,25,17383,107,0,0,0,0,0,0,0,2,0,
+Kenya,Baringo,805,30,17383,47,0,0,0,0,0,0,0,2,0,
+Kenya,Baringo,805,50,17383,1,0,0,0,0,0,0,0,0,0,
+Kenya,Baringo,805,75,17383,0,0,0,0,0,0,0,0,0,0,
+Kenya,Baringo,Baringo Central,0,66118,66118,76,114,156,194,132,102,85,69,72,
+Kenya,Baringo,Baringo Central,10,66118,46549,74,114,152,191,131,100,84,68,69,
+Kenya,Baringo,Baringo Central,15,66118,40221,71,112,146,185,128,96,82,66,66,
+Kenya,Baringo,Baringo Central,20,66118,29255,61,104,131,169,116,86,73,57,58,
+Kenya,Baringo,Baringo Central,25,66118,27638,59,100,126,166,113,83,71,56,56,
+Kenya,Baringo,Baringo Central,30,66118,24556,55,94,120,157,104,77,64,51,52,
+Kenya,Baringo,Baringo Central,50,66118,10258,17,31,56,70,38,28,25,13,21,
+Kenya,Baringo,Baringo Central,75,66118,4277,6,10,23,28,11,6,9,2,4,
+Kenya,Baringo,Baringo North,0,163289,163289,360,655,657,1024,687,395,285,320,517,
+Kenya,Baringo,Baringo North,10,163289,54270,327,587,594,886,618,357,256,271,444,
+Kenya,Baringo,Baringo North,15,163289,42079,299,514,518,765,542,321,230,223,379,
+Kenya,Baringo,Baringo North,20,163289,23815,230,355,347,521,358,234,162,132,260,
+Kenya,Baringo,Baringo North,25,163289,19721,206,307,291,435,295,199,134,111,228,
+Kenya,Baringo,Baringo North,30,163289,15803,184,260,239,359,241,164,110,91,192,
+Kenya,Baringo,Baringo North,50,163289,6448,89,92,105,113,64,42,30,22,51,
+Kenya,Baringo,Baringo North,75,163289,3143,71,53,74,46,12,3,6,2,2,
+Kenya,Baringo,Baringo South,0,188510,188510,125,218,75,187,123,145,148,144,63,
+Kenya,Baringo,Baringo South,10,188510,54801,90,179,63,170,111,132,109,95,46,
+Kenya,Baringo,Baringo South,15,188510,41543,77,174,59,164,105,128,103,85,40,
+Kenya,Baringo,Baringo South,20,188510,20813,53,158,46,141,88,116,91,59,26,
+Kenya,Baringo,Baringo South,25,188510,17611,45,154,42,137,84,113,88,53,22,
+Kenya,Baringo,Baringo South,30,188510,14803,35,150,37,129,81,106,85,47,19,
+Kenya,Baringo,Baringo South,50,188510,7196,6,124,11,88,48,71,52,10,4,
+Kenya,Baringo,Baringo South,75,188510,4638,2,116,3,74,34,61,40,4,2,
+Kenya,Baringo,Eldama Ravine,0,90571,90571,69,675,1426,1783,524,163,278,38,96,
+Kenya,Baringo,Eldama Ravine,10,90571,70500,55,672,1418,1775,511,159,273,35,80,
+Kenya,Baringo,Eldama Ravine,15,90571,60348,49,668,1412,1764,499,155,268,33,71,
+Kenya,Baringo,Eldama Ravine,20,90571,49225,41,659,1389,1731,474,142,244,29,61,
+Kenya,Baringo,Eldama Ravine,25,90571,48303,40,657,1386,1726,472,141,243,28,60,
+Kenya,Baringo,Eldama Ravine,30,90571,45623,38,653,1372,1708,464,139,231,23,56,
+Kenya,Baringo,Eldama Ravine,50,90571,38900,28,630,1314,1628,435,131,198,11,46,
+Kenya,Baringo,Eldama Ravine,75,90571,32692,19,570,1161,1480,379,118,151,6,41,
+Kenya,Baringo,Mogotio,0,115720,115720,72,26,38,57,80,21,46,24,15,
+Kenya,Baringo,Mogotio,10,115720,47895,24,22,32,54,79,21,45,18,14,
+Kenya,Baringo,Mogotio,15,115720,34136,16,20,27,52,78,20,44,14,13,
+Kenya,Baringo,Mogotio,20,115720,14494,5,15,16,44,76,17,37,8,9,
+Kenya,Baringo,Mogotio,25,115720,12237,4,14,13,42,76,16,36,7,8,
+Kenya,Baringo,Mogotio,30,115720,10178,3,13,11,41,75,15,36,6,8,
+Kenya,Baringo,Mogotio,50,115720,4361,2,12,4,33,64,11,27,2,5,
+Kenya,Baringo,Mogotio,75,115720,2134,1,11,3,23,47,6,20,1,2,
+Kenya,Baringo,Tiaty,0,442658,442658,77,32,82,94,85,83,40,149,64,
+Kenya,Baringo,Tiaty,10,442658,40837,51,30,72,75,72,68,34,103,46,
+Kenya,Baringo,Tiaty,15,442658,29109,44,29,69,69,68,62,31,88,38,
+Kenya,Baringo,Tiaty,20,442658,8070,26,23,49,46,39,33,20,39,19,
+Kenya,Baringo,Tiaty,25,442658,4891,19,18,36,35,21,21,14,21,10,
+Kenya,Baringo,Tiaty,30,442658,2979,15,13,25,25,8,10,10,11,5,
+Kenya,Baringo,Tiaty,50,442658,507,2,2,2,2,1,1,1,0,0,
+Kenya,Baringo,Tiaty,75,442658,22,0,0,0,0,0,0,0,0,0,
+Kenya,Bomet,Bomet Central,0,24320,24320,3,1,36,27,70,79,205,9,16,
+Kenya,Bomet,Bomet Central,10,24320,24086,3,1,35,27,70,79,205,9,16,
+Kenya,Bomet,Bomet Central,15,24320,23912,3,1,24,27,70,79,205,9,16,
+Kenya,Bomet,Bomet Central,20,24320,20915,2,1,21,26,67,75,198,8,14,
+Kenya,Bomet,Bomet Central,25,24320,20395,2,1,21,26,66,74,197,8,13,
+Kenya,Bomet,Bomet Central,30,24320,16815,2,1,20,24,61,65,180,7,12,
+Kenya,Bomet,Bomet Central,50,24320,4384,1,1,10,7,29,25,74,3,5,
+Kenya,Bomet,Bomet Central,75,24320,715,0,0,3,2,14,7,16,1,2,
+Kenya,Bomet,Bomet East,0,31813,31813,1,4,17,17,32,26,89,5,8,
+Kenya,Bomet,Bomet East,10,31813,26813,1,4,17,17,32,25,87,4,7,
+Kenya,Bomet,Bomet East,15,31813,22829,1,4,16,16,32,24,85,4,6,
+Kenya,Bomet,Bomet East,20,31813,11252,0,4,14,15,27,17,73,2,3,
+Kenya,Bomet,Bomet East,25,31813,10390,0,4,14,15,27,17,71,2,3,
+Kenya,Bomet,Bomet East,30,31813,6751,0,4,12,14,25,15,59,1,2,
+Kenya,Bomet,Bomet East,50,31813,1897,0,3,5,7,14,6,21,0,1,
+Kenya,Bomet,Bomet East,75,31813,884,0,2,2,3,5,2,7,0,0,
+Kenya,Bomet,Chepalungu,0,54403,54403,7,163,5,188,99,97,44,4,3,
+Kenya,Bomet,Chepalungu,10,54403,44715,7,163,5,188,97,95,42,4,2,
+Kenya,Bomet,Chepalungu,15,54403,33713,6,163,5,186,96,94,40,4,2,
+Kenya,Bomet,Chepalungu,20,54403,10201,4,162,3,180,83,85,28,2,1,
+Kenya,Bomet,Chepalungu,25,54403,9107,3,162,3,179,82,84,26,1,1,
+Kenya,Bomet,Chepalungu,30,54403,5264,3,162,3,173,78,80,20,0,0,
+Kenya,Bomet,Chepalungu,50,54403,1668,2,43,1,47,20,26,4,0,0,
+Kenya,Bomet,Chepalungu,75,54403,629,0,5,0,3,1,2,1,0,0,
+Kenya,Bomet,Konoin,0,78817,78817,194,198,250,207,347,700,1240,122,121,
+Kenya,Bomet,Konoin,10,78817,78498,194,198,250,207,347,699,1239,122,120,
+Kenya,Bomet,Konoin,15,78817,78307,193,198,247,206,346,699,1237,122,120,
+Kenya,Bomet,Konoin,20,78817,76469,190,197,241,202,340,691,1220,119,118,
+Kenya,Bomet,Konoin,25,78817,76090,190,197,239,201,338,688,1216,118,118,
+Kenya,Bomet,Konoin,30,78817,72936,188,195,229,191,327,672,1184,112,114,
+Kenya,Bomet,Konoin,50,78817,53216,169,169,168,121,231,484,853,74,80,
+Kenya,Bomet,Konoin,75,78817,35581,98,93,80,54,114,170,309,38,33,
+Kenya,Bomet,Sotik,0,48491,48491,64,65,57,218,122,352,295,29,76,
+Kenya,Bomet,Sotik,10,48491,46070,63,64,57,217,121,346,291,29,73,
+Kenya,Bomet,Sotik,15,48491,42913,62,63,56,213,114,316,280,28,69,
+Kenya,Bomet,Sotik,20,48491,27225,49,62,49,195,91,292,236,21,53,
+Kenya,Bomet,Sotik,25,48491,25917,48,62,48,192,88,288,230,21,51,
+Kenya,Bomet,Sotik,30,48491,18869,43,61,44,178,76,260,200,16,40,
+Kenya,Bomet,Sotik,50,48491,4848,28,45,25,123,33,134,94,8,18,
+Kenya,Bomet,Sotik,75,48491,1476,11,11,8,34,9,30,24,2,6,
+Kenya,Bungoma,Bumula,0,34551,34551,71,21,12,19,10,20,17,17,26,39
+Kenya,Bungoma,Bumula,10,34551,32508,64,20,11,17,10,19,17,16,26,38
+Kenya,Bungoma,Bumula,15,34551,18289,40,16,7,13,7,16,11,11,20,23
+Kenya,Bungoma,Bumula,20,34551,2336,4,3,1,3,3,5,2,1,3,4
+Kenya,Bungoma,Bumula,25,34551,1774,2,3,0,2,2,4,2,1,2,2
+Kenya,Bungoma,Bumula,30,34551,1035,0,0,0,2,2,3,2,1,1,2
+Kenya,Bungoma,Bumula,50,34551,151,0,0,0,0,0,0,0,0,0,0
+Kenya,Bungoma,Bumula,75,34551,14,0,0,0,0,0,0,0,0,0,0
+Kenya,Bungoma,Kabuchai,0,23384,23384,20,3,5,21,7,6,4,6,6,15
+Kenya,Bungoma,Kabuchai,10,23384,22628,20,3,4,20,6,6,4,6,6,15
+Kenya,Bungoma,Kabuchai,15,23384,14598,13,2,3,15,4,5,3,4,4,11
+Kenya,Bungoma,Kabuchai,20,23384,3183,3,0,0,4,1,2,0,1,1,2
+Kenya,Bungoma,Kabuchai,25,23384,2580,1,0,0,3,1,2,0,1,1,2
+Kenya,Bungoma,Kabuchai,30,23384,1709,0,0,0,3,1,2,0,0,0,0
+Kenya,Bungoma,Kabuchai,50,23384,51,0,0,0,1,0,0,0,0,0,0
+Kenya,Bungoma,Kabuchai,75,23384,7,0,0,0,0,0,0,0,0,0,0
+Kenya,Bungoma,Kanduyi,0,31910,31910,97,35,40,21,24,29,14,22,13,38
+Kenya,Bungoma,Kanduyi,10,31910,29839,91,29,38,21,23,28,13,20,12,36
+Kenya,Bungoma,Kanduyi,15,31910,15732,62,22,36,13,19,22,8,13,8,22
+Kenya,Bungoma,Kanduyi,20,31910,2157,9,5,12,2,12,12,3,3,1,5
+Kenya,Bungoma,Kanduyi,25,31910,1604,5,4,5,2,10,11,3,3,1,3
+Kenya,Bungoma,Kanduyi,30,31910,907,2,2,2,1,6,8,2,1,0,1
+Kenya,Bungoma,Kanduyi,50,31910,106,0,0,1,0,0,1,0,0,0,0
+Kenya,Bungoma,Kanduyi,75,31910,13,0,0,0,0,0,0,0,0,0,0
+Kenya,Bungoma,Kimilili,0,17750,17750,1,0,4,7,7,9,12,10,16,12
+Kenya,Bungoma,Kimilili,10,17750,16803,1,0,4,6,7,9,11,10,16,11
+Kenya,Bungoma,Kimilili,15,17750,12858,1,0,3,6,6,8,8,6,13,6
+Kenya,Bungoma,Kimilili,20,17750,2862,0,0,1,2,2,2,2,1,2,2
+Kenya,Bungoma,Kimilili,25,17750,2191,0,0,1,1,2,2,2,1,2,2
+Kenya,Bungoma,Kimilili,30,17750,1591,0,0,1,1,1,1,1,1,1,1
+Kenya,Bungoma,Kimilili,50,17750,55,0,0,0,0,0,0,0,0,0,0
+Kenya,Bungoma,Kimilili,75,17750,6,0,0,0,0,0,0,0,0,0,0
+Kenya,Bungoma,Likuyani,0,30146,30146,33,15,86,68,20,30,28,21,10,23
+Kenya,Bungoma,Likuyani,10,30146,12659,23,10,84,58,7,18,14,12,5,15
+Kenya,Bungoma,Likuyani,15,30146,5752,12,8,78,52,4,13,10,7,3,10
+Kenya,Bungoma,Likuyani,20,30146,1983,6,5,70,42,1,7,6,1,1,5
+Kenya,Bungoma,Likuyani,25,30146,1713,6,5,69,41,1,7,6,1,1,4
+Kenya,Bungoma,Likuyani,30,30146,1314,5,4,66,37,1,6,5,0,1,4
+Kenya,Bungoma,Likuyani,50,30146,390,1,2,24,7,0,1,1,0,1,0
+Kenya,Bungoma,Likuyani,75,30146,148,0,0,4,0,0,0,0,0,0,0
+Kenya,Bungoma,Lugari,0,26620,26620,51,54,92,67,26,26,21,14,16,20
+Kenya,Bungoma,Lugari,10,26620,19861,39,50,91,61,24,20,17,11,11,17
+Kenya,Bungoma,Lugari,15,26620,10581,12,47,88,50,19,15,13,7,6,13
+Kenya,Bungoma,Lugari,20,26620,4074,7,38,79,42,16,10,8,3,4,7
+Kenya,Bungoma,Lugari,25,26620,3734,6,37,79,40,15,9,8,3,4,6
+Kenya,Bungoma,Lugari,30,26620,3201,5,35,76,37,14,9,7,2,4,5
+Kenya,Bungoma,Lugari,50,26620,1555,3,17,63,12,6,4,4,0,2,1
+Kenya,Bungoma,Lugari,75,26620,1066,1,5,56,4,3,1,0,0,0,0
+Kenya,Bungoma,Mt. Elgon,0,94649,94649,107,151,78,376,28,286,19,23,35,73
+Kenya,Bungoma,Mt. Elgon,10,94649,86167,106,151,77,374,28,285,19,22,31,66
+Kenya,Bungoma,Mt. Elgon,15,94649,81062,106,150,75,370,27,284,18,21,23,57
+Kenya,Bungoma,Mt. Elgon,20,94649,64576,103,149,74,357,23,283,17,19,21,40
+Kenya,Bungoma,Mt. Elgon,25,94649,60092,103,149,74,356,23,283,16,18,21,39
+Kenya,Bungoma,Mt. Elgon,30,94649,55829,101,149,74,354,22,282,16,18,21,36
+Kenya,Bungoma,Mt. Elgon,50,94649,45814,98,147,73,349,17,273,15,17,21,30
+Kenya,Bungoma,Mt. Elgon,75,94649,32606,87,130,68,325,11,226,13,11,21,22
+Kenya,Bungoma,Sirisia,0,20778,20778,3,0,0,6,2,3,5,6,4,10
+Kenya,Bungoma,Sirisia,10,20778,19329,3,0,0,6,2,3,5,6,3,10
+Kenya,Bungoma,Sirisia,15,20778,10588,2,0,0,5,2,2,5,5,2,4
+Kenya,Bungoma,Sirisia,20,20778,2720,0,0,0,3,0,1,2,1,0,1
+Kenya,Bungoma,Sirisia,25,20778,2279,0,0,0,3,0,1,2,1,0,1
+Kenya,Bungoma,Sirisia,30,20778,1489,0,0,0,2,0,1,2,1,0,0
+Kenya,Bungoma,Sirisia,50,20778,63,0,0,0,0,0,0,0,0,0,0
+Kenya,Bungoma,Sirisia,75,20778,10,0,0,0,0,0,0,0,0,0,0
+Kenya,Bungoma,Tongaren,0,37539,37539,8,2,4,25,15,21,27,32,36,20
+Kenya,Bungoma,Tongaren,10,37539,29585,6,2,4,20,15,20,23,28,31,17
+Kenya,Bungoma,Tongaren,15,37539,14542,3,1,3,12,10,14,14,16,18,10
+Kenya,Bungoma,Tongaren,20,37539,3152,1,0,1,3,2,6,5,6,7,3
+Kenya,Bungoma,Tongaren,25,37539,2583,0,0,1,3,2,5,4,5,6,3
+Kenya,Bungoma,Tongaren,30,37539,1913,0,0,1,2,1,4,3,4,4,2
+Kenya,Bungoma,Tongaren,50,37539,171,0,0,0,0,0,1,0,1,1,0
+Kenya,Bungoma,Tongaren,75,37539,25,0,0,0,0,0,0,0,0,0,0
+Kenya,Bungoma,Webute West,0,23399,23399,88,23,21,15,8,6,31,8,7,17
+Kenya,Bungoma,Webute West,10,23399,22575,81,20,19,15,8,6,30,8,7,16
+Kenya,Bungoma,Webute West,15,23399,15508,58,12,16,12,8,5,21,6,4,12
+Kenya,Bungoma,Webute West,20,23399,2674,7,2,9,3,2,2,4,1,3,1
+Kenya,Bungoma,Webute West,25,23399,1975,4,1,6,2,1,2,4,1,3,1
+Kenya,Bungoma,Webute West,30,23399,1108,1,0,2,1,0,1,2,1,3,0
+Kenya,Bungoma,Webute West,50,23399,92,0,0,0,0,0,0,1,0,0,0
+Kenya,Bungoma,Webute West,75,23399,11,0,0,0,0,0,0,0,0,0,0
+Kenya,Bungoma,Webuye East,0,16590,16590,3,2,7,21,4,13,18,11,7,10
+Kenya,Bungoma,Webuye East,10,16590,15375,3,2,6,18,4,11,16,11,6,9
+Kenya,Bungoma,Webuye East,15,16590,10223,2,0,4,12,3,9,10,7,5,7
+Kenya,Bungoma,Webuye East,20,16590,1933,0,0,2,6,3,6,4,3,1,3
+Kenya,Bungoma,Webuye East,25,16590,1512,0,0,2,5,3,6,3,3,1,2
+Kenya,Bungoma,Webuye East,30,16590,1015,0,0,1,4,2,5,3,2,1,2
+Kenya,Bungoma,Webuye East,50,16590,85,0,0,0,1,0,1,1,0,0,0
+Kenya,Bungoma,Webuye East,75,16590,16,0,0,0,0,0,0,0,0,0,0
+Kenya,Busia,Budalangi,0,30980,30980,16,5,79,59,17,372,5,4,23,93
+Kenya,Busia,Budalangi,10,30980,17628,16,5,79,59,17,370,5,4,23,93
+Kenya,Busia,Budalangi,15,30980,14944,14,4,79,58,17,369,5,4,22,93
+Kenya,Busia,Budalangi,20,30980,10599,8,4,79,49,15,366,4,4,22,91
+Kenya,Busia,Budalangi,25,30980,10181,7,4,79,49,15,365,4,4,21,90
+Kenya,Busia,Budalangi,30,30980,8858,5,4,74,43,15,353,3,4,20,83
+Kenya,Busia,Budalangi,50,30980,3382,2,2,23,14,5,208,1,2,6,21
+Kenya,Busia,Budalangi,75,30980,150,0,0,0,0,0,1,0,0,0,0
+Kenya,Busia,Butula,0,24376,24376,24,3,4,1,2,7,7,9,8,11
+Kenya,Busia,Butula,10,24376,24026,24,3,4,1,2,7,7,9,8,11
+Kenya,Busia,Butula,15,24376,19530,22,2,3,1,2,7,7,7,7,9
+Kenya,Busia,Butula,20,24376,5589,5,1,0,1,0,4,3,2,1,4
+Kenya,Busia,Butula,25,24376,4565,3,1,0,0,0,4,3,1,1,3
+Kenya,Busia,Butula,30,24376,2402,2,0,0,0,0,3,2,0,0,1
+Kenya,Busia,Butula,50,24376,207,1,0,0,0,0,0,1,0,0,0
+Kenya,Busia,Butula,75,24376,4,0,0,0,0,0,0,0,0,0,0
+Kenya,Busia,Funyula,0,26965,26965,32,7,2,10,6,54,36,5,3,8
+Kenya,Busia,Funyula,10,26965,24021,29,7,2,10,6,53,36,5,3,8
+Kenya,Busia,Funyula,15,26965,17166,18,7,2,10,6,53,31,5,3,8
+Kenya,Busia,Funyula,20,26965,6457,8,7,2,9,5,48,23,4,2,6
+Kenya,Busia,Funyula,25,26965,5684,7,7,2,9,5,48,21,4,2,6
+Kenya,Busia,Funyula,30,26965,3620,5,6,1,8,5,42,16,4,2,5
+Kenya,Busia,Funyula,50,26965,331,1,3,0,4,1,9,6,0,1,1
+Kenya,Busia,Funyula,75,26965,20,0,0,0,0,0,0,0,0,0,0
+Kenya,Busia,Matayos,0,19493,19493,24,4,9,8,12,61,42,21,6,14
+Kenya,Busia,Matayos,10,19493,18851,23,4,9,8,12,59,42,20,6,14
+Kenya,Busia,Matayos,15,19493,13069,18,4,8,7,11,57,41,17,5,11
+Kenya,Busia,Matayos,20,19493,3789,7,2,3,5,10,46,28,7,2,5
+Kenya,Busia,Matayos,25,19493,3328,7,2,2,5,10,44,27,6,2,5
+Kenya,Busia,Matayos,30,19493,1924,4,1,1,4,8,38,23,3,1,3
+Kenya,Busia,Matayos,50,19493,173,0,0,0,1,2,11,4,0,0,0
+Kenya,Busia,Matayos,75,19493,6,0,0,0,0,0,0,0,0,0,0
+Kenya,Busia,Nambale,0,23359,23359,62,12,7,15,28,38,22,18,12,7
+Kenya,Busia,Nambale,10,23359,23065,61,12,7,15,28,38,22,18,12,6
+Kenya,Busia,Nambale,15,23359,17893,53,10,6,15,27,34,21,17,9,6
+Kenya,Busia,Nambale,20,23359,3562,17,2,3,10,19,27,9,5,1,1
+Kenya,Busia,Nambale,25,23359,2733,13,1,2,10,18,27,8,4,1,1
+Kenya,Busia,Nambale,30,23359,1560,8,0,2,7,16,24,6,2,0,0
+Kenya,Busia,Nambale,50,23359,237,5,0,0,2,9,8,3,1,0,0
+Kenya,Busia,Nambale,75,23359,7,0,0,0,0,0,0,0,0,0,0
+Kenya,Busia,Teso North,0,24894,24894,6,0,3,6,10,4,14,11,7,4
+Kenya,Busia,Teso North,10,24894,24123,6,0,3,6,10,4,14,11,7,4
+Kenya,Busia,Teso North,15,24894,16070,5,0,3,6,9,3,13,10,5,3
+Kenya,Busia,Teso North,20,24894,3440,2,0,2,3,5,1,5,5,1,1
+Kenya,Busia,Teso North,25,24894,2841,2,0,1,2,5,0,5,5,1,0
+Kenya,Busia,Teso North,30,24894,1808,1,0,1,1,4,0,4,4,1,0
+Kenya,Busia,Teso North,50,24894,72,0,0,0,0,0,0,0,0,0,0
+Kenya,Busia,Teso North,75,24894,7,0,0,0,0,0,0,0,0,0,0
+Kenya,Busia,Teso South,0,29888,29888,14,3,19,23,30,17,36,43,14,34
+Kenya,Busia,Teso South,10,29888,28950,14,3,19,23,30,16,36,42,14,33
+Kenya,Busia,Teso South,15,29888,17389,11,2,15,18,26,13,35,36,12,32
+Kenya,Busia,Teso South,20,29888,3448,3,2,4,9,11,6,19,28,6,22
+Kenya,Busia,Teso South,25,29888,2961,3,2,4,8,10,5,17,28,6,21
+Kenya,Busia,Teso South,30,29888,1867,2,2,3,6,8,4,10,26,5,19
+Kenya,Busia,Teso South,50,29888,343,1,1,2,4,4,0,4,13,2,10
+Kenya,Busia,Teso South,75,29888,10,0,0,0,0,0,0,0,0,0,0
+Kenya,Elgeyo-Marakwet,Keiyo North,0,54226,54226,157,209,285,382,102,14,26,62,40,53
+Kenya,Elgeyo-Marakwet,Keiyo North,10,54226,31734,135,207,284,379,99,14,25,60,35,52
+Kenya,Elgeyo-Marakwet,Keiyo North,15,54226,21940,129,205,280,374,96,13,24,56,29,51
+Kenya,Elgeyo-Marakwet,Keiyo North,20,54226,12497,122,199,271,359,92,12,21,44,22,48
+Kenya,Elgeyo-Marakwet,Keiyo North,25,54226,11675,121,198,268,357,91,11,21,43,20,47
+Kenya,Elgeyo-Marakwet,Keiyo North,30,54226,10313,118,196,264,350,87,10,18,36,15,46
+Kenya,Elgeyo-Marakwet,Keiyo North,50,54226,7234,110,185,243,320,71,4,7,6,4,36
+Kenya,Elgeyo-Marakwet,Keiyo North,75,54226,5696,100,168,221,285,61,1,2,1,1,30
+Kenya,Elgeyo-Marakwet,Keiyo South,0,88644,88644,454,772,932,864,418,270,270,321,304,370
+Kenya,Elgeyo-Marakwet,Keiyo South,10,88644,68670,439,752,906,841,410,262,264,313,292,358
+Kenya,Elgeyo-Marakwet,Keiyo South,15,88644,60677,429,729,848,811,404,254,257,303,282,347
+Kenya,Elgeyo-Marakwet,Keiyo South,20,88644,43855,404,693,738,742,370,234,230,262,251,319
+Kenya,Elgeyo-Marakwet,Keiyo South,25,88644,42369,400,686,714,733,366,230,228,257,247,313
+Kenya,Elgeyo-Marakwet,Keiyo South,30,88644,36798,390,668,671,697,343,219,212,230,225,291
+Kenya,Elgeyo-Marakwet,Keiyo South,50,88644,22185,327,508,419,466,218,120,126,77,98,138
+Kenya,Elgeyo-Marakwet,Keiyo South,75,88644,14016,273,384,288,311,124,45,57,18,31,70
+Kenya,Elgeyo-Marakwet,Marakwet East,0,81545,81545,141,168,74,293,96,45,119,38,30,22
+Kenya,Elgeyo-Marakwet,Marakwet East,10,81545,56731,113,146,63,239,86,40,113,33,26,19
+Kenya,Elgeyo-Marakwet,Marakwet East,15,81545,49152,99,125,47,189,77,35,102,27,20,15
+Kenya,Elgeyo-Marakwet,Marakwet East,20,81545,38568,54,79,28,116,64,27,74,17,14,10
+Kenya,Elgeyo-Marakwet,Marakwet East,25,81545,37586,45,71,26,108,64,26,70,15,14,9
+Kenya,Elgeyo-Marakwet,Marakwet East,30,81545,34609,31,53,21,87,59,22,58,12,12,8
+Kenya,Elgeyo-Marakwet,Marakwet East,50,81545,28089,5,16,4,45,51,9,33,6,8,5
+Kenya,Elgeyo-Marakwet,Marakwet East,75,81545,17163,0,3,1,16,29,2,13,2,4,2
+Kenya,Elgeyo-Marakwet,Marakwet West,0,55992,55992,95,73,102,164,65,54,65,19,20,43
+Kenya,Elgeyo-Marakwet,Marakwet West,10,55992,42088,89,71,99,152,63,50,62,18,17,41
+Kenya,Elgeyo-Marakwet,Marakwet West,15,55992,36456,83,69,96,141,58,45,58,16,15,40
+Kenya,Elgeyo-Marakwet,Marakwet West,20,55992,28143,66,64,79,117,50,36,42,8,12,33
+Kenya,Elgeyo-Marakwet,Marakwet West,25,55992,27271,61,62,73,113,48,35,40,8,10,32
+Kenya,Elgeyo-Marakwet,Marakwet West,30,55992,25378,56,58,63,104,46,33,35,7,8,30
+Kenya,Elgeyo-Marakwet,Marakwet West,50,55992,21762,33,36,20,89,39,24,21,4,5,24
+Kenya,Elgeyo-Marakwet,Marakwet West,75,55992,19439,30,26,16,71,32,21,16,2,3,17
+Kenya,Embu,Manyatta,0,40091,40091,64,45,82,50,32,47,36,7,4,19
+Kenya,Embu,Manyatta,10,40091,34272,63,45,80,49,30,46,35,6,4,18
+Kenya,Embu,Manyatta,15,40091,28226,61,45,79,45,27,41,30,5,4,15
+Kenya,Embu,Manyatta,20,40091,19448,56,42,73,35,21,27,23,4,2,10
+Kenya,Embu,Manyatta,25,40091,18577,55,42,72,34,20,24,21,4,2,9
+Kenya,Embu,Manyatta,30,40091,16527,53,41,69,32,16,17,18,3,2,7
+Kenya,Embu,Manyatta,50,40091,11995,47,37,60,24,8,4,5,0,0,2
+Kenya,Embu,Manyatta,75,40091,8326,18,16,32,5,1,1,2,0,0,0
+Kenya,Embu,Mbeere North,0,77057,77057,101,7,39,77,33,16,18,14,13,72
+Kenya,Embu,Mbeere North,10,77057,37092,83,7,38,72,30,15,17,12,10,63
+Kenya,Embu,Mbeere North,15,77057,15864,53,6,33,53,21,12,15,7,6,44
+Kenya,Embu,Mbeere North,20,77057,4468,16,5,18,23,11,6,10,3,1,22
+Kenya,Embu,Mbeere North,25,77057,3905,13,5,16,21,10,5,10,3,1,21
+Kenya,Embu,Mbeere North,30,77057,2461,8,4,11,14,7,3,7,2,1,15
+Kenya,Embu,Mbeere North,50,77057,791,2,1,3,3,1,1,5,0,0,4
+Kenya,Embu,Mbeere North,75,77057,123,0,0,0,0,0,0,1,0,0,0
+Kenya,Embu,Mbeere South,0,132329,132329,111,67,3,53,34,27,11,44,15,64
+Kenya,Embu,Mbeere South,10,132329,43852,99,67,3,44,29,21,9,39,12,55
+Kenya,Embu,Mbeere South,15,132329,19707,63,67,3,30,20,13,7,24,8,37
+Kenya,Embu,Mbeere South,20,132329,4276,6,65,2,7,5,4,3,2,1,12
+Kenya,Embu,Mbeere South,25,132329,3752,5,65,2,6,4,4,2,1,1,10
+Kenya,Embu,Mbeere South,30,132329,2381,3,64,2,3,2,2,1,0,0,5
+Kenya,Embu,Mbeere South,50,132329,484,0,31,0,0,0,1,0,0,0,0
+Kenya,Embu,Mbeere South,75,132329,10,0,0,0,0,0,0,0,0,0,0
+Kenya,Embu,Runyenjes,0,33884,33884,18,10,13,14,15,32,24,4,5,20
+Kenya,Embu,Runyenjes,10,33884,29624,16,10,13,14,14,31,23,4,5,18
+Kenya,Embu,Runyenjes,15,33884,24077,12,9,12,11,13,27,18,3,4,14
+Kenya,Embu,Runyenjes,20,33884,15193,7,7,6,7,6,20,11,1,1,3
+Kenya,Embu,Runyenjes,25,33884,14347,7,6,6,6,6,19,10,1,1,3
+Kenya,Embu,Runyenjes,30,33884,12255,6,6,4,5,4,17,8,1,1,2
+Kenya,Embu,Runyenjes,50,33884,7935,4,5,1,1,1,3,3,0,0,1
+Kenya,Embu,Runyenjes,75,33884,6123,3,4,1,0,0,0,0,0,0,0
+Kenya,Garissa,Balambala,0,422961,422961,0,0,0,0,0,0,0,0,0,1
+Kenya,Garissa,Balambala,10,422961,5,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Balambala,15,422961,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Balambala,20,422961,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Balambala,25,422961,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Balambala,30,422961,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Balambala,50,422961,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Balambala,75,422961,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Daadab,0,752356,752356,11,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Daadab,10,752356,1394,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Daadab,15,752356,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Daadab,20,752356,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Daadab,25,752356,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Daadab,30,752356,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Daadab,50,752356,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Daadab,75,752356,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Fafi,0,1663757,1663757,23,0,0,0,0,0,1,1,0,0
+Kenya,Garissa,Fafi,10,1663757,238403,10,0,0,0,0,0,1,0,0,0
+Kenya,Garissa,Fafi,15,1663757,11797,6,0,0,0,0,0,1,0,0,0
+Kenya,Garissa,Fafi,20,1663757,407,0,0,0,0,0,0,1,0,0,0
+Kenya,Garissa,Fafi,25,1663757,220,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Fafi,30,1663757,64,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Fafi,50,1663757,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Fafi,75,1663757,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Garissa Township,0,60037,60037,1,0,1,5,3,20,19,0,2,4
+Kenya,Garissa,Garissa Township,10,60037,220,0,0,0,5,2,11,17,0,0,2
+Kenya,Garissa,Garissa Township,15,60037,75,0,0,0,3,1,7,12,0,0,1
+Kenya,Garissa,Garissa Township,20,60037,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Garissa Township,25,60037,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Garissa Township,30,60037,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Garissa Township,50,60037,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Garissa Township,75,60037,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Ijara,0,840512,840512,318,7,51,62,47,13,80,390,105,103
+Kenya,Garissa,Ijara,10,840512,628943,316,7,50,62,47,13,80,389,104,103
+Kenya,Garissa,Ijara,15,840512,387733,293,7,45,60,47,13,78,356,100,102
+Kenya,Garissa,Ijara,20,840512,268909,246,4,28,38,43,12,73,261,77,90
+Kenya,Garissa,Ijara,25,840512,258104,238,4,25,34,43,12,71,249,74,86
+Kenya,Garissa,Ijara,30,840512,239092,225,4,20,26,41,12,69,228,69,80
+Kenya,Garissa,Ijara,50,840512,128225,142,1,5,8,22,5,40,46,27,34
+Kenya,Garissa,Ijara,75,840512,4872,5,0,0,0,1,0,2,0,0,0
+Kenya,Garissa,Lagdera,0,645409,645409,6,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Lagdera,10,645409,3,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Lagdera,15,645409,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Lagdera,20,645409,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Lagdera,25,645409,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Lagdera,30,645409,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Lagdera,50,645409,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Garissa,Lagdera,75,645409,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Homa Bay,Homa Bay Town,0,26905,26905,5,1,1,1,2,0,0,2,1,2
+Kenya,Homa Bay,Homa Bay Town,10,26905,17703,4,0,1,1,2,0,0,2,1,2
+Kenya,Homa Bay,Homa Bay Town,15,26905,14554,3,0,1,1,2,0,0,2,1,1
+Kenya,Homa Bay,Homa Bay Town,20,26905,3642,1,0,0,1,1,0,0,1,0,0
+Kenya,Homa Bay,Homa Bay Town,25,26905,2773,0,0,0,1,1,0,0,1,0,0
+Kenya,Homa Bay,Homa Bay Town,30,26905,1436,0,0,0,1,1,0,0,1,0,0
+Kenya,Homa Bay,Homa Bay Town,50,26905,167,0,0,0,0,0,0,0,0,0,0
+Kenya,Homa Bay,Homa Bay Town,75,26905,4,0,0,0,0,0,0,0,0,0,0
+Kenya,Homa Bay,Kabondo Kasipul,0,24687,24687,20,0,2,8,3,1,12,21,15,24
+Kenya,Homa Bay,Kabondo Kasipul,10,24687,23650,20,0,2,8,3,1,12,21,15,23
+Kenya,Homa Bay,Kabondo Kasipul,15,24687,18303,16,0,2,8,3,1,12,20,14,22
+Kenya,Homa Bay,Kabondo Kasipul,20,24687,5748,4,0,2,4,2,1,8,8,6,14
+Kenya,Homa Bay,Kabondo Kasipul,25,24687,4686,2,0,2,4,2,1,7,7,5,12
+Kenya,Homa Bay,Kabondo Kasipul,30,24687,2334,1,0,2,4,2,1,5,4,3,7
+Kenya,Homa Bay,Kabondo Kasipul,50,24687,104,0,0,0,0,0,0,1,1,0,0
+Kenya,Homa Bay,Kabondo Kasipul,75,24687,9,0,0,0,0,0,0,0,0,0,0
+Kenya,Homa Bay,Karachuonyo,0,62372,62372,40,0,1,4,0,0,5,3,0,5
+Kenya,Homa Bay,Karachuonyo,10,62372,28478,36,0,1,4,0,0,4,3,0,4
+Kenya,Homa Bay,Karachuonyo,15,62372,13080,11,0,1,2,0,0,4,2,0,4
+Kenya,Homa Bay,Karachuonyo,20,62372,3807,2,0,1,2,0,0,4,1,0,3
+Kenya,Homa Bay,Karachuonyo,25,62372,3467,2,0,0,2,0,0,4,1,0,2
+Kenya,Homa Bay,Karachuonyo,30,62372,2744,1,0,0,2,0,0,3,0,0,2
+Kenya,Homa Bay,Karachuonyo,50,62372,1433,0,0,0,0,0,0,0,0,0,0
+Kenya,Homa Bay,Karachuonyo,75,62372,712,0,0,0,0,0,0,0,0,0,0
+Kenya,Homa Bay,Kasipul,0,25816,25816,36,18,10,14,36,12,28,14,7,20
+Kenya,Homa Bay,Kasipul,10,25816,25376,36,18,10,14,36,12,28,14,7,20
+Kenya,Homa Bay,Kasipul,15,25816,18817,30,18,10,14,33,12,28,13,7,19
+Kenya,Homa Bay,Kasipul,20,25816,5431,18,16,10,7,16,11,18,10,4,12
+Kenya,Homa Bay,Kasipul,25,25816,4421,17,16,9,7,16,11,15,9,4,11
+Kenya,Homa Bay,Kasipul,30,25816,2786,16,15,9,5,14,10,11,7,3,8
+Kenya,Homa Bay,Kasipul,50,25816,258,7,7,6,0,3,1,0,0,0,0
+Kenya,Homa Bay,Kasipul,75,25816,52,2,0,0,0,0,0,0,0,0,0
+Kenya,Homa Bay,Mbita,0,102757,102757,23,105,53,32,32,21,55,33,2,20
+Kenya,Homa Bay,Mbita,10,102757,33364,22,105,53,31,32,21,55,33,2,19
+Kenya,Homa Bay,Mbita,15,102757,26624,20,105,53,27,32,21,55,33,2,19
+Kenya,Homa Bay,Mbita,20,102757,12711,17,104,53,24,32,20,54,32,2,18
+Kenya,Homa Bay,Mbita,25,102757,11563,17,104,52,23,32,20,54,31,2,18
+Kenya,Homa Bay,Mbita,30,102757,9381,16,103,52,22,31,20,54,29,1,17
+Kenya,Homa Bay,Mbita,50,102757,2681,8,50,24,10,13,9,19,12,0,7
+Kenya,Homa Bay,Mbita,75,102757,161,0,4,1,0,2,0,1,0,0,1
+Kenya,Homa Bay,Ndhiwa,0,69600,69600,44,1,4,8,17,9,74,8,8,9
+Kenya,Homa Bay,Ndhiwa,10,69600,68742,44,1,4,8,17,9,73,8,8,9
+Kenya,Homa Bay,Ndhiwa,15,69600,65782,42,1,4,8,17,9,73,8,7,9
+Kenya,Homa Bay,Ndhiwa,20,69600,33505,22,1,4,6,16,8,64,4,6,8
+Kenya,Homa Bay,Ndhiwa,25,69600,28885,19,1,3,6,15,7,63,4,5,7
+Kenya,Homa Bay,Ndhiwa,30,69600,14189,7,1,2,5,14,6,55,3,2,6
+Kenya,Homa Bay,Ndhiwa,50,69600,858,1,0,1,2,5,2,22,1,1,2
+Kenya,Homa Bay,Ndhiwa,75,69600,74,0,0,0,0,0,0,2,0,0,0
+Kenya,Homa Bay,Rangwe,0,29069,29069,12,0,2,9,13,0,8,9,6,13
+Kenya,Homa Bay,Rangwe,10,29069,24609,12,0,2,9,13,0,8,9,6,13
+Kenya,Homa Bay,Rangwe,15,29069,15383,8,0,1,8,11,0,8,8,6,11
+Kenya,Homa Bay,Rangwe,20,29069,3215,2,0,1,3,4,0,6,5,1,4
+Kenya,Homa Bay,Rangwe,25,29069,2593,2,0,0,2,4,0,6,5,1,3
+Kenya,Homa Bay,Rangwe,30,29069,1286,1,0,0,1,3,0,4,3,0,2
+Kenya,Homa Bay,Rangwe,50,29069,72,0,0,0,0,0,0,1,0,0,0
+Kenya,Homa Bay,Rangwe,75,29069,7,0,0,0,0,0,0,0,0,0,0
+Kenya,Homa Bay,Suba,0,114260,114260,49,50,22,12,67,54,376,24,2,50
+Kenya,Homa Bay,Suba,10,114260,52364,48,50,22,12,67,54,375,24,2,50
+Kenya,Homa Bay,Suba,15,114260,45086,42,49,21,12,67,54,375,24,2,50
+Kenya,Homa Bay,Suba,20,114260,22828,35,49,18,12,67,52,364,21,2,47
+Kenya,Homa Bay,Suba,25,114260,20649,34,49,17,12,67,52,360,21,1,47
+Kenya,Homa Bay,Suba,30,114260,15990,32,48,14,11,65,50,342,20,1,43
+Kenya,Homa Bay,Suba,50,114260,4567,15,36,4,7,41,24,126,8,1,20
+Kenya,Homa Bay,Suba,75,114260,1868,7,29,1,5,22,9,49,5,0,6
+Kenya,Homa Bay,unknown 6,0,12401,12401,2,0,0,5,0,0,0,0,0,0
+Kenya,Homa Bay,unknown 6,10,12401,4826,2,0,0,5,0,0,0,0,0,0
+Kenya,Homa Bay,unknown 6,15,12401,3132,1,0,0,5,0,0,0,0,0,0
+Kenya,Homa Bay,unknown 6,20,12401,488,0,0,0,4,0,0,0,0,0,0
+Kenya,Homa Bay,unknown 6,25,12401,431,0,0,0,4,0,0,0,0,0,0
+Kenya,Homa Bay,unknown 6,30,12401,316,0,0,0,4,0,0,0,0,0,0
+Kenya,Homa Bay,unknown 6,50,12401,98,0,0,0,0,0,0,0,0,0,0
+Kenya,Homa Bay,unknown 6,75,12401,37,0,0,0,0,0,0,0,0,0,0
+Kenya,Isiolo,Isiolo North,0,1536179,1536179,38,2,0,6,0,2,2,0,1,1
+Kenya,Isiolo,Isiolo North,10,1536179,7557,0,0,0,2,0,1,0,0,1,0
+Kenya,Isiolo,Isiolo North,15,1536179,3143,0,0,0,1,0,1,0,0,1,0
+Kenya,Isiolo,Isiolo North,20,1536179,398,0,0,0,0,0,0,0,0,0,0
+Kenya,Isiolo,Isiolo North,25,1536179,261,0,0,0,0,0,0,0,0,0,0
+Kenya,Isiolo,Isiolo North,30,1536179,117,0,0,0,0,0,0,0,0,0,0
+Kenya,Isiolo,Isiolo North,50,1536179,20,0,0,0,0,0,0,0,0,0,0
+Kenya,Isiolo,Isiolo North,75,1536179,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Isiolo,Isiolo South,0,1007753,1007753,6,1,0,12,0,7,21,8,4,6
+Kenya,Isiolo,Isiolo South,10,1007753,2825,0,0,0,2,0,2,1,2,3,3
+Kenya,Isiolo,Isiolo South,15,1007753,591,0,0,0,0,0,1,0,1,2,2
+Kenya,Isiolo,Isiolo South,20,1007753,15,0,0,0,0,0,0,0,0,0,0
+Kenya,Isiolo,Isiolo South,25,1007753,8,0,0,0,0,0,0,0,0,0,0
+Kenya,Isiolo,Isiolo South,30,1007753,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Isiolo,Isiolo South,50,1007753,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Isiolo,Isiolo South,75,1007753,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Kajiado,Kajiado Central,0,431454,431454,33,2,2,32,12,1,12,1,5,2
+Kenya,Kajiado,Kajiado Central,10,431454,46021,15,2,1,25,8,1,8,0,5,1
+Kenya,Kajiado,Kajiado Central,15,431454,24395,11,1,1,15,5,1,3,0,3,0
+Kenya,Kajiado,Kajiado Central,20,431454,11807,6,0,1,2,1,0,2,0,1,0
+Kenya,Kajiado,Kajiado Central,25,431454,10900,6,0,0,1,1,0,1,0,1,0
+Kenya,Kajiado,Kajiado Central,30,431454,9180,4,0,0,0,1,0,0,0,0,0
+Kenya,Kajiado,Kajiado Central,50,431454,6643,2,0,0,0,0,0,0,0,0,0
+Kenya,Kajiado,Kajiado Central,75,431454,4251,0,0,0,0,0,0,0,0,0,0
+Kenya,Kajiado,Kajiado East,0,326868,326868,5,1,4,5,8,1,5,2,2,8
+Kenya,Kajiado,Kajiado East,10,326868,14842,2,1,3,1,4,0,3,1,1,8
+Kenya,Kajiado,Kajiado East,15,326868,7018,2,1,2,1,3,0,2,1,0,7
+Kenya,Kajiado,Kajiado East,20,326868,2604,2,1,2,0,0,0,2,0,0,3
+Kenya,Kajiado,Kajiado East,25,326868,2345,2,1,2,0,0,0,2,0,0,3
+Kenya,Kajiado,Kajiado East,30,326868,1700,2,1,1,0,0,0,2,0,0,2
+Kenya,Kajiado,Kajiado East,50,326868,536,1,1,1,0,0,0,2,0,0,0
+Kenya,Kajiado,Kajiado East,75,326868,36,0,0,0,0,0,0,0,0,0,0
+Kenya,Kajiado,Kajiado North,0,11235,11235,4,2,5,26,31,18,2,1,3,10
+Kenya,Kajiado,Kajiado North,10,11235,3875,2,2,5,26,30,12,1,1,2,9
+Kenya,Kajiado,Kajiado North,15,11235,2528,2,2,5,26,30,9,1,0,1,9
+Kenya,Kajiado,Kajiado North,20,11235,1423,1,1,5,26,28,7,0,0,0,9
+Kenya,Kajiado,Kajiado North,25,11235,1320,1,1,4,26,28,6,0,0,0,8
+Kenya,Kajiado,Kajiado North,30,11235,1055,1,1,4,25,25,6,0,0,0,8
+Kenya,Kajiado,Kajiado North,50,11235,432,0,0,1,10,2,1,0,0,0,3
+Kenya,Kajiado,Kajiado North,75,11235,55,0,0,0,0,0,0,0,0,0,0
+Kenya,Kajiado,Kajiado South,0,635768,635768,60,17,60,15,2,2,3,3,0,14
+Kenya,Kajiado,Kajiado South,10,635768,33645,58,17,60,13,2,2,1,2,0,10
+Kenya,Kajiado,Kajiado South,15,635768,22555,56,17,60,12,2,2,1,2,0,9
+Kenya,Kajiado,Kajiado South,20,635768,8784,55,16,59,12,2,1,1,2,0,9
+Kenya,Kajiado,Kajiado South,25,635768,7186,55,16,58,12,2,1,1,2,0,9
+Kenya,Kajiado,Kajiado South,30,635768,5070,54,16,56,12,2,1,0,1,0,9
+Kenya,Kajiado,Kajiado South,50,635768,1819,50,14,40,10,1,1,0,0,0,4
+Kenya,Kajiado,Kajiado South,75,635768,1009,3,1,8,0,0,0,0,0,0,0
+Kenya,Kajiado,Kajiado West,0,794042,794042,99,11,76,111,13,14,5,10,11,66
+Kenya,Kajiado,Kajiado West,10,794042,26253,74,11,75,59,8,10,2,6,6,5
+Kenya,Kajiado,Kajiado West,15,794042,14803,48,10,74,43,7,8,2,5,4,2
+Kenya,Kajiado,Kajiado West,20,794042,5142,14,8,64,24,5,5,1,1,2,0
+Kenya,Kajiado,Kajiado West,25,794042,4129,11,8,62,22,5,5,1,1,1,0
+Kenya,Kajiado,Kajiado West,30,794042,2463,5,4,39,16,4,4,1,1,1,0
+Kenya,Kajiado,Kajiado West,50,794042,580,0,1,6,1,1,0,0,0,0,0
+Kenya,Kajiado,Kajiado West,75,794042,141,0,0,0,0,1,0,0,0,0,0
+Kenya,Kakamega,Butere,0,20926,20926,20,12,10,12,9,6,6,14,18,8
+Kenya,Kakamega,Butere,10,20926,20127,19,12,10,12,9,6,6,14,18,8
+Kenya,Kakamega,Butere,15,20926,15225,16,10,7,11,8,5,5,12,16,6
+Kenya,Kakamega,Butere,20,20926,4719,5,4,1,4,3,3,3,4,5,3
+Kenya,Kakamega,Butere,25,20926,3718,3,3,1,3,3,3,3,3,4,2
+Kenya,Kakamega,Butere,30,20926,1687,1,1,0,2,1,2,2,1,2,1
+Kenya,Kakamega,Butere,50,20926,86,0,0,0,0,0,0,0,0,0,0
+Kenya,Kakamega,Butere,75,20926,3,0,0,0,0,0,0,0,0,0,0
+Kenya,Kakamega,Ikolomani,0,14385,14385,6,8,18,27,5,19,19,19,20,14
+Kenya,Kakamega,Ikolomani,10,14385,13954,6,8,17,26,5,18,18,19,19,14
+Kenya,Kakamega,Ikolomani,15,14385,10346,5,6,11,21,4,16,16,15,16,12
+Kenya,Kakamega,Ikolomani,20,14385,3806,2,4,7,14,3,12,10,9,11,6
+Kenya,Kakamega,Ikolomani,25,14385,3334,2,4,6,13,3,11,10,8,10,5
+Kenya,Kakamega,Ikolomani,30,14385,2052,1,3,6,11,3,10,9,6,8,4
+Kenya,Kakamega,Ikolomani,50,14385,259,0,1,1,3,1,2,3,1,2,1
+Kenya,Kakamega,Ikolomani,75,14385,57,0,0,0,0,0,0,0,0,0,0
+Kenya,Kakamega,Khwisero,0,14446,14446,2,0,6,3,0,11,13,8,10,8
+Kenya,Kakamega,Khwisero,10,14446,14073,2,0,6,3,0,11,13,8,9,8
+Kenya,Kakamega,Khwisero,15,14446,10949,2,0,5,3,0,10,12,7,8,7
+Kenya,Kakamega,Khwisero,20,14446,3768,1,0,2,2,0,6,7,5,3,3
+Kenya,Kakamega,Khwisero,25,14446,3190,1,0,2,2,0,6,6,4,2,3
+Kenya,Kakamega,Khwisero,30,14446,1695,1,0,1,2,0,4,4,3,2,2
+Kenya,Kakamega,Khwisero,50,14446,98,0,0,0,0,0,1,1,0,0,0
+Kenya,Kakamega,Khwisero,75,14446,12,0,0,0,0,0,0,0,0,0,0
+Kenya,Kakamega,Lugari,0,10181,10181,9,4,4,22,4,4,4,4,6,4
+Kenya,Kakamega,Lugari,10,10181,9393,8,4,4,21,4,3,4,4,5,4
+Kenya,Kakamega,Lugari,15,10181,5058,4,2,3,16,3,2,2,1,3,2
+Kenya,Kakamega,Lugari,20,10181,696,0,1,1,13,1,1,1,0,2,1
+Kenya,Kakamega,Lugari,25,10181,535,0,0,0,13,1,1,0,0,1,1
+Kenya,Kakamega,Lugari,30,10181,387,0,0,0,11,1,1,0,0,1,1
+Kenya,Kakamega,Lugari,50,10181,24,0,0,0,5,0,0,0,0,0,0
+Kenya,Kakamega,Lugari,75,10181,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Kakamega,Lurambi,0,16167,16167,17,18,15,31,44,24,15,15,17,8
+Kenya,Kakamega,Lurambi,10,16167,15645,16,17,15,30,43,23,15,14,17,8
+Kenya,Kakamega,Lurambi,15,16167,12076,13,13,11,26,42,20,15,13,16,7
+Kenya,Kakamega,Lurambi,20,16167,3647,4,6,4,11,38,13,11,8,10,3
+Kenya,Kakamega,Lurambi,25,16167,3040,3,5,3,10,37,12,11,7,8,3
+Kenya,Kakamega,Lurambi,30,16167,1921,2,3,1,8,36,10,10,6,5,1
+Kenya,Kakamega,Lurambi,50,16167,385,0,1,0,3,20,5,7,3,0,0
+Kenya,Kakamega,Lurambi,75,16167,227,0,0,0,0,2,3,6,3,0,0
+Kenya,Kakamega,Malava,0,42285,42285,66,38,46,122,44,24,14,24,15,15
+Kenya,Kakamega,Malava,10,42285,39007,60,35,42,115,42,20,13,23,13,14
+Kenya,Kakamega,Malava,15,42285,22934,37,20,30,85,35,14,9,19,11,10
+Kenya,Kakamega,Malava,20,42285,5293,11,6,18,33,19,8,5,6,3,4
+Kenya,Kakamega,Malava,25,42285,4606,9,6,17,30,18,8,4,6,2,4
+Kenya,Kakamega,Malava,30,42285,3142,6,5,16,22,13,6,4,3,2,4
+Kenya,Kakamega,Malava,50,42285,976,2,2,10,5,6,1,2,1,0,0
+Kenya,Kakamega,Malava,75,42285,645,1,0,7,2,3,0,2,0,0,0
+Kenya,Kakamega,Matungu,0,27705,27705,70,10,16,10,7,7,12,20,8,13
+Kenya,Kakamega,Matungu,10,27705,26874,66,10,15,10,7,7,12,19,8,13
+Kenya,Kakamega,Matungu,15,27705,18734,50,8,12,6,6,6,6,15,6,9
+Kenya,Kakamega,Matungu,20,27705,2702,6,1,2,0,0,1,1,2,0,2
+Kenya,Kakamega,Matungu,25,27705,1984,3,1,1,0,0,1,0,2,0,1
+Kenya,Kakamega,Matungu,30,27705,1038,0,0,0,0,0,0,0,1,0,1
+Kenya,Kakamega,Matungu,50,27705,269,0,0,0,0,0,0,0,0,0,1
+Kenya,Kakamega,Matungu,75,27705,4,0,0,0,0,0,0,0,0,0,0
+Kenya,Kakamega,Mumias East,0,17507,17507,61,18,11,17,2,16,7,5,12,58
+Kenya,Kakamega,Mumias East,10,17507,16839,57,17,11,16,2,16,7,5,11,57
+Kenya,Kakamega,Mumias East,15,17507,12802,38,14,6,13,2,16,7,3,9,55
+Kenya,Kakamega,Mumias East,20,17507,2693,5,3,2,4,1,13,5,0,4,43
+Kenya,Kakamega,Mumias East,25,17507,1917,3,2,1,2,1,12,5,0,4,40
+Kenya,Kakamega,Mumias East,30,17507,960,1,0,0,1,0,12,4,0,4,34
+Kenya,Kakamega,Mumias East,50,17507,134,0,0,0,0,0,7,2,0,1,15
+Kenya,Kakamega,Mumias East,75,17507,5,0,0,0,0,0,0,0,0,0,0
+Kenya,Kakamega,Mumias West,0,13831,13831,18,8,4,3,9,2,5,5,9,13
+Kenya,Kakamega,Mumias West,10,13831,13240,18,7,4,3,9,2,5,5,9,13
+Kenya,Kakamega,Mumias West,15,13831,10276,16,6,4,3,9,2,5,4,7,13
+Kenya,Kakamega,Mumias West,20,13831,2293,3,2,1,0,5,2,3,1,2,7
+Kenya,Kakamega,Mumias West,25,13831,1608,1,1,1,0,4,2,2,1,1,6
+Kenya,Kakamega,Mumias West,30,13831,704,0,0,0,0,2,1,0,0,0,3
+Kenya,Kakamega,Mumias West,50,13831,58,0,0,0,0,0,0,0,0,0,0
+Kenya,Kakamega,Mumias West,75,13831,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Kakamega,Navakholo,0,25740,25740,60,33,20,52,41,6,11,9,11,23
+Kenya,Kakamega,Navakholo,10,25740,24614,55,31,20,48,40,6,10,9,11,21
+Kenya,Kakamega,Navakholo,15,25740,16802,37,24,19,37,38,6,7,7,9,16
+Kenya,Kakamega,Navakholo,20,25740,3164,6,7,13,13,31,4,3,2,2,10
+Kenya,Kakamega,Navakholo,25,25740,2330,2,5,13,11,31,4,2,2,2,9
+Kenya,Kakamega,Navakholo,30,25740,1326,1,2,13,9,29,4,2,1,1,9
+Kenya,Kakamega,Navakholo,50,25740,195,0,0,12,4,15,1,0,0,0,7
+Kenya,Kakamega,Navakholo,75,25740,81,0,0,10,2,12,1,0,0,0,6
+Kenya,Kakamega,Shinyalu,0,41054,41054,29,75,118,202,194,80,9,144,89,33
+Kenya,Kakamega,Shinyalu,10,41054,40411,28,74,117,201,191,79,9,140,87,31
+Kenya,Kakamega,Shinyalu,15,41054,35732,24,60,102,189,172,75,8,128,78,28
+Kenya,Kakamega,Shinyalu,20,41054,24199,11,32,74,141,126,58,7,96,53,15
+Kenya,Kakamega,Shinyalu,25,41054,23383,10,31,73,136,121,56,6,93,50,14
+Kenya,Kakamega,Shinyalu,30,41054,20996,7,27,67,123,108,51,6,85,41,10
+Kenya,Kakamega,Shinyalu,50,41054,15941,2,16,53,72,54,33,1,61,9,3
+Kenya,Kakamega,Shinyalu,75,41054,14476,0,10,43,54,33,18,1,53,3,1
+Kenya,Kericho,Ainamoi,0,24556,24556,79,19,65,60,63,60,101,28,37,
+Kenya,Kericho,Ainamoi,10,24556,23687,79,19,65,60,63,60,101,28,36,
+Kenya,Kericho,Ainamoi,15,24556,22823,78,19,65,60,63,59,101,27,36,
+Kenya,Kericho,Ainamoi,20,24556,17489,76,18,62,56,57,56,98,24,31,
+Kenya,Kericho,Ainamoi,25,24556,16614,76,17,61,55,56,55,97,22,30,
+Kenya,Kericho,Ainamoi,30,24556,12850,73,16,58,52,52,53,93,20,27,
+Kenya,Kericho,Ainamoi,50,24556,2554,45,6,26,15,22,25,59,8,10,
+Kenya,Kericho,Ainamoi,75,24556,729,6,2,6,2,3,10,23,2,3,
+Kenya,Kericho,Belgut,0,44523,44523,131,182,136,183,268,253,338,81,81,
+Kenya,Kericho,Belgut,10,44523,44278,131,182,136,183,267,253,337,81,80,
+Kenya,Kericho,Belgut,15,44523,44108,131,179,135,183,266,253,337,81,80,
+Kenya,Kericho,Belgut,20,44523,42704,130,169,134,181,263,251,336,80,79,
+Kenya,Kericho,Belgut,25,44523,42331,130,167,134,181,262,250,335,79,78,
+Kenya,Kericho,Belgut,30,44523,39486,129,164,131,177,255,244,332,78,76,
+Kenya,Kericho,Belgut,50,44523,24406,110,135,90,123,202,163,245,60,57,
+Kenya,Kericho,Belgut,75,44523,18348,75,88,30,69,95,63,99,31,32,
+Kenya,Kericho,Bureti,0,31589,31589,66,51,105,83,145,250,264,45,65,
+Kenya,Kericho,Bureti,10,31589,31423,66,51,104,83,145,249,263,45,65,
+Kenya,Kericho,Bureti,15,31589,31211,66,51,104,82,144,247,261,44,64,
+Kenya,Kericho,Bureti,20,31589,28565,63,50,101,78,141,235,246,39,56,
+Kenya,Kericho,Bureti,25,31589,27935,62,49,101,77,139,232,244,38,54,
+Kenya,Kericho,Bureti,30,31589,23171,57,46,98,73,129,216,229,33,46,
+Kenya,Kericho,Bureti,50,31589,4456,35,24,67,37,71,111,108,14,20,
+Kenya,Kericho,Bureti,75,31589,1175,21,11,43,18,46,47,45,7,11,
+Kenya,Kericho,Kipkelion East,0,75226,75226,1186,1399,1130,1603,554,682,257,80,116,
+Kenya,Kericho,Kipkelion East,10,75226,58276,1150,1379,1122,1533,510,669,245,69,90,
+Kenya,Kericho,Kipkelion East,15,75226,50740,1142,1356,1113,1491,469,663,237,64,82,
+Kenya,Kericho,Kipkelion East,20,75226,40985,1127,1334,1081,1428,442,642,221,54,71,
+Kenya,Kericho,Kipkelion East,25,75226,40133,1124,1331,1077,1418,439,641,219,53,70,
+Kenya,Kericho,Kipkelion East,30,75226,37428,1120,1322,1056,1390,428,636,213,50,67,
+Kenya,Kericho,Kipkelion East,50,75226,31617,1085,1277,971,1237,368,599,183,34,53,
+Kenya,Kericho,Kipkelion East,75,75226,27019,970,1192,852,1087,261,538,143,16,19,
+Kenya,Kericho,Kipkelion West,0,35284,35284,39,87,85,90,34,17,42,12,94,
+Kenya,Kericho,Kipkelion West,10,35284,29099,35,46,34,65,30,16,40,11,33,
+Kenya,Kericho,Kipkelion West,15,35284,24095,32,29,22,49,28,15,36,10,24,
+Kenya,Kericho,Kipkelion West,20,35284,14841,24,22,14,34,24,15,34,8,17,
+Kenya,Kericho,Kipkelion West,25,35284,13639,23,21,14,32,24,15,34,8,16,
+Kenya,Kericho,Kipkelion West,30,35284,11017,18,18,12,28,23,14,32,7,15,
+Kenya,Kericho,Kipkelion West,50,35284,3169,7,4,3,14,12,13,23,4,7,
+Kenya,Kericho,Kipkelion West,75,35284,1982,2,0,1,10,4,12,19,3,6,
+Kenya,Kericho,Sigowet/Soin,0,46448,46448,163,1,96,105,83,31,69,94,74,
+Kenya,Kericho,Sigowet/Soin,10,46448,45845,161,1,96,104,83,31,69,94,74,
+Kenya,Kericho,Sigowet/Soin,15,46448,42215,138,1,94,101,81,30,68,94,74,
+Kenya,Kericho,Sigowet/Soin,20,46448,25874,57,1,70,74,69,27,62,85,65,
+Kenya,Kericho,Sigowet/Soin,25,46448,22951,46,1,64,70,66,27,61,82,63,
+Kenya,Kericho,Sigowet/Soin,30,46448,17277,28,0,54,59,59,25,57,77,58,
+Kenya,Kericho,Sigowet/Soin,50,46448,2802,5,0,24,16,21,9,18,16,14,
+Kenya,Kericho,Sigowet/Soin,75,46448,586,0,0,1,1,1,2,1,1,1,
+Kenya,Kiambu,Gatundu North,0,24302,24302,46,55,94,152,145,191,184,23,28,37
+Kenya,Kiambu,Gatundu North,10,24302,23011,46,54,94,151,143,189,179,22,27,37
+Kenya,Kiambu,Gatundu North,15,24302,21180,45,53,92,149,138,181,165,21,27,37
+Kenya,Kiambu,Gatundu North,20,24302,15709,39,50,87,140,118,148,124,17,24,31
+Kenya,Kiambu,Gatundu North,25,24302,14884,38,49,86,140,115,144,118,16,23,31
+Kenya,Kiambu,Gatundu North,30,24302,12960,35,48,83,129,98,123,98,14,22,27
+Kenya,Kiambu,Gatundu North,50,24302,7854,24,37,68,95,47,63,41,6,10,13
+Kenya,Kiambu,Gatundu North,75,24302,5653,7,29,22,20,7,9,12,1,2,4
+Kenya,Kiambu,Gatundu South,0,21325,21325,62,37,37,33,49,61,140,17,12,18
+Kenya,Kiambu,Gatundu South,10,21325,20415,61,36,37,33,48,60,139,17,12,18
+Kenya,Kiambu,Gatundu South,15,21325,18491,60,34,37,32,46,58,135,16,12,17
+Kenya,Kiambu,Gatundu South,20,21325,13253,55,30,33,29,38,49,114,14,10,15
+Kenya,Kiambu,Gatundu South,25,21325,12396,53,29,33,28,37,48,110,13,10,15
+Kenya,Kiambu,Gatundu South,30,21325,10351,50,27,30,26,32,41,92,11,9,13
+Kenya,Kiambu,Gatundu South,50,21325,4693,35,17,19,19,16,15,35,4,5,6
+Kenya,Kiambu,Gatundu South,75,21325,2888,13,8,11,2,4,2,10,1,1,1
+Kenya,Kiambu,Githunguri,0,18362,18362,27,12,33,32,46,63,120,35,34,25
+Kenya,Kiambu,Githunguri,10,18362,17220,27,12,33,31,45,62,119,32,32,24
+Kenya,Kiambu,Githunguri,15,18362,14594,23,11,31,31,43,61,114,30,30,22
+Kenya,Kiambu,Githunguri,20,18362,8285,14,9,27,28,35,49,92,25,27,17
+Kenya,Kiambu,Githunguri,25,18362,7458,13,8,26,28,33,47,87,24,26,16
+Kenya,Kiambu,Githunguri,30,18362,5568,10,7,24,24,28,40,75,20,22,13
+Kenya,Kiambu,Githunguri,50,18362,1300,4,2,14,10,11,18,28,8,10,5
+Kenya,Kiambu,Githunguri,75,18362,250,1,0,5,3,3,4,4,1,2,1
+Kenya,Kiambu,Juja,0,33518,33518,16,2,16,16,23,48,76,14,32,17
+Kenya,Kiambu,Juja,10,33518,10732,15,2,15,16,22,44,72,12,29,15
+Kenya,Kiambu,Juja,15,33518,7114,13,2,15,16,21,42,68,9,21,13
+Kenya,Kiambu,Juja,20,33518,2498,8,1,10,12,6,26,39,4,3,7
+Kenya,Kiambu,Juja,25,33518,2103,7,0,10,11,4,25,29,3,3,6
+Kenya,Kiambu,Juja,30,33518,1413,6,0,5,5,3,20,25,2,2,2
+Kenya,Kiambu,Juja,50,33518,358,1,0,1,1,1,6,3,0,0,0
+Kenya,Kiambu,Juja,75,33518,42,0,0,0,0,0,0,0,0,0,0
+Kenya,Kiambu,Kabete,0,5893,5893,7,3,8,3,18,17,13,11,5,5
+Kenya,Kiambu,Kabete,10,5893,4446,6,3,8,3,18,17,12,10,5,5
+Kenya,Kiambu,Kabete,15,5893,2920,6,3,7,2,16,15,10,8,4,5
+Kenya,Kiambu,Kabete,20,5893,1014,4,3,5,1,13,11,7,5,3,4
+Kenya,Kiambu,Kabete,25,5893,880,4,2,5,1,12,11,6,5,3,3
+Kenya,Kiambu,Kabete,30,5893,547,4,2,4,1,9,9,6,4,3,3
+Kenya,Kiambu,Kabete,50,5893,156,1,1,2,1,2,4,2,1,2,1
+Kenya,Kiambu,Kabete,75,5893,14,0,0,0,0,0,1,0,0,1,0
+Kenya,Kiambu,Kiambaa,0,7922,7922,15,12,19,4,29,106,46,5,16,6
+Kenya,Kiambu,Kiambaa,10,7922,6775,14,12,19,4,29,105,44,4,16,6
+Kenya,Kiambu,Kiambaa,15,7922,5600,14,10,19,3,29,104,42,4,14,6
+Kenya,Kiambu,Kiambaa,20,7922,3031,9,9,16,2,21,89,28,3,11,5
+Kenya,Kiambu,Kiambaa,25,7922,2688,7,8,16,2,21,87,26,2,11,5
+Kenya,Kiambu,Kiambaa,30,7922,2033,6,7,14,2,19,78,24,2,10,4
+Kenya,Kiambu,Kiambaa,50,7922,596,2,1,5,1,9,20,8,1,3,1
+Kenya,Kiambu,Kiambaa,75,7922,95,0,0,1,0,1,1,1,0,0,0
+Kenya,Kiambu,Kiambu,0,10579,10579,8,11,15,4,17,37,29,3,2,2
+Kenya,Kiambu,Kiambu,10,10579,8381,7,10,15,4,16,34,29,3,2,2
+Kenya,Kiambu,Kiambu,15,10579,6204,6,9,15,4,13,29,28,2,1,2
+Kenya,Kiambu,Kiambu,20,10579,2039,5,7,4,2,9,17,17,1,1,1
+Kenya,Kiambu,Kiambu,25,10579,1587,5,6,4,2,7,14,13,1,1,1
+Kenya,Kiambu,Kiambu,30,10579,1005,4,6,3,2,6,9,7,1,0,1
+Kenya,Kiambu,Kiambu,50,10579,195,1,3,1,1,2,2,1,0,0,0
+Kenya,Kiambu,Kiambu,75,10579,22,0,1,0,0,0,1,0,0,0,0
+Kenya,Kiambu,Kikuyu,0,17172,17172,77,106,71,41,35,51,43,45,29,19
+Kenya,Kiambu,Kikuyu,10,17172,5483,64,92,62,30,30,36,28,16,9,8
+Kenya,Kiambu,Kikuyu,15,17172,3358,61,84,54,26,25,30,21,11,8,5
+Kenya,Kiambu,Kikuyu,20,17172,1406,52,66,33,21,19,20,10,4,5,2
+Kenya,Kiambu,Kikuyu,25,17172,1270,50,64,31,21,18,19,8,4,4,1
+Kenya,Kiambu,Kikuyu,30,17172,937,46,53,22,17,13,12,7,3,3,1
+Kenya,Kiambu,Kikuyu,50,17172,457,30,31,8,7,3,3,3,1,1,0
+Kenya,Kiambu,Kikuyu,75,17172,167,10,7,2,2,1,0,0,0,0,0
+Kenya,Kiambu,Lari,0,46603,46603,347,330,430,283,300,119,194,65,110,211
+Kenya,Kiambu,Lari,10,46603,41675,330,326,416,262,267,108,189,57,96,204
+Kenya,Kiambu,Lari,15,46603,37182,297,313,385,244,240,97,179,51,82,193
+Kenya,Kiambu,Lari,20,46603,28135,245,290,337,210,182,66,146,34,49,158
+Kenya,Kiambu,Lari,25,46603,27436,240,288,334,208,178,63,141,33,47,156
+Kenya,Kiambu,Lari,30,46603,24971,222,278,311,194,158,51,122,27,37,144
+Kenya,Kiambu,Lari,50,46603,19296,160,244,256,159,114,22,63,11,17,116
+Kenya,Kiambu,Lari,75,46603,14968,101,158,149,116,67,7,28,1,6,76
+Kenya,Kiambu,Limuru,0,28258,28258,116,100,97,104,98,228,247,175,66,66
+Kenya,Kiambu,Limuru,10,28258,13603,111,92,95,85,85,202,213,105,44,45
+Kenya,Kiambu,Limuru,15,28258,11028,100,87,92,77,80,194,202,93,39,42
+Kenya,Kiambu,Limuru,20,28258,7699,80,77,80,64,68,172,178,70,31,34
+Kenya,Kiambu,Limuru,25,28258,7468,79,75,79,62,66,169,176,69,30,33
+Kenya,Kiambu,Limuru,30,28258,6511,75,70,72,58,62,159,164,61,27,31
+Kenya,Kiambu,Limuru,50,28258,3834,55,43,45,42,39,83,113,41,18,22
+Kenya,Kiambu,Limuru,75,28258,1192,16,9,13,10,11,17,24,10,7,5
+Kenya,Kiambu,Ruiru,0,20321,20321,12,6,2,0,31,10,10,3,6,10
+Kenya,Kiambu,Ruiru,10,20321,3881,8,6,2,0,30,8,9,3,5,7
+Kenya,Kiambu,Ruiru,15,20321,2322,6,5,1,0,24,7,8,2,4,5
+Kenya,Kiambu,Ruiru,20,20321,598,1,1,1,0,5,2,2,0,1,2
+Kenya,Kiambu,Ruiru,25,20321,486,1,1,1,0,4,2,1,0,1,2
+Kenya,Kiambu,Ruiru,30,20321,309,0,0,1,0,3,2,1,0,1,1
+Kenya,Kiambu,Ruiru,50,20321,75,0,0,0,0,0,0,0,0,0,1
+Kenya,Kiambu,Ruiru,75,20321,11,0,0,0,0,0,0,0,0,0,0
+Kenya,Kiambu,Thika Town,0,23118,23118,43,33,1,5,19,12,52,2,22,5
+Kenya,Kiambu,Thika Town,10,23118,9616,34,7,1,5,12,8,23,2,21,4
+Kenya,Kiambu,Thika Town,15,23118,5282,27,6,1,3,10,7,20,1,13,3
+Kenya,Kiambu,Thika Town,20,23118,1761,19,4,0,2,6,3,9,0,4,1
+Kenya,Kiambu,Thika Town,25,23118,1489,18,3,0,2,5,3,6,0,4,1
+Kenya,Kiambu,Thika Town,30,23118,1014,14,2,0,1,3,1,3,0,2,0
+Kenya,Kiambu,Thika Town,50,23118,231,3,0,0,0,0,0,1,0,0,0
+Kenya,Kiambu,Thika Town,75,23118,11,0,0,0,0,0,0,0,0,0,0
+Kenya,Kilifi,Ganze,0,293720,293720,110,77,386,167,51,133,159,102,12,44
+Kenya,Kilifi,Ganze,10,293720,138246,100,77,367,165,51,133,156,91,12,44
+Kenya,Kilifi,Ganze,15,293720,66703,92,73,304,152,49,130,141,66,11,42
+Kenya,Kilifi,Ganze,20,293720,21989,65,52,161,106,38,104,99,28,5,30
+Kenya,Kilifi,Ganze,25,293720,16498,57,46,133,94,36,95,85,22,4,26
+Kenya,Kilifi,Ganze,30,293720,12360,51,40,110,82,33,86,73,19,3,23
+Kenya,Kilifi,Ganze,50,293720,3027,24,15,32,39,18,44,33,6,2,8
+Kenya,Kilifi,Ganze,75,293720,167,2,2,2,4,3,3,3,0,1,0
+Kenya,Kilifi,Kaloleni,0,70080,70080,99,5,106,275,31,32,49,120,7,20
+Kenya,Kilifi,Kaloleni,10,70080,29894,93,5,103,269,31,32,49,115,7,20
+Kenya,Kilifi,Kaloleni,15,70080,14582,87,4,90,230,30,31,46,103,6,19
+Kenya,Kilifi,Kaloleni,20,70080,4839,73,4,55,116,27,27,34,67,5,16
+Kenya,Kilifi,Kaloleni,25,70080,4011,68,3,46,97,27,26,31,59,5,16
+Kenya,Kilifi,Kaloleni,30,70080,3187,64,3,40,79,25,25,30,52,4,15
+Kenya,Kilifi,Kaloleni,50,70080,1219,39,2,16,30,18,14,18,22,3,12
+Kenya,Kilifi,Kaloleni,75,70080,175,4,0,2,4,5,1,4,3,0,5
+Kenya,Kilifi,Kilifi North,0,82838,82838,859,263,347,242,462,475,379,409,127,200
+Kenya,Kilifi,Kilifi North,10,82838,74136,850,261,342,238,456,471,373,392,126,198
+Kenya,Kilifi,Kilifi North,15,82838,61659,795,238,308,222,416,439,335,310,114,188
+Kenya,Kilifi,Kilifi North,20,82838,44421,564,151,205,142,252,330,200,149,76,133
+Kenya,Kilifi,Kilifi North,25,82838,42138,513,134,182,124,223,305,174,121,69,119
+Kenya,Kilifi,Kilifi North,30,82838,39854,475,121,156,108,198,284,153,103,61,109
+Kenya,Kilifi,Kilifi North,50,82838,31367,304,62,68,48,100,197,94,35,29,54
+Kenya,Kilifi,Kilifi North,75,82838,14319,129,16,6,8,24,94,46,4,4,17
+Kenya,Kilifi,Kilifi South,0,43433,43433,626,59,116,368,272,212,239,819,173,168
+Kenya,Kilifi,Kilifi South,10,43433,36239,619,59,115,366,271,212,233,807,169,166
+Kenya,Kilifi,Kilifi South,15,43433,27048,591,56,105,349,256,205,218,705,159,161
+Kenya,Kilifi,Kilifi South,20,43433,15395,435,40,62,252,163,141,149,402,109,130
+Kenya,Kilifi,Kilifi South,25,43433,13493,395,33,52,223,141,128,133,340,97,119
+Kenya,Kilifi,Kilifi South,30,43433,11848,364,31,45,195,125,109,116,286,85,112
+Kenya,Kilifi,Kilifi South,50,43433,5417,198,16,17,83,58,53,53,97,35,64
+Kenya,Kilifi,Kilifi South,75,43433,773,24,5,1,6,10,5,9,7,4,13
+Kenya,Kilifi,Magarini,0,693912,693912,1499,1090,1646,1427,779,959,625,2540,641,570
+Kenya,Kilifi,Magarini,10,693912,395018,1402,1075,1623,1390,776,944,606,2436,638,565
+Kenya,Kilifi,Magarini,15,693912,263516,1253,1025,1489,1321,766,910,574,1947,616,545
+Kenya,Kilifi,Magarini,20,693912,109553,859,788,1081,1026,692,802,468,1087,508,423
+Kenya,Kilifi,Magarini,25,693912,90220,779,739,990,947,666,761,432,944,475,384
+Kenya,Kilifi,Magarini,30,693912,70772,672,659,865,840,623,708,395,782,430,333
+Kenya,Kilifi,Magarini,50,693912,19970,266,245,315,349,317,318,180,233,149,133
+Kenya,Kilifi,Magarini,75,693912,2091,4,1,1,6,18,9,2,1,1,7
+Kenya,Kilifi,Malindi,0,61153,61153,179,64,127,97,16,118,72,69,10,36
+Kenya,Kilifi,Malindi,10,61153,42263,161,62,124,92,16,104,57,65,9,34
+Kenya,Kilifi,Malindi,15,61153,29590,137,57,107,87,14,100,52,54,9,31
+Kenya,Kilifi,Malindi,20,61153,20914,90,45,61,61,8,85,38,28,5,21
+Kenya,Kilifi,Malindi,25,61153,19823,82,41,53,54,6,82,35,23,5,19
+Kenya,Kilifi,Malindi,30,61153,18787,73,37,43,49,6,78,32,18,5,18
+Kenya,Kilifi,Malindi,50,61153,15517,39,18,17,21,4,70,20,6,2,9
+Kenya,Kilifi,Malindi,75,61153,4083,15,1,1,2,1,18,2,0,0,3
+Kenya,Kilifi,Rabai,0,20053,20053,100,4,13,188,39,20,27,69,3,25
+Kenya,Kilifi,Rabai,10,20053,15180,100,4,13,181,39,19,27,67,3,24
+Kenya,Kilifi,Rabai,15,20053,9208,98,4,10,143,35,17,25,58,2,22
+Kenya,Kilifi,Rabai,20,20053,4476,88,3,4,60,25,12,20,27,2,17
+Kenya,Kilifi,Rabai,25,20053,3942,84,2,4,51,23,11,19,23,2,16
+Kenya,Kilifi,Rabai,30,20053,3365,80,2,4,40,20,10,17,18,2,15
+Kenya,Kilifi,Rabai,50,20053,1557,48,1,2,14,9,7,13,6,1,9
+Kenya,Kilifi,Rabai,75,20053,257,6,0,0,1,2,1,7,0,0,3
+Kenya,Kirinyaga,Gichugu,0,46920,46920,60,53,130,112,49,45,35,8,9,14
+Kenya,Kirinyaga,Gichugu,10,46920,42011,55,53,130,111,48,43,34,7,7,13
+Kenya,Kirinyaga,Gichugu,15,46920,38751,42,52,128,110,48,41,32,6,6,12
+Kenya,Kirinyaga,Gichugu,20,46920,29897,22,47,120,101,45,34,18,4,3,7
+Kenya,Kirinyaga,Gichugu,25,46920,28691,20,47,119,100,45,33,15,4,2,7
+Kenya,Kirinyaga,Gichugu,30,46920,26733,17,45,112,95,44,31,13,3,2,6
+Kenya,Kirinyaga,Gichugu,50,46920,21873,9,39,90,82,40,24,6,0,1,3
+Kenya,Kirinyaga,Gichugu,75,46920,17068,3,28,37,61,38,21,4,0,0,1
+Kenya,Kirinyaga,Kirinyaga Central,0,23729,23729,20,22,19,29,35,55,45,5,3,6
+Kenya,Kirinyaga,Kirinyaga Central,10,23729,18956,20,20,19,28,35,54,44,5,2,6
+Kenya,Kirinyaga,Kirinyaga Central,15,23729,18178,18,15,18,28,35,54,44,5,2,6
+Kenya,Kirinyaga,Kirinyaga Central,20,23729,13593,15,12,16,25,33,51,42,4,1,3
+Kenya,Kirinyaga,Kirinyaga Central,25,23729,13030,13,12,16,25,32,50,41,4,1,3
+Kenya,Kirinyaga,Kirinyaga Central,30,23729,11524,10,10,15,22,31,47,39,4,0,3
+Kenya,Kirinyaga,Kirinyaga Central,50,23729,7927,4,9,8,9,15,18,17,2,0,0
+Kenya,Kirinyaga,Kirinyaga Central,75,23729,5302,1,1,2,1,3,1,5,0,0,0
+Kenya,Kirinyaga,Mwea,0,54808,54808,4,2,5,9,2,1,12,1,3,11
+Kenya,Kirinyaga,Mwea,10,54808,13174,1,1,2,4,1,0,5,0,1,5
+Kenya,Kirinyaga,Mwea,15,54808,6474,1,1,2,3,1,0,3,0,1,2
+Kenya,Kirinyaga,Mwea,20,54808,1300,0,0,1,1,0,0,1,0,0,1
+Kenya,Kirinyaga,Mwea,25,54808,850,0,0,1,1,0,0,1,0,0,1
+Kenya,Kirinyaga,Mwea,30,54808,298,0,0,0,0,0,0,1,0,0,0
+Kenya,Kirinyaga,Mwea,50,54808,35,0,0,0,0,0,0,0,0,0,0
+Kenya,Kirinyaga,Mwea,75,54808,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Kirinyaga,Ndia,0,22978,22978,5,2,15,19,13,18,30,10,6,10
+Kenya,Kirinyaga,Ndia,10,22978,15554,3,2,14,18,12,18,27,9,5,9
+Kenya,Kirinyaga,Ndia,15,22978,13140,2,2,12,16,12,17,25,7,4,8
+Kenya,Kirinyaga,Ndia,20,22978,7426,2,1,8,13,8,14,19,4,3,5
+Kenya,Kirinyaga,Ndia,25,22978,6828,2,1,7,12,7,14,18,4,3,5
+Kenya,Kirinyaga,Ndia,30,22978,5305,2,1,6,10,7,12,16,3,2,4
+Kenya,Kirinyaga,Ndia,50,22978,1816,0,0,2,3,1,2,4,1,1,1
+Kenya,Kirinyaga,Ndia,75,22978,1065,0,0,2,1,0,0,1,0,0,0
+Kenya,Kisii,Bobasi,0,24058,24058,4,0,7,9,1,57,221,24,25,29
+Kenya,Kisii,Bobasi,10,24058,23845,4,0,7,9,1,57,221,24,25,28
+Kenya,Kisii,Bobasi,15,24058,23593,4,0,7,9,1,57,220,23,25,28
+Kenya,Kisii,Bobasi,20,24058,19182,3,0,5,9,1,53,210,22,19,24
+Kenya,Kisii,Bobasi,25,24058,18085,3,0,5,9,1,52,208,21,18,23
+Kenya,Kisii,Bobasi,30,24058,11988,2,0,5,7,1,46,189,18,14,18
+Kenya,Kisii,Bobasi,50,24058,2312,1,0,2,3,0,19,98,8,5,7
+Kenya,Kisii,Bobasi,75,24058,203,0,0,0,0,0,3,10,1,0,1
+Kenya,Kisii,Bomachoge Borabu,0,11449,11449,4,0,0,9,3,33,219,8,8,8
+Kenya,Kisii,Bomachoge Borabu,10,11449,11301,4,0,0,9,3,33,219,8,8,8
+Kenya,Kisii,Bomachoge Borabu,15,11449,11167,4,0,0,8,3,32,219,8,8,8
+Kenya,Kisii,Bomachoge Borabu,20,11449,8686,3,0,0,7,2,30,208,6,5,6
+Kenya,Kisii,Bomachoge Borabu,25,11449,8272,3,0,0,7,2,30,207,6,5,6
+Kenya,Kisii,Bomachoge Borabu,30,11449,5389,2,0,0,6,1,25,182,4,3,4
+Kenya,Kisii,Bomachoge Borabu,50,11449,910,0,0,0,1,0,10,86,1,0,1
+Kenya,Kisii,Bomachoge Borabu,75,11449,48,0,0,0,0,0,2,5,0,0,0
+Kenya,Kisii,Bomachoge Chache,0,10197,10197,3,0,2,3,1,19,89,8,4,5
+Kenya,Kisii,Bomachoge Chache,10,10197,10135,3,0,2,3,1,19,89,8,4,5
+Kenya,Kisii,Bomachoge Chache,15,10197,10022,3,0,2,3,1,19,89,8,4,5
+Kenya,Kisii,Bomachoge Chache,20,10197,8282,3,0,2,3,1,18,86,8,3,5
+Kenya,Kisii,Bomachoge Chache,25,10197,7926,3,0,2,3,1,17,86,8,3,5
+Kenya,Kisii,Bomachoge Chache,30,10197,5545,2,0,2,2,1,15,78,7,3,4
+Kenya,Kisii,Bomachoge Chache,50,10197,892,0,0,1,1,0,7,37,3,0,1
+Kenya,Kisii,Bomachoge Chache,75,10197,39,0,0,0,0,0,1,2,0,0,0
+Kenya,Kisii,Bonchari,0,12669,12669,4,0,2,6,24,20,68,9,8,9
+Kenya,Kisii,Bonchari,10,12669,12606,4,0,2,6,24,19,68,9,8,9
+Kenya,Kisii,Bonchari,15,12669,12093,4,0,2,6,19,18,67,9,8,9
+Kenya,Kisii,Bonchari,20,12669,7157,2,0,2,3,8,11,59,5,5,5
+Kenya,Kisii,Bonchari,25,12669,6400,1,0,2,3,7,10,57,4,4,5
+Kenya,Kisii,Bonchari,30,12669,3392,1,0,1,2,5,9,47,3,3,3
+Kenya,Kisii,Bonchari,50,12669,183,0,0,0,0,1,2,10,1,0,0
+Kenya,Kisii,Bonchari,75,12669,14,0,0,0,0,0,0,1,0,0,0
+Kenya,Kisii,Kitutu Chache North,0,13046,13046,1,0,2,5,6,15,64,4,4,10
+Kenya,Kisii,Kitutu Chache North,10,13046,12939,1,0,2,5,5,15,64,4,4,10
+Kenya,Kisii,Kitutu Chache North,15,13046,12644,1,0,2,4,5,15,64,4,4,10
+Kenya,Kisii,Kitutu Chache North,20,13046,8910,1,0,2,3,4,15,63,4,3,6
+Kenya,Kisii,Kitutu Chache North,25,13046,8175,1,0,2,3,4,15,63,3,3,5
+Kenya,Kisii,Kitutu Chache North,30,13046,5072,0,0,2,1,3,14,60,3,3,4
+Kenya,Kisii,Kitutu Chache North,50,13046,581,0,0,1,0,1,8,33,1,1,1
+Kenya,Kisii,Kitutu Chache North,75,13046,128,0,0,0,0,0,3,11,0,0,0
+Kenya,Kisii,Kitutu Chache South,0,9760,9760,6,0,2,4,4,2,31,7,2,7
+Kenya,Kisii,Kitutu Chache South,10,9760,9676,5,0,2,4,4,2,30,7,2,7
+Kenya,Kisii,Kitutu Chache South,15,9760,9332,5,0,2,4,4,2,30,7,2,6
+Kenya,Kisii,Kitutu Chache South,20,9760,6304,4,0,1,4,1,1,27,5,2,4
+Kenya,Kisii,Kitutu Chache South,25,9760,5752,3,0,1,4,1,1,26,5,2,3
+Kenya,Kisii,Kitutu Chache South,30,9760,3256,2,0,1,3,1,1,23,4,2,2
+Kenya,Kisii,Kitutu Chache South,50,9760,205,0,0,0,0,0,0,6,0,1,0
+Kenya,Kisii,Kitutu Chache South,75,9760,22,0,0,0,0,0,0,1,0,0,0
+Kenya,Kisii,Nyaribari Chache,0,13599,13599,4,0,8,17,0,30,178,14,14,17
+Kenya,Kisii,Nyaribari Chache,10,13599,13257,3,0,8,17,0,30,178,14,14,17
+Kenya,Kisii,Nyaribari Chache,15,13599,13032,3,0,7,17,0,30,177,14,14,17
+Kenya,Kisii,Nyaribari Chache,20,13599,10886,3,0,7,15,0,30,171,13,11,15
+Kenya,Kisii,Nyaribari Chache,25,13599,10279,2,0,7,15,0,29,168,13,10,15
+Kenya,Kisii,Nyaribari Chache,30,13599,6816,1,0,6,13,0,27,155,11,7,12
+Kenya,Kisii,Nyaribari Chache,50,13599,1401,0,0,3,7,0,13,91,5,3,5
+Kenya,Kisii,Nyaribari Chache,75,13599,150,0,0,0,1,0,2,13,1,0,1
+Kenya,Kisii,Nyaribari Masaba,0,15940,15940,1,0,3,2,5,26,125,6,12,18
+Kenya,Kisii,Nyaribari Masaba,10,15940,14848,1,0,3,2,5,26,124,6,11,16
+Kenya,Kisii,Nyaribari Masaba,15,15940,13833,1,0,3,2,4,24,121,6,11,15
+Kenya,Kisii,Nyaribari Masaba,20,15940,7826,1,0,1,2,3,19,108,4,9,10
+Kenya,Kisii,Nyaribari Masaba,25,15940,7115,0,0,1,2,3,18,106,4,8,10
+Kenya,Kisii,Nyaribari Masaba,30,15940,3595,0,0,1,1,2,14,93,3,4,7
+Kenya,Kisii,Nyaribari Masaba,50,15940,713,0,0,1,1,1,6,51,2,1,3
+Kenya,Kisii,Nyaribari Masaba,75,15940,46,0,0,0,0,0,1,3,0,0,0
+Kenya,Kisii,South Mugirango,0,20776,20776,12,0,1,7,8,11,45,7,9,4
+Kenya,Kisii,South Mugirango,10,20776,20565,11,0,1,7,8,11,45,7,9,4
+Kenya,Kisii,South Mugirango,15,20776,19194,11,0,1,7,8,11,44,6,8,4
+Kenya,Kisii,South Mugirango,20,20776,8874,4,0,1,5,4,8,36,2,5,1
+Kenya,Kisii,South Mugirango,25,20776,7723,3,0,1,4,3,8,35,2,4,1
+Kenya,Kisii,South Mugirango,30,20776,3681,1,0,1,2,3,5,29,1,2,1
+Kenya,Kisii,South Mugirango,50,20776,474,0,0,0,0,1,1,7,0,1,0
+Kenya,Kisii,South Mugirango,75,20776,88,0,0,0,0,0,1,0,0,0,0
+Kenya,Kisumu,Kisumu Central,0,7180,7180,6,6,9,6,10,0,10,4,2,1
+Kenya,Kisumu,Kisumu Central,10,7180,3306,6,6,9,6,10,0,8,4,2,0
+Kenya,Kisumu,Kisumu Central,15,7180,2255,5,6,8,5,10,0,8,4,2,0
+Kenya,Kisumu,Kisumu Central,20,7180,1463,3,6,8,4,9,0,7,3,1,0
+Kenya,Kisumu,Kisumu Central,25,7180,1398,2,6,8,4,9,0,7,3,1,0
+Kenya,Kisumu,Kisumu Central,30,7180,1230,2,6,5,3,9,0,6,2,1,0
+Kenya,Kisumu,Kisumu Central,50,7180,790,0,0,0,0,1,0,1,1,0,0
+Kenya,Kisumu,Kisumu Central,75,7180,274,0,0,0,0,0,0,0,0,0,0
+Kenya,Kisumu,Kisumu East,0,16168,16168,67,0,2,9,9,0,11,2,4,2
+Kenya,Kisumu,Kisumu East,10,16168,11038,48,0,2,9,9,0,11,2,3,2
+Kenya,Kisumu,Kisumu East,15,16168,6091,10,0,2,9,9,0,10,2,1,2
+Kenya,Kisumu,Kisumu East,20,16168,2447,3,0,2,6,9,0,6,1,0,1
+Kenya,Kisumu,Kisumu East,25,16168,2219,2,0,2,6,9,0,6,1,0,1
+Kenya,Kisumu,Kisumu East,30,16168,1672,2,0,2,6,8,0,5,1,0,0
+Kenya,Kisumu,Kisumu East,50,16168,337,0,0,0,0,1,0,0,1,0,0
+Kenya,Kisumu,Kisumu East,75,16168,114,0,0,0,0,0,0,0,0,0,0
+Kenya,Kisumu,Kisumu West,0,31234,31234,17,0,8,7,3,3,24,15,8,13
+Kenya,Kisumu,Kisumu West,10,31234,21787,17,0,8,7,3,3,24,15,8,13
+Kenya,Kisumu,Kisumu West,15,31234,16533,12,0,8,7,3,3,22,15,7,10
+Kenya,Kisumu,Kisumu West,20,31234,5321,3,0,7,5,3,2,17,12,5,9
+Kenya,Kisumu,Kisumu West,25,31234,4407,2,0,6,5,2,2,16,10,5,9
+Kenya,Kisumu,Kisumu West,30,31234,2876,1,0,6,4,2,2,14,9,4,7
+Kenya,Kisumu,Kisumu West,50,31234,257,0,0,1,1,0,0,1,1,1,0
+Kenya,Kisumu,Kisumu West,75,31234,23,0,0,0,0,0,0,0,0,0,0
+Kenya,Kisumu,Muhoroni,0,66414,66414,236,25,52,57,19,7,24,35,27,50
+Kenya,Kisumu,Muhoroni,10,66414,63830,230,24,49,56,18,7,24,35,27,49
+Kenya,Kisumu,Muhoroni,15,66414,55431,205,23,45,53,18,6,24,34,25,46
+Kenya,Kisumu,Muhoroni,20,66414,20110,82,13,36,39,18,5,21,23,9,33
+Kenya,Kisumu,Muhoroni,25,66414,15525,62,11,33,37,17,5,21,22,8,31
+Kenya,Kisumu,Muhoroni,30,66414,8857,28,8,25,28,16,4,19,20,6,26
+Kenya,Kisumu,Muhoroni,50,66414,762,4,1,13,11,8,2,4,4,1,7
+Kenya,Kisumu,Muhoroni,75,66414,82,0,0,4,3,2,0,1,0,0,0
+Kenya,Kisumu,Nyakach,0,40250,40250,75,3,11,21,3,7,7,11,3,13
+Kenya,Kisumu,Nyakach,10,40250,26758,54,3,11,21,3,7,7,11,3,13
+Kenya,Kisumu,Nyakach,15,40250,17007,25,3,11,21,3,7,7,11,3,12
+Kenya,Kisumu,Nyakach,20,40250,8273,5,1,10,16,2,4,5,8,2,10
+Kenya,Kisumu,Nyakach,25,40250,7397,4,0,9,16,2,4,5,7,2,9
+Kenya,Kisumu,Nyakach,30,40250,5797,2,0,8,14,2,1,4,6,1,8
+Kenya,Kisumu,Nyakach,50,40250,2135,0,0,3,10,1,0,1,1,0,1
+Kenya,Kisumu,Nyakach,75,40250,470,0,0,0,0,0,0,0,0,0,0
+Kenya,Kisumu,Nyando,0,60329,60329,81,11,1,17,0,0,1,7,1,2
+Kenya,Kisumu,Nyando,10,60329,33430,68,11,1,17,0,0,1,7,1,2
+Kenya,Kisumu,Nyando,15,60329,19902,28,11,1,14,0,0,1,5,1,2
+Kenya,Kisumu,Nyando,20,60329,4965,5,9,1,9,0,0,1,1,0,2
+Kenya,Kisumu,Nyando,25,60329,3990,3,4,1,7,0,0,1,1,0,2
+Kenya,Kisumu,Nyando,30,60329,2864,2,0,1,5,0,0,1,0,0,2
+Kenya,Kisumu,Nyando,50,60329,982,0,0,0,2,0,0,0,0,0,0
+Kenya,Kisumu,Nyando,75,60329,279,0,0,0,0,0,0,0,0,0,0
+Kenya,Kisumu,Seme,0,44904,44904,16,0,4,18,6,0,22,8,6,16
+Kenya,Kisumu,Seme,10,44904,26592,15,0,4,18,6,0,22,8,6,16
+Kenya,Kisumu,Seme,15,44904,16093,10,0,4,17,5,0,21,8,6,15
+Kenya,Kisumu,Seme,20,44904,4904,3,0,2,14,5,0,16,5,4,10
+Kenya,Kisumu,Seme,25,44904,4144,3,0,2,13,5,0,15,5,4,9
+Kenya,Kisumu,Seme,30,44904,2736,1,0,2,11,5,0,14,4,3,6
+Kenya,Kisumu,Seme,50,44904,336,0,0,0,2,1,0,2,1,1,1
+Kenya,Kisumu,Seme,75,44904,12,0,0,0,0,0,0,0,0,0,0
+Kenya,Kitui,Kitui Central,0,52176,52176,64,5,123,151,288,141,246,81,104,71
+Kenya,Kitui,Kitui Central,10,52176,26366,63,5,122,149,284,139,237,78,103,70
+Kenya,Kitui,Kitui Central,15,52176,14183,57,4,111,133,268,129,219,68,92,64
+Kenya,Kitui,Kitui Central,20,52176,5312,37,2,60,69,176,84,147,32,52,42
+Kenya,Kitui,Kitui Central,25,52176,4721,34,2,54,65,164,77,138,30,48,40
+Kenya,Kitui,Kitui Central,30,52176,2970,23,1,36,43,114,53,93,17,30,27
+Kenya,Kitui,Kitui Central,50,52176,481,3,0,5,9,21,9,11,2,5,3
+Kenya,Kitui,Kitui Central,75,52176,31,0,0,0,1,0,1,0,0,0,0
+Kenya,Kitui,Kitui East,0,472657,472657,471,12,281,600,295,67,94,234,165,416
+Kenya,Kitui,Kitui East,10,472657,162813,360,11,276,567,284,65,87,218,154,341
+Kenya,Kitui,Kitui East,15,472657,79465,248,9,242,440,246,57,72,170,119,231
+Kenya,Kitui,Kitui East,20,472657,18010,66,5,98,143,123,24,37,52,37,58
+Kenya,Kitui,Kitui East,25,472657,15937,58,4,89,129,114,23,34,45,33,52
+Kenya,Kitui,Kitui East,30,472657,10479,35,4,51,73,74,15,20,23,18,30
+Kenya,Kitui,Kitui East,50,472657,2743,1,1,6,3,11,1,6,1,2,1
+Kenya,Kitui,Kitui East,75,472657,66,0,0,0,0,0,0,0,0,0,0
+Kenya,Kitui,Kitui Rural,0,172090,172090,4,0,10,21,25,10,10,34,13,15
+Kenya,Kitui,Kitui Rural,10,172090,32723,2,0,8,20,22,9,9,17,8,11
+Kenya,Kitui,Kitui Rural,15,172090,10080,1,0,7,16,16,7,7,8,5,6
+Kenya,Kitui,Kitui Rural,20,172090,843,1,0,3,3,4,1,1,2,1,3
+Kenya,Kitui,Kitui Rural,25,172090,629,1,0,2,3,3,0,1,1,1,2
+Kenya,Kitui,Kitui Rural,30,172090,155,0,0,1,2,1,0,0,1,0,1
+Kenya,Kitui,Kitui Rural,50,172090,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Kitui,Kitui Rural,75,172090,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Kitui,Kitui South,0,1271964,1271964,52,5,63,199,128,14,65,24,11,63
+Kenya,Kitui,Kitui South,10,1271964,178536,29,5,60,172,96,11,57,21,10,35
+Kenya,Kitui,Kitui South,15,1271964,68444,15,5,56,151,81,9,51,17,9,15
+Kenya,Kitui,Kitui South,20,1271964,8675,3,4,34,100,39,3,28,5,3,2
+Kenya,Kitui,Kitui South,25,1271964,6669,3,4,29,90,32,2,24,4,3,1
+Kenya,Kitui,Kitui South,30,1271964,3278,2,2,19,70,17,1,15,1,1,0
+Kenya,Kitui,Kitui South,50,1271964,736,0,0,0,0,0,0,4,0,0,0
+Kenya,Kitui,Kitui South,75,1271964,17,0,0,0,0,0,0,0,0,0,0
+Kenya,Kitui,Kitui West,0,64518,64518,4,0,2,10,7,2,7,2,8,2
+Kenya,Kitui,Kitui West,10,64518,4640,3,0,2,10,6,2,6,2,6,2
+Kenya,Kitui,Kitui West,15,64518,1022,1,0,2,9,6,2,4,1,4,2
+Kenya,Kitui,Kitui West,20,64518,226,1,0,1,9,5,2,0,1,2,1
+Kenya,Kitui,Kitui West,25,64518,195,1,0,1,9,5,2,0,1,1,1
+Kenya,Kitui,Kitui West,30,64518,117,0,0,1,8,4,1,0,1,1,0
+Kenya,Kitui,Kitui West,50,64518,38,0,0,1,5,2,0,0,0,0,0
+Kenya,Kitui,Kitui West,75,64518,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Kitui,Mwingi Central,0,468559,468559,977,23,74,263,182,41,110,305,88,154
+Kenya,Kitui,Mwingi Central,10,468559,93274,395,15,69,227,165,39,95,269,74,105
+Kenya,Kitui,Mwingi Central,15,468559,34551,152,8,60,164,129,33,80,197,56,57
+Kenya,Kitui,Mwingi Central,20,468559,9227,29,1,26,54,45,13,36,62,13,18
+Kenya,Kitui,Mwingi Central,25,468559,8123,25,1,23,48,40,12,33,55,11,16
+Kenya,Kitui,Mwingi Central,30,468559,5078,13,1,13,30,20,7,19,29,5,9
+Kenya,Kitui,Mwingi Central,50,468559,859,0,0,1,0,0,1,1,0,0,0
+Kenya,Kitui,Mwingi Central,75,468559,4,0,0,0,0,0,0,0,0,0,0
+Kenya,Kitui,Mwingi North,0,469760,469760,227,20,12,117,42,19,10,88,17,377
+Kenya,Kitui,Mwingi North,10,469760,58949,93,9,9,71,31,14,7,62,13,114
+Kenya,Kitui,Mwingi North,15,469760,22883,28,3,5,26,20,9,5,29,8,29
+Kenya,Kitui,Mwingi North,20,469760,12471,3,2,3,2,2,3,1,5,1,4
+Kenya,Kitui,Mwingi North,25,469760,11946,2,2,3,2,1,3,1,5,1,4
+Kenya,Kitui,Mwingi North,30,469760,10242,2,1,3,1,0,1,1,2,0,2
+Kenya,Kitui,Mwingi North,50,469760,3013,1,1,2,0,0,1,0,0,0,0
+Kenya,Kitui,Mwingi North,75,469760,75,0,0,0,0,0,0,0,0,0,0
+Kenya,Kitui,Mwingi West,0,74042,74042,95,2,37,8,55,33,34,26,14,12
+Kenya,Kitui,Mwingi West,10,74042,14490,60,1,36,8,54,31,32,24,12,9
+Kenya,Kitui,Mwingi West,15,74042,6033,37,1,33,6,47,27,27,19,11,6
+Kenya,Kitui,Mwingi West,20,74042,1292,10,0,15,2,27,15,12,7,5,2
+Kenya,Kitui,Mwingi West,25,74042,1086,9,0,14,1,24,14,11,6,4,2
+Kenya,Kitui,Mwingi West,30,74042,536,5,0,8,1,18,8,7,3,2,1
+Kenya,Kitui,Mwingi West,50,74042,14,0,0,0,0,0,1,0,0,0,0
+Kenya,Kitui,Mwingi West,75,74042,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Kwale,Kinango,0,494516,494516,272,73,95,192,18,10,40,2,2,14
+Kenya,Kwale,Kinango,10,494516,165662,208,68,92,181,18,10,38,2,2,13
+Kenya,Kwale,Kinango,15,494516,50076,146,54,81,165,17,10,32,1,2,10
+Kenya,Kwale,Kinango,20,494516,12078,88,30,53,100,15,7,23,0,1,3
+Kenya,Kwale,Kinango,25,494516,9798,78,25,46,88,14,6,20,0,1,3
+Kenya,Kwale,Kinango,30,494516,7073,60,20,38,73,11,5,15,0,1,2
+Kenya,Kwale,Kinango,50,494516,2342,28,8,6,25,6,3,3,0,0,2
+Kenya,Kwale,Kinango,75,494516,632,4,1,0,1,0,1,0,0,0,0
+Kenya,Kwale,Lungalunga,0,202494,202494,554,188,411,664,541,166,164,475,107,417
+Kenya,Kwale,Lungalunga,10,202494,139088,539,186,410,660,540,165,164,471,106,416
+Kenya,Kwale,Lungalunga,15,202494,71906,480,180,393,637,532,155,159,447,102,412
+Kenya,Kwale,Lungalunga,20,202494,31805,418,152,302,525,476,120,125,334,83,383
+Kenya,Kwale,Lungalunga,25,202494,28741,407,147,286,495,460,114,119,308,79,376
+Kenya,Kwale,Lungalunga,30,202494,24450,389,139,262,444,433,107,110,267,74,365
+Kenya,Kwale,Lungalunga,50,202494,14651,312,110,151,292,301,78,82,113,56,318
+Kenya,Kwale,Lungalunga,75,202494,7262,180,78,64,166,104,34,33,20,36,242
+Kenya,Kwale,Matuga,0,94893,94893,1152,65,299,1036,149,87,141,622,100,119
+Kenya,Kwale,Matuga,10,94893,85955,1148,64,298,1013,147,86,140,618,99,119
+Kenya,Kwale,Matuga,15,94893,68873,1133,62,278,894,142,82,138,593,96,117
+Kenya,Kwale,Matuga,20,94893,44351,1028,45,186,687,112,64,106,393,74,96
+Kenya,Kwale,Matuga,25,94893,40934,978,39,164,641,103,59,97,348,68,90
+Kenya,Kwale,Matuga,30,94893,35713,915,33,131,542,87,50,85,265,59,79
+Kenya,Kwale,Matuga,50,94893,21845,598,9,38,200,39,20,34,63,18,28
+Kenya,Kwale,Matuga,75,94893,10830,303,1,5,21,10,4,5,3,1,4
+Kenya,Kwale,Msambweni,0,46084,46084,847,116,107,913,447,210,237,280,159,473
+Kenya,Kwale,Msambweni,10,46084,43590,843,115,106,904,446,209,237,278,159,471
+Kenya,Kwale,Msambweni,15,46084,39956,822,99,101,852,440,207,233,264,155,455
+Kenya,Kwale,Msambweni,20,46084,27374,678,63,75,676,364,184,198,175,133,374
+Kenya,Kwale,Msambweni,25,46084,25167,638,57,70,633,344,176,186,154,126,354
+Kenya,Kwale,Msambweni,30,46084,21679,574,49,61,548,319,160,163,122,114,321
+Kenya,Kwale,Msambweni,50,46084,12024,349,26,36,257,199,91,89,45,67,203
+Kenya,Kwale,Msambweni,75,46084,5034,101,7,6,45,45,23,26,5,16,88
+Kenya,Laikipia,Laikipia East,0,139709,139709,46,18,5,19,7,6,27,21,48,37
+Kenya,Laikipia,Laikipia East,10,139709,22370,7,8,4,13,6,5,24,14,18,11
+Kenya,Laikipia,Laikipia East,15,139709,12183,4,7,3,10,5,4,22,8,8,7
+Kenya,Laikipia,Laikipia East,20,139709,5109,2,4,3,5,3,2,15,3,3,2
+Kenya,Laikipia,Laikipia East,25,139709,4406,2,4,3,5,2,2,13,2,2,2
+Kenya,Laikipia,Laikipia East,30,139709,3086,2,3,3,4,2,1,10,1,2,2
+Kenya,Laikipia,Laikipia East,50,139709,746,1,1,0,1,0,1,4,0,0,0
+Kenya,Laikipia,Laikipia East,75,139709,127,0,0,0,0,0,0,0,0,0,0
+Kenya,Laikipia,Laikipia North,0,529692,529692,228,41,59,143,86,129,70,171,164,256
+Kenya,Laikipia,Laikipia North,10,529692,44156,40,34,37,108,52,90,36,72,52,74
+Kenya,Laikipia,Laikipia North,15,529692,32543,21,33,31,99,41,81,24,54,27,58
+Kenya,Laikipia,Laikipia North,20,529692,21804,7,27,15,73,20,49,10,25,12,7
+Kenya,Laikipia,Laikipia North,25,529692,19802,6,22,8,23,5,22,4,16,9,2
+Kenya,Laikipia,Laikipia North,30,529692,17014,3,19,4,10,1,15,2,7,4,1
+Kenya,Laikipia,Laikipia North,50,529692,10202,0,11,0,1,0,1,0,0,0,1
+Kenya,Laikipia,Laikipia North,75,529692,2658,0,2,0,0,0,0,0,0,0,0
+Kenya,Laikipia,Laikipia West,0,283027,283027,208,70,51,176,290,154,161,84,108,171
+Kenya,Laikipia,Laikipia West,10,283027,80332,117,59,46,156,249,134,143,72,89,144
+Kenya,Laikipia,Laikipia West,15,283027,57629,87,52,42,131,224,119,126,65,81,124
+Kenya,Laikipia,Laikipia West,20,283027,34340,41,36,29,88,169,97,97,47,55,81
+Kenya,Laikipia,Laikipia West,25,283027,31641,37,34,26,82,160,94,94,43,51,77
+Kenya,Laikipia,Laikipia West,30,283027,26129,27,31,22,72,139,87,84,37,43,66
+Kenya,Laikipia,Laikipia West,50,283027,15727,5,20,10,41,93,66,49,16,21,37
+Kenya,Laikipia,Laikipia West,75,283027,8889,2,12,4,26,64,48,34,3,9,22
+Kenya,Lamu,Lamu East,0,251988,251988,927,440,355,351,290,978,197,690,403,884
+Kenya,Lamu,Lamu East,10,251988,235427,924,439,353,351,289,977,197,688,402,882
+Kenya,Lamu,Lamu East,15,251988,208170,915,438,334,347,288,975,191,673,385,871
+Kenya,Lamu,Lamu East,20,251988,136940,806,375,266,305,276,924,174,568,305,794
+Kenya,Lamu,Lamu East,25,251988,127138,764,347,248,285,269,838,168,527,284,758
+Kenya,Lamu,Lamu East,30,251988,119233,720,321,221,261,260,750,161,474,263,699
+Kenya,Lamu,Lamu East,50,251988,78959,384,107,54,106,150,260,94,152,60,323
+Kenya,Lamu,Lamu East,75,251988,13225,53,5,4,2,20,28,25,7,1,52
+Kenya,Lamu,Lamu West,0,420005,420005,1782,947,4080,740,438,547,877,2606,577,472
+Kenya,Lamu,Lamu West,10,420005,391936,1773,946,4055,734,435,544,860,2596,575,470
+Kenya,Lamu,Lamu West,15,420005,298612,1718,929,3820,683,430,534,838,2325,551,453
+Kenya,Lamu,Lamu West,20,420005,153723,1426,805,2108,519,390,442,637,1048,385,339
+Kenya,Lamu,Lamu West,25,420005,139891,1329,750,1837,486,373,413,585,875,340,308
+Kenya,Lamu,Lamu West,30,420005,125718,1157,661,1431,425,339,358,519,676,271,262
+Kenya,Lamu,Lamu West,50,420005,71354,479,177,443,162,138,149,349,142,54,70
+Kenya,Lamu,Lamu West,75,420005,11311,117,7,43,17,46,51,162,6,8,9
+Kenya,Machakos,Kangundo,0,17097,17097,1,0,1,3,2,3,2,9,0,3
+Kenya,Machakos,Kangundo,10,17097,11937,1,0,1,3,2,3,2,9,0,3
+Kenya,Machakos,Kangundo,15,17097,5285,1,0,1,3,2,3,2,8,0,2
+Kenya,Machakos,Kangundo,20,17097,1279,0,0,1,2,2,2,2,6,0,1
+Kenya,Machakos,Kangundo,25,17097,1084,0,0,1,2,1,2,2,6,0,1
+Kenya,Machakos,Kangundo,30,17097,585,0,0,1,1,1,2,1,5,0,1
+Kenya,Machakos,Kangundo,50,17097,79,0,0,0,0,0,1,0,2,0,1
+Kenya,Machakos,Kangundo,75,17097,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,Kathiani,0,20605,20605,2,5,6,8,22,14,28,15,6,20
+Kenya,Machakos,Kathiani,10,20605,8939,1,5,6,8,21,13,27,14,6,20
+Kenya,Machakos,Kathiani,15,20605,3776,1,5,5,7,19,11,23,12,5,18
+Kenya,Machakos,Kathiani,20,20605,1195,1,4,4,4,15,8,18,9,5,14
+Kenya,Machakos,Kathiani,25,20605,1077,1,4,4,4,15,8,17,9,4,13
+Kenya,Machakos,Kathiani,30,20605,613,0,3,4,4,12,6,12,6,3,10
+Kenya,Machakos,Kathiani,50,20605,181,0,1,1,1,6,3,6,4,1,4
+Kenya,Machakos,Kathiani,75,20605,29,0,0,0,0,2,0,0,0,0,0
+Kenya,Machakos,Machakos Town,0,51934,51934,22,13,16,12,17,12,21,17,13,37
+Kenya,Machakos,Machakos Town,10,51934,13723,20,12,16,11,17,12,18,15,13,33
+Kenya,Machakos,Machakos Town,15,51934,6792,20,11,15,9,16,11,17,13,12,26
+Kenya,Machakos,Machakos Town,20,51934,2569,19,8,13,7,13,9,13,8,8,17
+Kenya,Machakos,Machakos Town,25,51934,2294,19,7,12,7,12,9,13,7,7,16
+Kenya,Machakos,Machakos Town,30,51934,1535,18,6,12,7,11,7,12,6,6,12
+Kenya,Machakos,Machakos Town,50,51934,682,17,4,11,6,8,4,7,2,3,6
+Kenya,Machakos,Machakos Town,75,51934,288,14,2,6,4,5,1,3,1,1,2
+Kenya,Machakos,Masinga,0,139706,139706,28,1,1,19,11,26,6,6,11,21
+Kenya,Machakos,Masinga,10,139706,19144,11,1,1,14,10,22,5,5,10,16
+Kenya,Machakos,Masinga,15,139706,7412,4,1,1,10,9,14,4,4,9,12
+Kenya,Machakos,Masinga,20,139706,1438,1,0,1,3,4,3,1,2,5,4
+Kenya,Machakos,Masinga,25,139706,1252,1,0,1,3,4,3,1,2,4,4
+Kenya,Machakos,Masinga,30,139706,689,0,0,0,1,2,1,0,1,2,3
+Kenya,Machakos,Masinga,50,139706,186,0,0,0,0,0,1,0,0,0,0
+Kenya,Machakos,Masinga,75,139706,11,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,Matungulu,0,58090,58090,7,21,0,0,10,16,40,3,5,28
+Kenya,Machakos,Matungulu,10,58090,19725,5,20,0,0,9,12,27,3,5,26
+Kenya,Machakos,Matungulu,15,58090,9977,4,16,0,0,8,8,16,2,5,24
+Kenya,Machakos,Matungulu,20,58090,3844,3,13,0,0,6,4,7,2,5,21
+Kenya,Machakos,Matungulu,25,58090,3561,3,13,0,0,6,4,6,2,5,21
+Kenya,Machakos,Matungulu,30,58090,2809,3,13,0,0,5,3,6,1,5,21
+Kenya,Machakos,Matungulu,50,58090,1533,1,8,0,0,2,0,3,0,4,20
+Kenya,Machakos,Matungulu,75,58090,816,0,3,0,0,0,0,1,0,3,18
+Kenya,Machakos,Mavoko,0,84259,84259,1,0,0,4,0,1,3,5,6,4
+Kenya,Machakos,Mavoko,10,84259,1314,0,0,0,0,0,1,0,2,1,1
+Kenya,Machakos,Mavoko,15,84259,473,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,Mavoko,20,84259,122,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,Mavoko,25,84259,89,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,Mavoko,30,84259,51,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,Mavoko,50,84259,9,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,Mavoko,75,84259,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,Mwala,0,101877,101877,3,0,0,12,13,10,5,13,2,6
+Kenya,Machakos,Mwala,10,101877,17475,2,0,0,9,12,8,5,9,1,5
+Kenya,Machakos,Mwala,15,101877,4353,1,0,0,6,9,6,4,5,1,4
+Kenya,Machakos,Mwala,20,101877,1071,0,0,0,1,3,4,2,2,0,1
+Kenya,Machakos,Mwala,25,101877,955,0,0,0,1,3,4,2,1,0,1
+Kenya,Machakos,Mwala,30,101877,581,0,0,0,0,2,3,1,1,0,1
+Kenya,Machakos,Mwala,50,101877,77,0,0,0,0,0,1,0,0,0,0
+Kenya,Machakos,Mwala,75,101877,5,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,Yatta,0,106087,106087,13,2,0,10,51,29,7,9,8,56
+Kenya,Machakos,Yatta,10,106087,17443,6,2,0,10,49,28,7,9,8,46
+Kenya,Machakos,Yatta,15,106087,6469,2,2,0,4,43,23,5,8,7,36
+Kenya,Machakos,Yatta,20,106087,1750,1,1,0,2,29,13,3,7,5,29
+Kenya,Machakos,Yatta,25,106087,1540,1,1,0,2,27,13,2,7,5,27
+Kenya,Machakos,Yatta,30,106087,931,1,0,0,1,18,10,1,6,4,24
+Kenya,Machakos,Yatta,50,106087,79,0,0,0,1,1,0,0,1,1,2
+Kenya,Machakos,Yatta,75,106087,3,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,unknown 7,0,23771,23771,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,unknown 7,10,23771,50,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,unknown 7,15,23771,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,unknown 7,20,23771,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,unknown 7,25,23771,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,unknown 7,30,23771,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,unknown 7,50,23771,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Machakos,unknown 7,75,23771,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Makueni,Kaiti,0,40429,40429,8,12,27,20,24,7,30,8,6,51
+Kenya,Makueni,Kaiti,10,40429,18835,7,12,27,20,22,7,29,8,6,49
+Kenya,Makueni,Kaiti,15,40429,9255,7,11,26,20,18,7,25,7,5,48
+Kenya,Makueni,Kaiti,20,40429,4550,6,10,25,19,13,5,18,5,4,45
+Kenya,Makueni,Kaiti,25,40429,4287,6,10,24,19,13,5,17,5,4,45
+Kenya,Makueni,Kaiti,30,40429,3337,6,9,23,19,10,3,13,4,3,43
+Kenya,Makueni,Kaiti,50,40429,1818,4,7,19,15,5,1,5,3,2,33
+Kenya,Makueni,Kaiti,75,40429,369,1,2,9,3,1,0,1,0,0,8
+Kenya,Makueni,Kibwezi East,0,231196,231196,43,17,37,14,54,7,104,74,2,135
+Kenya,Makueni,Kibwezi East,10,231196,72350,23,13,33,14,46,5,77,46,1,62
+Kenya,Makueni,Kibwezi East,15,231196,44584,10,10,25,12,37,4,53,33,1,21
+Kenya,Makueni,Kibwezi East,20,231196,20028,1,4,4,7,20,0,3,0,0,2
+Kenya,Makueni,Kibwezi East,25,231196,18470,1,4,4,7,20,0,3,0,0,2
+Kenya,Makueni,Kibwezi East,30,231196,12619,1,4,4,6,18,0,3,0,0,1
+Kenya,Makueni,Kibwezi East,50,231196,2499,0,3,1,3,17,0,2,0,0,0
+Kenya,Makueni,Kibwezi East,75,231196,1102,0,0,0,0,4,0,0,0,0,0
+Kenya,Makueni,Kibwezi West,0,212859,212859,11,3,14,22,42,2,3,3,2,171
+Kenya,Makueni,Kibwezi West,10,212859,55707,10,3,13,22,26,2,3,2,2,125
+Kenya,Makueni,Kibwezi West,15,212859,32271,8,2,12,14,18,1,2,0,1,25
+Kenya,Makueni,Kibwezi West,20,212859,12209,7,1,6,8,14,1,2,0,0,0
+Kenya,Makueni,Kibwezi West,25,212859,10563,6,1,6,8,14,1,2,0,0,0
+Kenya,Makueni,Kibwezi West,30,212859,5258,4,1,3,8,14,1,1,0,0,0
+Kenya,Makueni,Kibwezi West,50,212859,280,0,0,0,3,5,1,1,0,0,0
+Kenya,Makueni,Kibwezi West,75,212859,9,0,0,0,0,0,0,0,0,0,0
+Kenya,Makueni,Kilome,0,82344,82344,19,2,1,0,0,0,10,2,3,2
+Kenya,Makueni,Kilome,10,82344,14236,12,2,1,0,0,0,10,2,3,1
+Kenya,Makueni,Kilome,15,82344,6479,6,2,1,0,0,0,9,1,1,1
+Kenya,Makueni,Kilome,20,82344,2028,2,1,1,0,0,0,3,0,0,1
+Kenya,Makueni,Kilome,25,82344,1681,1,1,1,0,0,0,3,0,0,1
+Kenya,Makueni,Kilome,30,82344,997,0,1,1,0,0,0,2,0,0,0
+Kenya,Makueni,Kilome,50,82344,215,0,1,0,0,0,0,0,0,0,0
+Kenya,Makueni,Kilome,75,82344,30,0,0,0,0,0,0,0,0,0,0
+Kenya,Makueni,Makueni,0,152612,152612,4,2,4,9,36,20,28,29,2,4
+Kenya,Makueni,Makueni,10,152612,27773,3,2,3,8,27,17,25,23,2,2
+Kenya,Makueni,Makueni,15,152612,9287,2,1,3,5,20,11,20,13,1,1
+Kenya,Makueni,Makueni,20,152612,3770,2,1,1,2,13,1,8,5,0,1
+Kenya,Makueni,Makueni,25,152612,3533,2,1,1,2,13,1,7,5,0,1
+Kenya,Makueni,Makueni,30,152612,2807,1,0,1,2,11,1,5,4,0,0
+Kenya,Makueni,Makueni,50,152612,1562,1,0,1,1,5,0,2,3,0,0
+Kenya,Makueni,Makueni,75,152612,550,0,0,0,1,0,0,0,1,0,0
+Kenya,Makueni,Mbooni,0,98043,98043,8,3,11,28,65,35,67,36,7,22
+Kenya,Makueni,Mbooni,10,98043,30046,7,3,10,22,57,31,64,28,7,20
+Kenya,Makueni,Mbooni,15,98043,13786,7,3,9,12,46,25,54,19,6,17
+Kenya,Makueni,Mbooni,20,98043,5885,6,2,6,6,31,17,39,10,3,12
+Kenya,Makueni,Mbooni,25,98043,5507,5,2,6,6,30,16,38,10,3,12
+Kenya,Makueni,Mbooni,30,98043,4147,5,1,4,5,24,13,30,7,2,9
+Kenya,Makueni,Mbooni,50,98043,2273,2,1,2,2,11,5,16,3,1,4
+Kenya,Makueni,Mbooni,75,98043,765,1,0,0,0,3,1,4,1,0,1
+Kenya,Mandera,Banissa,0,296933,296933,1,0,0,4,0,0,2,1,0,3
+Kenya,Mandera,Banissa,10,296933,102,0,0,0,4,0,0,0,0,0,0
+Kenya,Mandera,Banissa,15,296933,62,0,0,0,3,0,0,0,0,0,0
+Kenya,Mandera,Banissa,20,296933,12,0,0,0,1,0,0,0,0,0,0
+Kenya,Mandera,Banissa,25,296933,8,0,0,0,1,0,0,0,0,0,0
+Kenya,Mandera,Banissa,30,296933,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Banissa,50,296933,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Banissa,75,296933,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Lafey,0,319010,319010,3,0,0,0,1,0,0,0,4,6
+Kenya,Mandera,Lafey,10,319010,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Lafey,15,319010,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Lafey,20,319010,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Lafey,25,319010,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Lafey,30,319010,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Lafey,50,319010,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Lafey,75,319010,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera East,0,289839,289839,3,0,0,0,1,1,7,0,1,4
+Kenya,Mandera,Mandera East,10,289839,4,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera East,15,289839,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera East,20,289839,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera East,25,289839,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera East,30,289839,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera East,50,289839,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera East,75,289839,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera North,0,604081,604081,3,0,0,0,0,2,0,1,0,7
+Kenya,Mandera,Mandera North,10,604081,26,0,0,0,0,0,1,0,0,0,2
+Kenya,Mandera,Mandera North,15,604081,4,0,0,0,0,0,0,0,0,0,1
+Kenya,Mandera,Mandera North,20,604081,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera North,25,604081,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera North,30,604081,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera North,50,604081,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera North,75,604081,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera South,0,410884,410884,20,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera South,10,410884,3,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera South,15,410884,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera South,20,410884,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera South,25,410884,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera South,30,410884,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera South,50,410884,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera South,75,410884,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera West,0,519024,519024,2,0,0,0,0,0,1,8,0,1
+Kenya,Mandera,Mandera West,10,519024,56,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera West,15,519024,4,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera West,20,519024,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera West,25,519024,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera West,30,519024,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera West,50,519024,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,Mandera West,75,519024,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,unknown 1,0,137452,137452,1,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,unknown 1,10,137452,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,unknown 1,15,137452,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,unknown 1,20,137452,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,unknown 1,25,137452,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,unknown 1,30,137452,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,unknown 1,50,137452,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Mandera,unknown 1,75,137452,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,Laisamis,0,2406277,2406277,4,0,6,2,1,0,2,4,3,0
+Kenya,Marsabit,Laisamis,10,2406277,4839,0,0,1,1,0,0,0,0,0,0
+Kenya,Marsabit,Laisamis,15,2406277,3848,0,0,1,1,0,0,0,0,0,0
+Kenya,Marsabit,Laisamis,20,2406277,1939,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,Laisamis,25,2406277,1706,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,Laisamis,30,2406277,1076,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,Laisamis,50,2406277,56,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,Laisamis,75,2406277,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,Moyale,0,928306,928306,25,0,5,0,1,0,0,0,2,2
+Kenya,Marsabit,Moyale,10,928306,3234,0,0,5,0,1,0,0,0,0,1
+Kenya,Marsabit,Moyale,15,928306,1272,0,0,5,0,1,0,0,0,0,1
+Kenya,Marsabit,Moyale,20,928306,377,0,0,2,0,0,0,0,0,0,1
+Kenya,Marsabit,Moyale,25,928306,218,0,0,1,0,0,0,0,0,0,1
+Kenya,Marsabit,Moyale,30,928306,128,0,0,1,0,0,0,0,0,0,1
+Kenya,Marsabit,Moyale,50,928306,9,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,Moyale,75,928306,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,North Horr,0,4038463,4038463,1,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,North Horr,10,4038463,52,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,North Horr,15,4038463,13,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,North Horr,20,4038463,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,North Horr,25,4038463,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,North Horr,30,4038463,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,North Horr,50,4038463,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,North Horr,75,4038463,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,Saku,0,204488,204488,0,0,0,0,0,0,0,5,7,0
+Kenya,Marsabit,Saku,10,204488,12629,0,0,0,0,0,0,0,4,7,0
+Kenya,Marsabit,Saku,15,204488,11155,0,0,0,0,0,0,0,2,6,0
+Kenya,Marsabit,Saku,20,204488,9564,0,0,0,0,0,0,0,0,3,0
+Kenya,Marsabit,Saku,25,204488,9170,0,0,0,0,0,0,0,0,2,0
+Kenya,Marsabit,Saku,30,204488,7410,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,Saku,50,204488,773,0,0,0,0,0,0,0,0,0,0
+Kenya,Marsabit,Saku,75,204488,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Meru,Buuri,0,157994,157994,169,279,467,373,159,153,140,36,54,146
+Kenya,Meru,Buuri,10,157994,64231,156,260,437,319,129,72,69,19,34,115
+Kenya,Meru,Buuri,15,157994,54436,152,249,424,314,121,52,60,13,25,106
+Kenya,Meru,Buuri,20,157994,43474,146,232,402,306,112,35,39,8,16,89
+Kenya,Meru,Buuri,25,157994,41293,145,229,394,304,110,33,37,7,15,88
+Kenya,Meru,Buuri,30,157994,36959,142,221,381,296,106,27,32,6,11,83
+Kenya,Meru,Buuri,50,157994,26434,122,176,286,247,94,15,18,4,5,69
+Kenya,Meru,Buuri,75,157994,15383,79,96,177,178,68,5,5,1,0,49
+Kenya,Meru,Central Imenti,0,50460,50460,12,18,33,69,32,52,48,10,9,49
+Kenya,Meru,Central Imenti,10,50460,38053,12,18,32,69,32,51,46,10,9,48
+Kenya,Meru,Central Imenti,15,50460,29979,10,17,31,67,32,48,43,9,8,45
+Kenya,Meru,Central Imenti,20,50460,18260,5,13,24,59,26,40,33,5,5,38
+Kenya,Meru,Central Imenti,25,50460,17115,5,13,22,58,25,39,32,5,5,37
+Kenya,Meru,Central Imenti,30,50460,13359,3,11,18,55,23,34,25,4,4,33
+Kenya,Meru,Central Imenti,50,50460,6781,1,3,10,25,12,16,10,2,1,19
+Kenya,Meru,Central Imenti,75,50460,4087,0,0,4,11,2,4,1,0,0,7
+Kenya,Meru,Igembe Central,0,81251,81251,3,1,7,13,8,20,5,13,26,1
+Kenya,Meru,Igembe Central,10,81251,21565,2,1,6,12,7,16,4,12,25,1
+Kenya,Meru,Igembe Central,15,81251,16971,2,1,6,11,5,14,4,9,24,1
+Kenya,Meru,Igembe Central,20,81251,8507,1,1,5,8,4,3,2,8,16,1
+Kenya,Meru,Igembe Central,25,81251,7613,1,1,4,7,4,3,2,8,14,1
+Kenya,Meru,Igembe Central,30,81251,4337,0,0,3,6,3,2,2,7,9,1
+Kenya,Meru,Igembe Central,50,81251,475,0,0,1,1,1,1,0,2,1,0
+Kenya,Meru,Igembe Central,75,81251,20,0,0,0,0,0,0,0,0,0,0
+Kenya,Meru,Igembe North,0,107528,107528,2,1,1,2,0,7,0,0,10,3
+Kenya,Meru,Igembe North,10,107528,17771,1,1,1,2,0,7,0,0,10,3
+Kenya,Meru,Igembe North,15,107528,15268,1,1,1,2,0,7,0,0,9,3
+Kenya,Meru,Igembe North,20,107528,10782,0,0,0,2,0,6,0,0,8,2
+Kenya,Meru,Igembe North,25,107528,10217,0,0,0,2,0,6,0,0,8,2
+Kenya,Meru,Igembe North,30,107528,7766,0,0,0,1,0,5,0,0,7,2
+Kenya,Meru,Igembe North,50,107528,3622,0,0,0,0,0,2,0,0,1,0
+Kenya,Meru,Igembe North,75,107528,38,0,0,0,0,0,0,0,0,0,0
+Kenya,Meru,Igembe South,0,82837,82837,18,18,26,24,14,38,28,21,26,22
+Kenya,Meru,Igembe South,10,82837,38070,18,16,26,23,14,37,28,21,25,21
+Kenya,Meru,Igembe South,15,82837,23913,15,14,24,23,13,36,27,19,23,20
+Kenya,Meru,Igembe South,20,82837,9437,10,9,17,19,10,31,22,13,16,12
+Kenya,Meru,Igembe South,25,82837,8624,10,9,16,18,10,30,21,12,15,11
+Kenya,Meru,Igembe South,30,82837,5594,8,6,11,14,8,24,17,10,11,8
+Kenya,Meru,Igembe South,50,82837,1128,3,3,3,4,3,6,7,4,5,2
+Kenya,Meru,Igembe South,75,82837,60,0,0,0,0,0,0,0,0,0,0
+Kenya,Meru,North Imenti,0,24304,24304,2,9,32,28,12,26,35,17,7,51
+Kenya,Meru,North Imenti,10,24304,21916,2,9,32,27,12,25,34,17,7,51
+Kenya,Meru,North Imenti,15,24304,20741,2,9,30,27,11,23,34,16,6,51
+Kenya,Meru,North Imenti,20,24304,14539,1,8,23,23,9,18,30,16,5,50
+Kenya,Meru,North Imenti,25,24304,13596,1,8,21,22,8,17,28,15,5,50
+Kenya,Meru,North Imenti,30,24304,10931,1,8,18,20,7,15,24,14,4,49
+Kenya,Meru,North Imenti,50,24304,5208,1,5,7,9,3,9,14,13,2,43
+Kenya,Meru,North Imenti,75,24304,1892,0,2,2,0,0,0,0,0,0,0
+Kenya,Meru,South Imenti,0,65662,65662,30,59,85,53,49,59,82,18,6,26
+Kenya,Meru,South Imenti,10,65662,56231,29,57,84,53,49,57,80,17,6,25
+Kenya,Meru,South Imenti,15,65662,49269,27,55,79,51,48,55,77,17,6,24
+Kenya,Meru,South Imenti,20,65662,36131,20,47,62,43,42,46,65,14,5,20
+Kenya,Meru,South Imenti,25,65662,34493,18,46,60,41,41,44,63,14,5,20
+Kenya,Meru,South Imenti,30,65662,28954,15,41,49,37,37,38,55,13,5,17
+Kenya,Meru,South Imenti,50,65662,17755,8,32,27,26,25,17,34,7,2,8
+Kenya,Meru,South Imenti,75,65662,10664,1,18,11,14,6,1,18,0,0,2
+Kenya,Meru,Tigania East,0,83402,83402,44,45,65,35,47,47,49,20,51,39
+Kenya,Meru,Tigania East,10,83402,28824,37,44,64,34,45,43,46,18,47,36
+Kenya,Meru,Tigania East,15,83402,22038,31,40,61,31,44,35,41,16,44,27
+Kenya,Meru,Tigania East,20,83402,14119,24,30,47,21,38,24,28,11,34,17
+Kenya,Meru,Tigania East,25,83402,13366,22,28,44,20,37,21,27,10,34,15
+Kenya,Meru,Tigania East,30,83402,10935,17,20,34,17,33,17,20,8,31,11
+Kenya,Meru,Tigania East,50,83402,7218,9,8,14,7,22,9,8,5,21,4
+Kenya,Meru,Tigania East,75,83402,5508,4,1,5,0,10,1,2,0,3,1
+Kenya,Meru,Tigania West,0,38874,38874,4,5,11,10,6,17,19,5,6,11
+Kenya,Meru,Tigania West,10,38874,16132,3,5,9,9,6,16,17,5,6,9
+Kenya,Meru,Tigania West,15,38874,10954,3,4,9,9,5,14,16,5,6,8
+Kenya,Meru,Tigania West,20,38874,3770,1,3,5,8,2,10,10,2,2,5
+Kenya,Meru,Tigania West,25,38874,3212,1,3,5,8,2,9,8,1,2,4
+Kenya,Meru,Tigania West,30,38874,1930,1,3,4,7,1,6,5,0,1,2
+Kenya,Meru,Tigania West,50,38874,685,0,2,3,4,0,3,1,0,1,0
+Kenya,Meru,Tigania West,75,38874,180,0,0,0,0,0,0,0,0,0,0
+Kenya,Meru,unknown 5,0,6185,6185,1,1,1,1,0,0,1,1,14,0
+Kenya,Meru,unknown 5,10,6185,3490,1,1,1,1,0,0,0,1,9,0
+Kenya,Meru,unknown 5,15,6185,2499,1,1,1,1,0,0,0,1,5,0
+Kenya,Meru,unknown 5,20,6185,518,0,0,1,1,0,0,0,0,0,0
+Kenya,Meru,unknown 5,25,6185,385,0,0,1,1,0,0,0,0,0,0
+Kenya,Meru,unknown 5,30,6185,148,0,0,0,0,0,0,0,0,0,0
+Kenya,Meru,unknown 5,50,6185,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Meru,unknown 5,75,6185,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Migori,Awendo,0,25559,25559,36,0,0,39,3,15,52,15,16,10
+Kenya,Migori,Awendo,10,25559,25243,36,0,0,38,3,15,50,15,16,10
+Kenya,Migori,Awendo,15,25559,23022,34,0,0,37,3,15,48,15,16,10
+Kenya,Migori,Awendo,20,25559,7111,12,0,0,12,2,10,23,5,9,4
+Kenya,Migori,Awendo,25,25559,5346,8,0,0,8,2,9,18,4,7,3
+Kenya,Migori,Awendo,30,25559,1835,3,0,0,4,1,5,7,2,3,0
+Kenya,Migori,Awendo,50,25559,170,0,0,0,1,0,0,2,0,0,0
+Kenya,Migori,Awendo,75,25559,33,0,0,0,0,0,0,0,0,0,0
+Kenya,Migori,Kuria East,0,26533,26533,7,1,1,7,24,27,47,19,35,36
+Kenya,Migori,Kuria East,10,26533,24767,7,1,1,6,22,27,47,19,34,36
+Kenya,Migori,Kuria East,15,26533,16612,6,1,1,6,20,24,45,15,31,29
+Kenya,Migori,Kuria East,20,26533,3655,4,1,1,5,10,12,33,9,13,18
+Kenya,Migori,Kuria East,25,26533,3148,2,1,1,5,9,11,32,8,12,17
+Kenya,Migori,Kuria East,30,26533,1400,1,1,0,1,5,7,23,5,7,13
+Kenya,Migori,Kuria East,50,26533,205,0,0,0,0,1,2,7,2,1,4
+Kenya,Migori,Kuria East,75,26533,3,0,0,0,0,0,0,0,0,0,0
+Kenya,Migori,Kuria West,0,35056,35056,8,4,0,28,15,27,96,43,34,31
+Kenya,Migori,Kuria West,10,35056,34637,8,4,0,28,15,27,96,42,34,31
+Kenya,Migori,Kuria West,15,35056,30243,8,3,0,27,12,23,92,35,30,29
+Kenya,Migori,Kuria West,20,35056,7367,1,1,0,16,5,9,58,14,6,5
+Kenya,Migori,Kuria West,25,35056,5979,1,1,0,12,4,8,56,13,5,5
+Kenya,Migori,Kuria West,30,35056,2372,1,0,0,7,1,4,41,8,3,3
+Kenya,Migori,Kuria West,50,35056,214,0,0,0,1,0,0,7,2,0,1
+Kenya,Migori,Kuria West,75,35056,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Migori,Nyatike,0,122400,122400,25,0,48,164,3,4,85,9,9,3
+Kenya,Migori,Nyatike,10,122400,39690,20,0,47,149,3,3,70,8,8,3
+Kenya,Migori,Nyatike,15,122400,20089,6,0,46,136,3,3,64,5,8,3
+Kenya,Migori,Nyatike,20,122400,4098,1,0,35,87,2,1,39,1,5,1
+Kenya,Migori,Nyatike,25,122400,3246,1,0,33,78,1,1,35,1,5,1
+Kenya,Migori,Nyatike,30,122400,1538,1,0,23,38,0,0,27,0,2,0
+Kenya,Migori,Nyatike,50,122400,80,0,0,0,0,0,0,2,0,0,0
+Kenya,Migori,Nyatike,75,122400,6,0,0,0,0,0,0,0,0,0,0
+Kenya,Migori,Rongo,0,22025,22025,19,0,3,20,14,47,33,13,11,13
+Kenya,Migori,Rongo,10,22025,21882,19,0,3,20,14,47,32,12,11,13
+Kenya,Migori,Rongo,15,22025,20160,18,0,3,19,13,40,31,11,10,12
+Kenya,Migori,Rongo,20,22025,6512,4,0,1,9,8,14,22,5,4,5
+Kenya,Migori,Rongo,25,22025,5217,3,0,1,7,8,11,20,4,3,4
+Kenya,Migori,Rongo,30,22025,1762,0,0,0,4,4,6,14,2,2,1
+Kenya,Migori,Rongo,50,22025,114,0,0,0,0,0,0,5,0,0,0
+Kenya,Migori,Rongo,75,22025,7,0,0,0,0,0,0,0,0,0,0
+Kenya,Migori,Suna East,0,20655,20655,10,3,7,19,2,16,64,11,6,15
+Kenya,Migori,Suna East,10,20655,20262,9,3,7,19,2,16,64,11,6,15
+Kenya,Migori,Suna East,15,20655,16560,9,3,7,18,1,16,63,11,5,15
+Kenya,Migori,Suna East,20,20655,4554,4,2,7,13,1,16,53,7,4,12
+Kenya,Migori,Suna East,25,20655,3935,3,2,7,13,1,16,51,6,3,12
+Kenya,Migori,Suna East,30,20655,2118,2,1,7,11,1,14,43,5,2,11
+Kenya,Migori,Suna East,50,20655,265,0,0,2,3,0,2,9,0,0,2
+Kenya,Migori,Suna East,75,20655,3,0,0,0,0,0,0,0,0,0,0
+Kenya,Migori,Suna West,0,29423,29423,15,1,0,31,1,6,33,18,3,8
+Kenya,Migori,Suna West,10,29423,28157,14,1,0,31,1,6,33,17,3,8
+Kenya,Migori,Suna West,15,29423,17426,11,1,0,28,1,6,30,13,2,8
+Kenya,Migori,Suna West,20,29423,1914,0,0,0,8,1,3,12,3,0,1
+Kenya,Migori,Suna West,25,29423,1529,0,0,0,7,1,3,11,2,0,1
+Kenya,Migori,Suna West,30,29423,539,0,0,0,4,0,2,6,1,0,0
+Kenya,Migori,Suna West,50,29423,17,0,0,0,0,0,0,0,0,0,0
+Kenya,Migori,Suna West,75,29423,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Migori,Uriri,0,38391,38391,25,4,6,20,4,13,137,24,23,23
+Kenya,Migori,Uriri,10,38391,37875,25,4,6,20,4,13,137,24,23,23
+Kenya,Migori,Uriri,15,38391,29333,19,3,4,16,4,13,132,23,22,21
+Kenya,Migori,Uriri,20,38391,7552,3,1,1,8,3,11,104,15,9,13
+Kenya,Migori,Uriri,25,38391,6462,2,1,1,6,3,11,100,14,7,13
+Kenya,Migori,Uriri,30,38391,3161,1,0,1,5,2,9,79,10,4,10
+Kenya,Migori,Uriri,50,38391,162,0,0,0,0,0,1,7,0,0,1
+Kenya,Migori,Uriri,75,38391,15,0,0,0,0,0,0,0,0,0,0
+Kenya,Mombasa,Changamwe,0,2105,2105,3,7,22,8,3,1,6,0,0,0
+Kenya,Mombasa,Changamwe,10,2105,710,2,7,22,7,2,1,4,0,0,0
+Kenya,Mombasa,Changamwe,15,2105,357,1,7,19,7,2,1,2,0,0,0
+Kenya,Mombasa,Changamwe,20,2105,165,1,6,11,4,1,0,1,0,0,0
+Kenya,Mombasa,Changamwe,25,2105,142,0,5,10,4,1,0,1,0,0,0
+Kenya,Mombasa,Changamwe,30,2105,116,0,5,8,3,1,0,0,0,0,0
+Kenya,Mombasa,Changamwe,50,2105,56,0,3,4,2,0,0,0,0,0,0
+Kenya,Mombasa,Changamwe,75,2105,13,0,0,0,0,0,0,0,0,0,0
+Kenya,Mombasa,Jomvu,0,4279,4279,2,6,42,9,2,0,1,0,1,1
+Kenya,Mombasa,Jomvu,10,4279,2061,2,5,39,8,2,0,1,0,1,1
+Kenya,Mombasa,Jomvu,15,4279,989,2,4,20,5,2,0,1,0,1,1
+Kenya,Mombasa,Jomvu,20,4279,597,1,3,7,2,1,0,0,0,0,1
+Kenya,Mombasa,Jomvu,25,4279,494,1,2,7,2,1,0,0,0,0,1
+Kenya,Mombasa,Jomvu,30,4279,445,1,1,6,2,1,0,0,0,0,1
+Kenya,Mombasa,Jomvu,50,4279,312,0,0,1,1,1,0,0,0,0,0
+Kenya,Mombasa,Jomvu,75,4279,78,0,0,0,0,0,0,0,0,0,0
+Kenya,Mombasa,Kisauni,0,10742,10742,30,3,14,27,9,14,11,29,3,27
+Kenya,Mombasa,Kisauni,10,10742,6853,27,3,14,26,9,14,11,28,3,23
+Kenya,Mombasa,Kisauni,15,10742,4189,26,3,12,22,8,14,10,23,3,22
+Kenya,Mombasa,Kisauni,20,10742,2519,21,2,6,15,6,11,6,14,2,15
+Kenya,Mombasa,Kisauni,25,10742,2231,20,2,5,14,5,10,6,12,2,14
+Kenya,Mombasa,Kisauni,30,10742,1981,19,2,4,12,5,9,5,10,2,13
+Kenya,Mombasa,Kisauni,50,10742,1224,14,1,1,7,3,7,2,3,1,9
+Kenya,Mombasa,Kisauni,75,10742,356,6,0,0,3,1,3,0,0,0,2
+Kenya,Mombasa,Likoni,0,5515,5515,7,1,6,8,9,7,7,52,2,2
+Kenya,Mombasa,Likoni,10,5515,3573,6,1,6,8,9,7,7,51,2,2
+Kenya,Mombasa,Likoni,15,5515,2121,6,1,5,7,8,6,6,35,2,2
+Kenya,Mombasa,Likoni,20,5515,1079,5,0,3,4,6,3,5,13,1,1
+Kenya,Mombasa,Likoni,25,5515,987,4,0,2,4,6,3,4,11,1,1
+Kenya,Mombasa,Likoni,30,5515,853,4,0,2,3,5,3,4,8,1,1
+Kenya,Mombasa,Likoni,50,5515,540,3,0,0,1,3,2,2,3,1,0
+Kenya,Mombasa,Likoni,75,5515,180,1,0,0,0,0,0,1,1,1,0
+Kenya,Mombasa,Mvita,0,1576,1576,3,0,1,1,1,0,0,0,0,0
+Kenya,Mombasa,Mvita,10,1576,238,2,0,1,1,1,0,0,0,0,0
+Kenya,Mombasa,Mvita,15,1576,185,2,0,1,1,1,0,0,0,0,0
+Kenya,Mombasa,Mvita,20,1576,107,1,0,1,1,1,0,0,0,0,0
+Kenya,Mombasa,Mvita,25,1576,96,1,0,1,1,1,0,0,0,0,0
+Kenya,Mombasa,Mvita,30,1576,78,1,0,1,1,0,0,0,0,0,0
+Kenya,Mombasa,Mvita,50,1576,41,0,0,0,0,0,0,0,0,0,0
+Kenya,Mombasa,Mvita,75,1576,10,0,0,0,0,0,0,0,0,0,0
+Kenya,Mombasa,Nyali,0,2515,2515,6,5,2,9,4,1,9,1,0,6
+Kenya,Mombasa,Nyali,10,2515,1067,5,4,1,8,4,1,8,1,0,6
+Kenya,Mombasa,Nyali,15,2515,766,4,3,1,6,4,1,6,1,0,5
+Kenya,Mombasa,Nyali,20,2515,442,2,2,0,4,3,1,4,0,0,4
+Kenya,Mombasa,Nyali,25,2515,400,2,2,0,3,3,1,4,0,0,4
+Kenya,Mombasa,Nyali,30,2515,338,2,2,0,3,3,0,4,0,0,3
+Kenya,Mombasa,Nyali,50,2515,181,1,1,0,1,2,0,2,0,0,2
+Kenya,Mombasa,Nyali,75,2515,53,0,0,0,0,1,0,0,0,0,0
+Kenya,Murang'a,Gatanga,0,60163,60163,152,100,176,113,163,235,345,56,55,81
+Kenya,Murang'a,Gatanga,10,60163,45650,140,91,175,109,155,224,302,55,51,77
+Kenya,Murang'a,Gatanga,15,60163,35145,132,88,173,105,149,201,283,54,45,72
+Kenya,Murang'a,Gatanga,20,60163,22300,114,75,162,88,123,145,208,44,31,61
+Kenya,Murang'a,Gatanga,25,60163,20966,112,74,157,85,116,135,188,41,28,58
+Kenya,Murang'a,Gatanga,30,60163,17683,105,71,148,75,106,112,155,36,24,52
+Kenya,Murang'a,Gatanga,50,60163,10055,83,59,122,40,56,43,51,12,8,27
+Kenya,Murang'a,Gatanga,75,60163,6291,53,34,81,24,23,12,10,2,2,8
+Kenya,Murang'a,Kandara,0,23841,23841,5,2,8,5,23,26,51,9,5,11
+Kenya,Murang'a,Kandara,10,23841,17156,5,2,8,5,22,26,48,9,5,10
+Kenya,Murang'a,Kandara,15,23841,15847,5,2,8,5,22,25,46,8,5,10
+Kenya,Murang'a,Kandara,20,23841,8557,4,1,7,4,18,23,39,6,4,8
+Kenya,Murang'a,Kandara,25,23841,7358,4,1,7,3,18,22,37,6,4,8
+Kenya,Murang'a,Kandara,30,23841,4823,3,1,6,3,16,20,32,6,3,7
+Kenya,Murang'a,Kandara,50,23841,860,1,0,2,2,8,9,12,2,1,3
+Kenya,Murang'a,Kandara,75,23841,104,0,0,0,0,1,2,1,0,0,1
+Kenya,Murang'a,Kangema,0,29194,29194,6,8,29,34,73,56,99,12,14,52
+Kenya,Murang'a,Kangema,10,29194,27367,6,8,29,34,73,55,98,12,14,51
+Kenya,Murang'a,Kangema,15,29194,27014,6,8,29,34,73,55,98,12,14,51
+Kenya,Murang'a,Kangema,20,29194,24128,6,8,29,32,72,52,93,11,14,49
+Kenya,Murang'a,Kangema,25,29194,23608,6,8,29,32,72,51,93,11,14,49
+Kenya,Murang'a,Kangema,30,29194,21599,6,8,28,30,70,49,88,11,13,47
+Kenya,Murang'a,Kangema,50,29194,15347,4,6,22,23,51,29,62,7,10,32
+Kenya,Murang'a,Kangema,75,29194,9911,2,4,12,13,25,10,25,3,4,14
+Kenya,Murang'a,Kigumo,0,28775,28775,19,32,82,74,130,90,174,16,22,55
+Kenya,Murang'a,Kigumo,10,28775,24897,19,32,81,74,129,90,173,16,22,55
+Kenya,Murang'a,Kigumo,15,28775,24143,19,31,81,73,128,89,172,16,22,55
+Kenya,Murang'a,Kigumo,20,28775,18938,18,30,79,71,122,84,163,14,20,52
+Kenya,Murang'a,Kigumo,25,28775,18087,18,30,79,71,121,82,161,14,19,51
+Kenya,Murang'a,Kigumo,30,28775,15246,18,29,77,69,115,77,150,13,18,48
+Kenya,Murang'a,Kigumo,50,28775,8305,16,25,62,56,88,45,93,9,12,31
+Kenya,Murang'a,Kigumo,75,28775,4145,12,21,40,36,42,15,31,3,3,10
+Kenya,Murang'a,Kiharu,0,40791,40791,3,2,17,25,27,48,39,7,9,26
+Kenya,Murang'a,Kiharu,10,40791,25865,3,2,16,24,26,47,38,7,9,25
+Kenya,Murang'a,Kiharu,15,40791,22092,3,2,15,23,26,45,36,7,8,24
+Kenya,Murang'a,Kiharu,20,40791,12721,3,1,10,18,22,39,32,6,5,21
+Kenya,Murang'a,Kiharu,25,40791,11580,3,1,9,18,22,38,32,6,5,20
+Kenya,Murang'a,Kiharu,30,40791,8057,2,1,7,14,20,33,29,5,4,19
+Kenya,Murang'a,Kiharu,50,40791,1517,1,0,3,7,9,12,13,3,2,9
+Kenya,Murang'a,Kiharu,75,40791,340,0,0,1,3,3,4,5,0,1,4
+Kenya,Murang'a,Maragwa,0,46272,46272,44,25,76,37,113,119,147,86,79,116
+Kenya,Murang'a,Maragwa,10,46272,26791,41,23,72,32,103,111,131,78,68,102
+Kenya,Murang'a,Maragwa,15,46272,16889,33,21,66,28,78,90,118,59,38,59
+Kenya,Murang'a,Maragwa,20,46272,5253,25,16,42,14,23,38,65,31,19,36
+Kenya,Murang'a,Maragwa,25,46272,4141,23,15,36,11,14,27,54,25,17,32
+Kenya,Murang'a,Maragwa,30,46272,2143,19,13,26,6,7,20,36,18,15,28
+Kenya,Murang'a,Maragwa,50,46272,319,7,5,7,1,1,5,8,3,6,2
+Kenya,Murang'a,Maragwa,75,46272,25,0,0,1,0,0,0,0,0,0,0
+Kenya,Murang'a,Mathioya,0,23569,23569,2,4,21,24,42,61,78,10,10,23
+Kenya,Murang'a,Mathioya,10,23569,21043,2,4,20,23,42,59,76,10,10,22
+Kenya,Murang'a,Mathioya,15,23569,20410,2,4,20,23,42,59,75,10,9,22
+Kenya,Murang'a,Mathioya,20,23569,16487,2,4,18,20,40,55,69,9,8,19
+Kenya,Murang'a,Mathioya,25,23569,15786,2,4,18,20,40,54,68,9,8,18
+Kenya,Murang'a,Mathioya,30,23569,13666,2,3,16,18,39,50,60,8,7,15
+Kenya,Murang'a,Mathioya,50,23569,8249,1,1,8,10,30,26,30,4,4,7
+Kenya,Murang'a,Mathioya,75,23569,4624,0,0,3,6,17,8,10,1,2,2
+Kenya,Nairobi,Dagoretti North,0,2673,2673,1,1,2,1,1,3,2,1,1,1
+Kenya,Nairobi,Dagoretti North,10,2673,1120,1,1,1,1,1,2,2,1,1,1
+Kenya,Nairobi,Dagoretti North,15,2673,864,1,1,1,1,0,2,1,1,1,0
+Kenya,Nairobi,Dagoretti North,20,2673,433,1,1,1,1,0,2,1,1,1,0
+Kenya,Nairobi,Dagoretti North,25,2673,386,1,1,1,1,0,1,1,1,1,0
+Kenya,Nairobi,Dagoretti North,30,2673,260,0,0,1,0,0,1,0,1,1,0
+Kenya,Nairobi,Dagoretti North,50,2673,98,0,0,1,0,0,0,0,1,1,0
+Kenya,Nairobi,Dagoretti North,75,2673,10,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Dagoretti South,0,2876,2876,1,1,2,1,2,4,2,0,1,0
+Kenya,Nairobi,Dagoretti South,10,2876,1284,1,0,2,1,1,3,1,0,1,0
+Kenya,Nairobi,Dagoretti South,15,2876,828,1,0,2,0,1,2,1,0,1,0
+Kenya,Nairobi,Dagoretti South,20,2876,289,0,0,2,0,1,1,1,0,1,0
+Kenya,Nairobi,Dagoretti South,25,2876,248,0,0,1,0,1,1,1,0,1,0
+Kenya,Nairobi,Dagoretti South,30,2876,156,0,0,1,0,1,1,0,0,1,0
+Kenya,Nairobi,Dagoretti South,50,2876,46,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Dagoretti South,75,2876,7,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi Central,0,821,821,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi Central,10,821,8,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi Central,15,821,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi Central,20,821,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi Central,25,821,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi Central,30,821,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi Central,50,821,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi Central,75,821,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi East,0,8585,8585,0,0,0,0,1,0,0,0,0,0
+Kenya,Nairobi,Embakasi East,10,8585,48,0,0,0,0,1,0,0,0,0,0
+Kenya,Nairobi,Embakasi East,15,8585,18,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi East,20,8585,6,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi East,25,8585,5,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi East,30,8585,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi East,50,8585,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi East,75,8585,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi North,0,543,543,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi North,10,543,30,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi North,15,543,19,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi North,20,543,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi North,25,543,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi North,30,543,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi North,50,543,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi North,75,543,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi South,0,1756,1756,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi South,10,1756,12,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi South,15,1756,3,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi South,20,1756,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi South,25,1756,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi South,30,1756,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi South,50,1756,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi South,75,1756,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi West,0,973,973,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi West,10,973,33,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi West,15,973,10,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi West,20,973,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi West,25,973,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi West,30,973,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi West,50,973,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Embakasi West,75,973,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kamukunji,0,884,884,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kamukunji,10,884,48,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kamukunji,15,884,13,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kamukunji,20,884,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kamukunji,25,884,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kamukunji,30,884,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kamukunji,50,884,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kamukunji,75,884,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kasarani,0,13625,13625,8,1,0,0,0,1,0,1,26,0
+Kenya,Nairobi,Kasarani,10,13625,557,7,1,0,0,0,1,0,0,16,0
+Kenya,Nairobi,Kasarani,15,13625,224,6,1,0,0,0,1,0,0,8,0
+Kenya,Nairobi,Kasarani,20,13625,68,4,1,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kasarani,25,13625,54,4,1,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kasarani,30,13625,26,2,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kasarani,50,13625,3,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kasarani,75,13625,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kibra,0,1329,1329,0,0,1,2,1,0,0,0,0,0
+Kenya,Nairobi,Kibra,10,1329,242,0,0,1,1,1,0,0,0,0,0
+Kenya,Nairobi,Kibra,15,1329,139,0,0,0,1,1,0,0,0,0,0
+Kenya,Nairobi,Kibra,20,1329,59,0,0,0,1,0,0,0,0,0,0
+Kenya,Nairobi,Kibra,25,1329,52,0,0,0,1,0,0,0,0,0,0
+Kenya,Nairobi,Kibra,30,1329,33,0,0,0,1,0,0,0,0,0,0
+Kenya,Nairobi,Kibra,50,1329,6,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Kibra,75,1329,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Langata,0,20881,20881,18,2,39,14,3,7,6,7,4,4
+Kenya,Nairobi,Langata,10,20881,5982,13,2,39,11,2,6,4,5,3,2
+Kenya,Nairobi,Langata,15,20881,4697,13,2,39,10,2,5,3,5,2,1
+Kenya,Nairobi,Langata,20,20881,3201,12,1,37,9,1,4,2,4,1,1
+Kenya,Nairobi,Langata,25,20881,3054,11,1,37,9,1,4,2,4,1,1
+Kenya,Nairobi,Langata,30,20881,2460,11,1,36,8,0,4,1,3,1,0
+Kenya,Nairobi,Langata,50,20881,1211,6,1,13,6,0,1,1,1,1,0
+Kenya,Nairobi,Langata,75,20881,270,0,0,2,3,0,0,0,0,0,0
+Kenya,Nairobi,Makadara,0,1201,1201,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Makadara,10,1201,13,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Makadara,15,1201,5,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Makadara,20,1201,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Makadara,25,1201,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Makadara,30,1201,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Makadara,50,1201,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Makadara,75,1201,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Mathare,0,289,289,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Mathare,10,289,36,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Mathare,15,289,17,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Mathare,20,289,6,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Mathare,25,289,5,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Mathare,30,289,3,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Mathare,50,289,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Mathare,75,289,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Roysambu,0,4801,4801,4,0,0,4,3,4,1,1,2,2
+Kenya,Nairobi,Roysambu,10,4801,1770,3,0,0,3,3,3,1,1,1,1
+Kenya,Nairobi,Roysambu,15,4801,974,2,0,0,2,3,3,1,1,1,1
+Kenya,Nairobi,Roysambu,20,4801,355,1,0,0,0,2,1,1,0,1,0
+Kenya,Nairobi,Roysambu,25,4801,316,1,0,0,0,2,1,1,0,1,0
+Kenya,Nairobi,Roysambu,30,4801,219,1,0,0,0,1,1,1,0,1,0
+Kenya,Nairobi,Roysambu,50,4801,60,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Roysambu,75,4801,6,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Ruaraka,0,720,720,0,0,0,0,0,0,0,0,0,1
+Kenya,Nairobi,Ruaraka,10,720,90,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Ruaraka,15,720,34,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Ruaraka,20,720,8,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Ruaraka,25,720,6,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Ruaraka,30,720,3,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Ruaraka,50,720,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Ruaraka,75,720,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Starehe,0,1687,1687,0,0,0,0,0,0,0,1,0,0
+Kenya,Nairobi,Starehe,10,1687,62,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Starehe,15,1687,43,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Starehe,20,1687,25,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Starehe,25,1687,24,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Starehe,30,1687,20,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Starehe,50,1687,7,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Starehe,75,1687,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Nairobi,Westlands,0,7585,7585,8,3,19,22,19,24,16,5,3,3
+Kenya,Nairobi,Westlands,10,7585,5020,8,3,18,21,18,22,14,5,3,3
+Kenya,Nairobi,Westlands,15,7585,4069,8,3,17,21,17,21,12,4,2,3
+Kenya,Nairobi,Westlands,20,7585,2696,7,3,15,19,16,17,11,3,2,3
+Kenya,Nairobi,Westlands,25,7585,2548,6,3,15,19,15,17,10,3,2,2
+Kenya,Nairobi,Westlands,30,7585,2057,5,2,15,17,10,16,9,3,2,2
+Kenya,Nairobi,Westlands,50,7585,1083,2,2,10,4,3,9,4,1,1,2
+Kenya,Nairobi,Westlands,75,7585,189,0,0,1,0,0,1,1,0,0,1
+Kenya,Nakuru,Bahati,0,37086,37086,47,48,73,51,34,6,42,7,7,
+Kenya,Nakuru,Bahati,10,37086,22158,40,46,69,44,30,5,38,5,6,
+Kenya,Nakuru,Bahati,15,37086,13938,36,43,60,34,24,3,33,4,5,
+Kenya,Nakuru,Bahati,20,37086,7900,29,40,45,28,20,2,21,3,2,
+Kenya,Nakuru,Bahati,25,37086,7300,29,39,43,27,20,2,20,3,2,
+Kenya,Nakuru,Bahati,30,37086,6097,28,36,37,25,18,2,18,2,2,
+Kenya,Nakuru,Bahati,50,37086,2374,22,16,19,13,12,0,8,2,1,
+Kenya,Nakuru,Bahati,75,37086,1321,17,6,9,8,8,0,4,1,0,
+Kenya,Nakuru,Gilgil,0,126022,126022,43,20,30,97,60,46,109,42,142,
+Kenya,Nakuru,Gilgil,10,126022,48671,21,9,25,60,47,34,95,38,132,
+Kenya,Nakuru,Gilgil,15,126022,33064,18,6,22,48,42,30,85,36,121,
+Kenya,Nakuru,Gilgil,20,126022,18660,13,4,16,34,29,22,70,29,98,
+Kenya,Nakuru,Gilgil,25,126022,16929,12,4,16,31,27,20,69,28,96,
+Kenya,Nakuru,Gilgil,30,126022,13957,11,3,14,25,22,17,62,23,87,
+Kenya,Nakuru,Gilgil,50,126022,6102,4,2,5,4,7,5,24,10,38,
+Kenya,Nakuru,Gilgil,75,126022,3210,1,0,1,1,2,1,8,4,10,
+Kenya,Nakuru,Kuresoi North,0,61168,61168,598,354,469,567,211,193,205,149,151,
+Kenya,Nakuru,Kuresoi North,10,61168,37379,577,348,449,526,188,154,144,85,104,
+Kenya,Nakuru,Kuresoi North,15,61168,29251,552,333,425,484,170,134,118,55,71,
+Kenya,Nakuru,Kuresoi North,20,61168,19853,518,308,392,416,141,82,69,30,45,
+Kenya,Nakuru,Kuresoi North,25,61168,19243,514,305,388,410,139,78,66,28,43,
+Kenya,Nakuru,Kuresoi North,30,61168,16805,503,293,377,390,131,62,52,21,36,
+Kenya,Nakuru,Kuresoi North,50,61168,12765,462,243,339,322,104,32,28,6,20,
+Kenya,Nakuru,Kuresoi North,75,61168,9809,408,200,295,251,67,17,17,1,8,
+Kenya,Nakuru,Kuresoi South,0,51978,51978,35,25,76,160,229,241,335,107,98,
+Kenya,Nakuru,Kuresoi South,10,51978,43126,32,24,75,154,210,227,316,92,84,
+Kenya,Nakuru,Kuresoi South,15,51978,37680,31,23,71,147,186,216,301,85,73,
+Kenya,Nakuru,Kuresoi South,20,51978,25138,26,16,59,116,131,164,242,62,52,
+Kenya,Nakuru,Kuresoi South,25,51978,24257,25,15,57,113,127,158,236,60,51,
+Kenya,Nakuru,Kuresoi South,30,51978,19462,22,12,50,97,101,127,199,45,41,
+Kenya,Nakuru,Kuresoi South,50,51978,10583,8,4,19,39,45,50,89,15,16,
+Kenya,Nakuru,Kuresoi South,75,51978,6124,2,1,3,5,17,12,24,3,3,
+Kenya,Nakuru,Molo,0,50207,50207,183,212,492,903,597,441,291,105,169,
+Kenya,Nakuru,Molo,10,50207,40377,174,206,477,879,571,330,237,77,106,
+Kenya,Nakuru,Molo,15,50207,34422,170,199,449,846,525,288,195,60,80,
+Kenya,Nakuru,Molo,20,50207,24874,158,186,410,768,468,231,136,35,51,
+Kenya,Nakuru,Molo,25,50207,24413,158,184,406,760,462,228,133,34,49,
+Kenya,Nakuru,Molo,30,50207,22424,153,181,389,724,440,209,122,29,41,
+Kenya,Nakuru,Molo,50,50207,18672,133,156,333,608,381,175,87,17,24,
+Kenya,Nakuru,Molo,75,50207,13217,103,101,210,325,220,76,44,13,12,
+Kenya,Nakuru,Naivasha,0,172140,172140,48,47,21,137,37,47,74,73,155,
+Kenya,Nakuru,Naivasha,10,172140,36857,16,27,18,105,30,27,64,33,120,
+Kenya,Nakuru,Naivasha,15,172140,26516,12,19,14,87,27,21,58,22,83,
+Kenya,Nakuru,Naivasha,20,172140,16243,8,10,9,53,20,14,41,14,62,
+Kenya,Nakuru,Naivasha,25,172140,14998,8,9,9,48,19,13,39,13,60,
+Kenya,Nakuru,Naivasha,30,172140,12766,7,8,7,29,17,10,34,12,51,
+Kenya,Nakuru,Naivasha,50,172140,8523,2,6,2,10,10,4,17,9,17,
+Kenya,Nakuru,Naivasha,75,172140,5594,0,4,1,4,6,1,8,5,3,
+Kenya,Nakuru,Nakuru Town East,0,16846,16846,4,10,0,11,2,0,1,0,13,
+Kenya,Nakuru,Nakuru Town East,10,16846,5424,3,10,0,10,2,0,1,0,13,
+Kenya,Nakuru,Nakuru Town East,15,16846,4173,3,7,0,9,2,0,1,0,12,
+Kenya,Nakuru,Nakuru Town East,20,16846,2728,1,3,0,7,1,0,0,0,6,
+Kenya,Nakuru,Nakuru Town East,25,16846,2509,1,2,0,6,1,0,0,0,3,
+Kenya,Nakuru,Nakuru Town East,30,16846,1989,0,1,0,6,1,0,0,0,2,
+Kenya,Nakuru,Nakuru Town East,50,16846,795,0,0,0,4,1,0,0,0,0,
+Kenya,Nakuru,Nakuru Town East,75,16846,209,0,0,0,0,0,0,0,0,0,
+Kenya,Nakuru,Nakuru Town West,0,12900,12900,4,2,0,4,5,0,15,2,3,
+Kenya,Nakuru,Nakuru Town West,10,12900,3360,0,1,0,2,3,0,15,1,2,
+Kenya,Nakuru,Nakuru Town West,15,12900,2268,0,1,0,0,2,0,15,1,2,
+Kenya,Nakuru,Nakuru Town West,20,12900,1429,0,1,0,0,2,0,15,0,2,
+Kenya,Nakuru,Nakuru Town West,25,12900,1355,0,1,0,0,2,0,15,0,2,
+Kenya,Nakuru,Nakuru Town West,30,12900,1174,0,1,0,0,2,0,15,0,2,
+Kenya,Nakuru,Nakuru Town West,50,12900,515,0,0,0,0,1,0,15,0,1,
+Kenya,Nakuru,Nakuru Town West,75,12900,197,0,0,0,0,1,0,13,0,1,
+Kenya,Nakuru,Njoro,0,75903,75903,69,314,193,201,320,214,92,49,53,
+Kenya,Nakuru,Njoro,10,75903,47419,38,302,182,183,270,178,76,24,33,
+Kenya,Nakuru,Njoro,15,75903,33757,29,295,175,174,247,163,61,19,25,
+Kenya,Nakuru,Njoro,20,75903,22406,19,286,164,157,226,135,48,14,13,
+Kenya,Nakuru,Njoro,25,75903,21815,18,286,163,156,225,134,47,13,12,
+Kenya,Nakuru,Njoro,30,75903,20117,15,283,160,150,219,129,44,12,11,
+Kenya,Nakuru,Njoro,50,75903,17041,11,274,146,130,202,118,36,6,7,
+Kenya,Nakuru,Njoro,75,75903,10162,7,219,111,83,118,85,22,2,4,
+Kenya,Nakuru,Rongai,0,102468,102468,436,179,52,119,75,96,101,100,161,
+Kenya,Nakuru,Rongai,10,102468,26376,211,122,40,63,18,14,26,48,27,
+Kenya,Nakuru,Rongai,15,102468,11827,119,82,31,43,15,11,17,31,17,
+Kenya,Nakuru,Rongai,20,102468,3712,46,43,20,25,10,8,9,20,7,
+Kenya,Nakuru,Rongai,25,102468,3060,40,38,19,22,10,7,7,18,6,
+Kenya,Nakuru,Rongai,30,102468,2062,27,27,13,15,8,7,4,14,4,
+Kenya,Nakuru,Rongai,50,102468,486,2,2,0,3,0,0,1,0,1,
+Kenya,Nakuru,Rongai,75,102468,216,0,0,0,0,0,0,0,0,0,
+Kenya,Nakuru,Subukia,0,40832,40832,21,66,88,128,128,20,73,18,28,
+Kenya,Nakuru,Subukia,10,40832,21549,11,61,82,111,120,18,64,15,22,
+Kenya,Nakuru,Subukia,15,40832,14483,9,55,77,93,111,15,50,13,19,
+Kenya,Nakuru,Subukia,20,40832,8441,6,42,69,75,99,10,42,5,13,
+Kenya,Nakuru,Subukia,25,40832,7805,6,38,68,73,97,10,40,5,12,
+Kenya,Nakuru,Subukia,30,40832,6547,5,31,65,70,90,8,38,3,11,
+Kenya,Nakuru,Subukia,50,40832,3566,3,25,45,50,69,4,23,1,7,
+Kenya,Nakuru,Subukia,75,40832,2144,2,20,29,34,50,2,9,0,5,
+Kenya,Nandi,Aldai,0,46748,46748,71,106,120,101,115,281,64,109,132,126
+Kenya,Nandi,Aldai,10,46748,45715,71,105,119,101,114,281,63,106,130,125
+Kenya,Nandi,Aldai,15,46748,42747,69,103,118,98,113,276,56,102,127,123
+Kenya,Nandi,Aldai,20,46748,31031,62,90,110,86,103,244,44,79,108,111
+Kenya,Nandi,Aldai,25,46748,29481,61,88,109,84,100,236,42,75,104,107
+Kenya,Nandi,Aldai,30,46748,23519,57,82,105,76,89,207,33,63,91,97
+Kenya,Nandi,Aldai,50,46748,10913,42,65,88,35,36,68,7,18,39,48
+Kenya,Nandi,Aldai,75,46748,8195,31,55,57,17,13,21,1,3,7,6
+Kenya,Nandi,Chesumei,0,47531,47531,109,243,267,321,197,402,175,210,139,109
+Kenya,Nandi,Chesumei,10,47531,38635,99,232,260,300,172,363,148,174,118,89
+Kenya,Nandi,Chesumei,15,47531,32602,87,219,249,261,149,322,128,152,101,74
+Kenya,Nandi,Chesumei,20,47531,20170,58,189,216,206,97,213,77,86,61,47
+Kenya,Nandi,Chesumei,25,47531,18777,54,185,211,197,90,197,71,77,55,43
+Kenya,Nandi,Chesumei,30,47531,14824,43,174,195,169,73,153,51,55,37,32
+Kenya,Nandi,Chesumei,50,47531,7504,19,134,146,105,21,29,6,6,6,6
+Kenya,Nandi,Chesumei,75,47531,5846,12,104,90,70,9,7,1,0,1,1
+Kenya,Nandi,Emgwen,0,37282,37282,110,193,137,154,189,370,106,148,152,107
+Kenya,Nandi,Emgwen,10,37282,32115,105,191,133,144,173,343,82,132,135,90
+Kenya,Nandi,Emgwen,15,37282,28951,99,185,127,137,163,325,72,122,125,80
+Kenya,Nandi,Emgwen,20,37282,18958,73,166,104,103,127,252,46,88,75,59
+Kenya,Nandi,Emgwen,25,37282,17844,70,163,100,97,122,237,41,83,69,56
+Kenya,Nandi,Emgwen,30,37282,14489,63,153,92,84,108,197,32,71,53,47
+Kenya,Nandi,Emgwen,50,37282,7460,28,81,51,35,40,42,5,26,21,13
+Kenya,Nandi,Emgwen,75,37282,5886,14,50,27,15,13,6,1,10,8,1
+Kenya,Nandi,Mosop,0,58454,58454,45,44,56,129,91,142,138,92,69,43
+Kenya,Nandi,Mosop,10,58454,35211,37,39,46,100,62,108,91,58,39,29
+Kenya,Nandi,Mosop,15,58454,21764,27,34,38,80,42,82,60,38,23,21
+Kenya,Nandi,Mosop,20,58454,12023,17,28,29,57,22,48,30,21,11,12
+Kenya,Nandi,Mosop,25,58454,11266,16,28,29,55,21,44,27,20,10,11
+Kenya,Nandi,Mosop,30,58454,9250,13,27,26,50,17,35,21,14,8,9
+Kenya,Nandi,Mosop,50,58454,5274,6,22,16,30,4,6,5,3,1,2
+Kenya,Nandi,Mosop,75,58454,4481,4,17,8,18,1,2,4,0,0,1
+Kenya,Nandi,Nandi Hills,0,38924,38924,216,410,429,240,503,221,417,125,188,247
+Kenya,Nandi,Nandi Hills,10,38924,35553,212,408,428,236,498,209,410,120,183,240
+Kenya,Nandi,Nandi Hills,15,38924,31842,205,404,425,228,490,193,398,113,173,230
+Kenya,Nandi,Nandi Hills,20,38924,24689,187,385,406,200,463,156,367,99,151,200
+Kenya,Nandi,Nandi Hills,25,38924,23872,184,383,402,194,459,149,363,98,148,198
+Kenya,Nandi,Nandi Hills,30,38924,21616,178,375,395,181,447,137,348,94,140,184
+Kenya,Nandi,Nandi Hills,50,38924,14850,154,304,299,118,361,75,258,68,96,136
+Kenya,Nandi,Nandi Hills,75,38924,10480,97,206,167,73,215,38,143,39,48,74
+Kenya,Nandi,Tinderet,0,54107,54107,292,184,169,154,175,114,258,89,59,153
+Kenya,Nandi,Tinderet,10,54107,52533,285,182,168,152,175,113,254,88,58,151
+Kenya,Nandi,Tinderet,15,54107,49495,269,178,165,148,172,112,252,85,56,148
+Kenya,Nandi,Tinderet,20,54107,35528,182,146,143,124,159,103,229,75,48,131
+Kenya,Nandi,Tinderet,25,54107,32911,162,138,138,115,157,101,218,72,45,128
+Kenya,Nandi,Tinderet,30,54107,26494,126,112,127,104,145,95,202,64,41,111
+Kenya,Nandi,Tinderet,50,54107,11775,64,57,71,63,96,41,130,27,19,63
+Kenya,Nandi,Tinderet,75,54107,8599,31,20,47,33,41,17,68,11,9,29
+Kenya,Narok,Emurua Dikirr,0,31654,31654,47,7,9,11,17,5,23,5,6,
+Kenya,Narok,Emurua Dikirr,10,31654,25452,43,6,8,10,15,5,19,3,6,
+Kenya,Narok,Emurua Dikirr,15,31654,16599,33,5,7,9,12,4,14,0,5,
+Kenya,Narok,Emurua Dikirr,20,31654,2634,5,3,3,7,6,3,7,0,1,
+Kenya,Narok,Emurua Dikirr,25,31654,2247,4,3,3,7,6,3,6,0,1,
+Kenya,Narok,Emurua Dikirr,30,31654,1097,2,2,1,4,5,2,4,0,1,
+Kenya,Narok,Emurua Dikirr,50,31654,121,0,1,1,1,0,0,0,0,0,
+Kenya,Narok,Emurua Dikirr,75,31654,21,0,0,0,0,0,0,0,0,0,
+Kenya,Narok,Kilgoris,0,255342,255342,1790,2691,1903,1455,1927,1239,2592,467,945,
+Kenya,Narok,Kilgoris,10,255342,233769,1777,2688,1902,1450,1922,1235,2589,457,934,
+Kenya,Narok,Kilgoris,15,255342,166577,1737,2679,1900,1443,1900,1222,2578,443,904,
+Kenya,Narok,Kilgoris,20,255342,89062,1525,2586,1869,1314,1723,1176,2446,367,791,
+Kenya,Narok,Kilgoris,25,255342,83154,1494,2573,1864,1297,1695,1168,2427,358,777,
+Kenya,Narok,Kilgoris,30,255342,59651,1367,2509,1821,1227,1562,1119,2308,314,710,
+Kenya,Narok,Kilgoris,50,255342,30640,1031,2060,1459,970,1163,921,1935,227,542,
+Kenya,Narok,Kilgoris,75,255342,5393,71,209,156,96,114,111,256,27,83,
+Kenya,Narok,Narok East,0,159019,159019,142,15,65,156,60,61,372,216,111,
+Kenya,Narok,Narok East,10,159019,32529,75,15,64,138,57,58,345,100,84,
+Kenya,Narok,Narok East,15,159019,21315,53,14,61,124,56,55,331,73,74,
+Kenya,Narok,Narok East,20,159019,10865,31,12,49,80,52,49,264,36,49,
+Kenya,Narok,Narok East,25,159019,9734,29,10,44,72,50,48,254,33,44,
+Kenya,Narok,Narok East,30,159019,6910,22,8,36,53,44,42,210,23,31,
+Kenya,Narok,Narok East,50,159019,2787,7,5,18,18,28,29,122,6,11,
+Kenya,Narok,Narok East,75,159019,609,1,1,7,5,9,9,37,1,3,
+Kenya,Narok,Narok North,0,272336,272336,545,891,1216,2086,2032,1531,1808,270,439,
+Kenya,Narok,Narok North,10,272336,185157,437,883,1212,2043,2002,1487,1793,259,436,
+Kenya,Narok,Narok North,15,272336,170557,423,881,1206,2022,1988,1470,1787,252,432,
+Kenya,Narok,Narok North,20,272336,147311,386,869,1172,1929,1919,1378,1743,219,407,
+Kenya,Narok,Narok North,25,272336,144589,380,864,1155,1901,1901,1354,1732,213,401,
+Kenya,Narok,Narok North,30,272336,135972,355,848,1113,1821,1850,1286,1687,194,381,
+Kenya,Narok,Narok North,50,272336,113539,261,746,918,1487,1602,1035,1442,127,282,
+Kenya,Narok,Narok North,75,272336,88315,153,501,623,1036,1112,681,989,80,178,
+Kenya,Narok,Narok South,0,538141,538141,249,130,268,334,481,314,900,250,254,
+Kenya,Narok,Narok South,10,538141,218566,171,128,258,318,471,302,882,228,245,
+Kenya,Narok,Narok South,15,538141,173705,156,126,249,298,456,288,862,211,240,
+Kenya,Narok,Narok South,20,538141,126273,123,118,207,226,409,245,787,158,213,
+Kenya,Narok,Narok South,25,538141,120560,116,116,197,214,400,234,772,144,203,
+Kenya,Narok,Narok South,30,538141,106881,100,110,166,186,368,206,714,112,180,
+Kenya,Narok,Narok South,50,538141,80454,53,75,73,100,221,128,519,26,100,
+Kenya,Narok,Narok South,75,538141,58017,14,24,20,32,87,44,252,6,44,
+Kenya,Narok,Narok West,0,545024,545024,667,92,80,149,103,53,97,108,128,
+Kenya,Narok,Narok West,10,545024,185681,342,91,78,137,95,50,89,92,118,
+Kenya,Narok,Narok West,15,545024,72199,98,90,76,123,89,48,82,78,109,
+Kenya,Narok,Narok West,20,545024,35896,72,84,64,93,65,38,62,48,72,
+Kenya,Narok,Narok West,25,545024,32228,69,82,63,88,62,36,60,44,66,
+Kenya,Narok,Narok West,30,545024,24120,58,78,54,74,51,32,52,32,50,
+Kenya,Narok,Narok West,50,545024,5995,11,24,20,28,18,14,18,4,7,
+Kenya,Narok,Narok West,75,545024,950,0,1,1,5,2,2,2,0,1,
+Kenya,Nyamira,Borabu,0,29321,29321,68,88,135,137,345,640,756,94,277,428
+Kenya,Nyamira,Borabu,10,29321,27980,68,88,133,136,333,629,742,92,268,414
+Kenya,Nyamira,Borabu,15,29321,25776,66,87,126,131,302,600,707,86,246,381
+Kenya,Nyamira,Borabu,20,29321,16043,58,86,107,119,213,522,578,66,192,282
+Kenya,Nyamira,Borabu,25,29321,15235,57,85,105,117,205,513,566,64,187,276
+Kenya,Nyamira,Borabu,30,29321,11476,54,83,97,109,163,470,502,58,165,243
+Kenya,Nyamira,Borabu,50,29321,4901,43,61,70,79,79,314,302,37,84,136
+Kenya,Nyamira,Borabu,75,29321,1846,36,32,46,46,36,114,95,19,27,49
+Kenya,Nyamira,Kitutu Masaba,0,25368,25368,11,0,24,60,6,132,503,37,41,82
+Kenya,Nyamira,Kitutu Masaba,10,25368,25045,11,0,23,60,6,131,503,37,41,81
+Kenya,Nyamira,Kitutu Masaba,15,25368,24864,11,0,23,60,6,131,502,37,41,81
+Kenya,Nyamira,Kitutu Masaba,20,25368,21660,9,0,23,56,6,127,494,34,35,74
+Kenya,Nyamira,Kitutu Masaba,25,25368,20884,9,0,23,55,6,126,491,34,34,72
+Kenya,Nyamira,Kitutu Masaba,30,25368,16047,7,0,21,50,5,119,469,30,30,60
+Kenya,Nyamira,Kitutu Masaba,50,25368,4635,5,0,15,28,3,75,332,18,18,29
+Kenya,Nyamira,Kitutu Masaba,75,25368,1031,4,0,6,9,0,33,131,10,5,9
+Kenya,Nyamira,North Mugirango,0,17041,17041,5,3,12,19,13,93,93,38,60,47
+Kenya,Nyamira,North Mugirango,10,17041,16814,5,3,11,19,13,93,91,37,59,46
+Kenya,Nyamira,North Mugirango,15,17041,16235,5,3,11,19,13,92,88,33,57,44
+Kenya,Nyamira,North Mugirango,20,17041,10969,3,3,9,15,11,80,72,21,41,32
+Kenya,Nyamira,North Mugirango,25,17041,10170,3,3,8,15,10,79,69,21,39,30
+Kenya,Nyamira,North Mugirango,30,17041,7052,2,3,7,11,9,72,58,17,32,24
+Kenya,Nyamira,North Mugirango,50,17041,676,1,0,2,2,2,21,15,3,6,6
+Kenya,Nyamira,North Mugirango,75,17041,74,0,0,0,0,0,2,3,1,1,1
+Kenya,Nyamira,West Mugirango,0,17989,17989,4,1,10,24,9,127,260,27,37,47
+Kenya,Nyamira,West Mugirango,10,17989,17716,4,1,10,23,9,127,260,27,37,47
+Kenya,Nyamira,West Mugirango,15,17989,17449,4,1,10,23,9,127,260,27,37,47
+Kenya,Nyamira,West Mugirango,20,17989,14431,4,1,10,21,9,124,256,26,33,44
+Kenya,Nyamira,West Mugirango,25,17989,13790,4,1,10,20,8,124,255,25,32,43
+Kenya,Nyamira,West Mugirango,30,17989,10837,3,1,9,19,7,120,247,24,28,39
+Kenya,Nyamira,West Mugirango,50,17989,2848,1,0,6,10,4,68,163,12,15,21
+Kenya,Nyamira,West Mugirango,75,17989,675,0,0,2,3,1,23,73,6,6,6
+Kenya,Nyandarua,Kinangop,0,83314,83314,97,253,252,254,368,164,143,41,95,215
+Kenya,Nyandarua,Kinangop,10,83314,49292,75,240,235,209,272,126,118,30,61,178
+Kenya,Nyandarua,Kinangop,15,83314,38233,68,226,222,185,229,96,100,22,41,154
+Kenya,Nyandarua,Kinangop,20,83314,27317,60,211,200,158,173,58,72,12,21,116
+Kenya,Nyandarua,Kinangop,25,83314,26626,59,209,198,156,170,54,69,11,20,113
+Kenya,Nyandarua,Kinangop,30,83314,24421,57,202,190,146,154,44,58,9,15,104
+Kenya,Nyandarua,Kinangop,50,83314,20754,52,178,173,125,115,23,29,5,6,81
+Kenya,Nyandarua,Kinangop,75,83314,10282,42,113,134,84,65,7,12,3,2,47
+Kenya,Nyandarua,Kipipiri,0,64706,64706,10,16,79,50,120,125,84,19,43,82
+Kenya,Nyandarua,Kipipiri,10,64706,45888,6,16,76,47,111,102,72,16,26,39
+Kenya,Nyandarua,Kipipiri,15,64706,36960,5,13,62,41,106,85,62,15,17,28
+Kenya,Nyandarua,Kipipiri,20,64706,27738,4,11,46,30,92,66,51,11,9,21
+Kenya,Nyandarua,Kipipiri,25,64706,25939,4,10,45,29,90,63,49,11,8,20
+Kenya,Nyandarua,Kipipiri,30,64706,22796,4,10,41,25,83,56,42,8,5,16
+Kenya,Nyandarua,Kipipiri,50,64706,14959,3,9,31,15,62,40,21,2,1,6
+Kenya,Nyandarua,Kipipiri,75,64706,6373,3,5,9,5,53,14,9,0,0,1
+Kenya,Nyandarua,Ndaragwa,0,77980,77980,13,44,51,155,84,78,131,38,45,108
+Kenya,Nyandarua,Ndaragwa,10,77980,48324,9,40,47,144,79,66,104,24,33,84
+Kenya,Nyandarua,Ndaragwa,15,77980,38740,8,38,43,137,76,56,91,21,25,70
+Kenya,Nyandarua,Ndaragwa,20,77980,29384,8,34,39,122,69,43,70,13,13,54
+Kenya,Nyandarua,Ndaragwa,25,77980,28507,8,33,39,119,67,42,67,12,12,52
+Kenya,Nyandarua,Ndaragwa,30,77980,26557,7,31,38,113,65,39,60,9,11,48
+Kenya,Nyandarua,Ndaragwa,50,77980,21111,5,12,23,76,55,28,36,4,7,35
+Kenya,Nyandarua,Ndaragwa,75,77980,11862,2,3,9,30,36,17,16,1,4,23
+Kenya,Nyandarua,Ol Jorok,0,46899,46899,64,104,126,206,301,236,371,153,175,127
+Kenya,Nyandarua,Ol Jorok,10,46899,25420,57,96,122,194,265,196,314,113,107,98
+Kenya,Nyandarua,Ol Jorok,15,46899,16305,56,88,113,167,219,161,262,85,83,75
+Kenya,Nyandarua,Ol Jorok,20,46899,8272,51,76,92,104,133,95,168,48,46,46
+Kenya,Nyandarua,Ol Jorok,25,46899,7744,51,75,88,97,125,90,160,45,42,43
+Kenya,Nyandarua,Ol Jorok,30,46899,6019,49,72,77,74,95,68,130,35,31,33
+Kenya,Nyandarua,Ol Jorok,50,46899,2879,29,35,18,26,37,25,60,13,10,14
+Kenya,Nyandarua,Ol Jorok,75,46899,1249,9,6,5,8,12,8,21,3,2,5
+Kenya,Nyandarua,Ol Kalou,0,53758,53758,24,39,73,149,202,158,391,106,143,88
+Kenya,Nyandarua,Ol Kalou,10,53758,26754,18,30,62,117,175,124,335,66,66,59
+Kenya,Nyandarua,Ol Kalou,15,53758,16724,16,26,57,96,155,99,287,48,49,45
+Kenya,Nyandarua,Ol Kalou,20,53758,8635,11,20,46,66,107,66,208,30,30,27
+Kenya,Nyandarua,Ol Kalou,25,53758,8039,11,19,44,63,104,64,200,28,28,26
+Kenya,Nyandarua,Ol Kalou,30,53758,6247,9,16,39,52,88,53,170,22,23,20
+Kenya,Nyandarua,Ol Kalou,50,53758,3001,4,5,21,23,43,21,80,8,8,11
+Kenya,Nyandarua,Ol Kalou,75,53758,1555,1,2,8,8,19,6,38,2,2,5
+Kenya,Nyeri,Kieni,0,181391,181391,245,311,335,338,254,134,238,23,42,165
+Kenya,Nyeri,Kieni,10,181391,130541,204,310,333,328,249,127,232,16,33,160
+Kenya,Nyeri,Kieni,15,181391,114800,196,306,330,324,242,124,228,13,27,146
+Kenya,Nyeri,Kieni,20,181391,93148,182,293,318,308,221,117,219,9,21,131
+Kenya,Nyeri,Kieni,25,181391,90080,180,291,316,305,217,116,217,8,19,130
+Kenya,Nyeri,Kieni,30,181391,83553,175,281,308,293,204,111,210,7,16,123
+Kenya,Nyeri,Kieni,50,181391,66162,142,249,271,242,164,93,155,4,8,85
+Kenya,Nyeri,Kieni,75,181391,40319,90,183,208,175,123,65,113,2,3,57
+Kenya,Nyeri,Mathira,0,45800,45800,38,36,143,100,57,57,233,17,29,92
+Kenya,Nyeri,Mathira,10,45800,42939,38,36,142,100,57,56,231,17,29,92
+Kenya,Nyeri,Mathira,15,45800,40500,37,36,141,99,57,55,226,16,27,91
+Kenya,Nyeri,Mathira,20,45800,32193,27,33,135,97,55,49,207,12,22,86
+Kenya,Nyeri,Mathira,25,45800,31111,27,33,134,96,55,47,204,11,21,84
+Kenya,Nyeri,Mathira,30,45800,27474,24,31,129,92,52,41,192,9,14,80
+Kenya,Nyeri,Mathira,50,45800,18623,13,26,97,78,43,14,151,2,5,51
+Kenya,Nyeri,Mathira,75,45800,13695,9,15,51,53,33,2,114,1,1,15
+Kenya,Nyeri,Mukurweini,0,17836,17836,3,3,13,13,1,29,49,6,11,19
+Kenya,Nyeri,Mukurweini,10,17836,14234,3,3,13,13,1,28,47,5,9,17
+Kenya,Nyeri,Mukurweini,15,17836,12144,3,3,12,12,1,26,44,5,9,16
+Kenya,Nyeri,Mukurweini,20,17836,7123,2,2,9,10,0,20,33,4,7,12
+Kenya,Nyeri,Mukurweini,25,17836,6466,2,2,9,9,0,19,31,3,6,11
+Kenya,Nyeri,Mukurweini,30,17836,4584,2,2,7,8,0,17,25,3,5,10
+Kenya,Nyeri,Mukurweini,50,17836,677,1,0,2,3,0,4,7,1,2,2
+Kenya,Nyeri,Mukurweini,75,17836,67,0,0,0,0,0,0,1,0,0,0
+Kenya,Nyeri,Nyeri Town,0,16928,16928,6,11,30,11,18,31,55,4,19,26
+Kenya,Nyeri,Nyeri Town,10,16928,14246,6,11,28,10,18,31,55,3,17,25
+Kenya,Nyeri,Nyeri Town,15,16928,12747,6,11,24,9,17,31,54,3,16,24
+Kenya,Nyeri,Nyeri Town,20,16928,7585,5,10,15,6,11,24,44,2,13,21
+Kenya,Nyeri,Nyeri Town,25,16928,6677,5,10,14,6,10,19,39,2,12,19
+Kenya,Nyeri,Nyeri Town,30,16928,5125,5,7,10,3,6,14,28,2,10,15
+Kenya,Nyeri,Nyeri Town,50,16928,1756,3,3,3,0,1,4,8,1,2,5
+Kenya,Nyeri,Nyeri Town,75,16928,481,0,0,0,0,0,0,2,0,1,1
+Kenya,Nyeri,Othaya,0,35646,35646,16,21,55,81,114,63,55,14,11,32
+Kenya,Nyeri,Othaya,10,35646,34191,14,21,54,81,113,63,54,13,11,31
+Kenya,Nyeri,Othaya,15,35646,33096,12,21,54,80,112,62,53,13,10,30
+Kenya,Nyeri,Othaya,20,35646,28617,10,19,51,77,107,60,49,11,9,26
+Kenya,Nyeri,Othaya,25,35646,27939,10,19,50,77,106,59,48,11,9,25
+Kenya,Nyeri,Othaya,30,35646,25913,9,18,49,74,103,56,45,10,8,23
+Kenya,Nyeri,Othaya,50,35646,18543,6,15,33,62,77,32,25,7,3,13
+Kenya,Nyeri,Othaya,75,35646,10745,3,12,22,49,54,14,11,3,1,5
+Kenya,Nyeri,Tetu,0,35851,35851,69,94,204,135,83,60,119,7,9,122
+Kenya,Nyeri,Tetu,10,35851,34770,69,94,204,134,83,59,119,6,9,121
+Kenya,Nyeri,Tetu,15,35851,33725,65,93,197,134,82,58,116,6,8,120
+Kenya,Nyeri,Tetu,20,35851,28669,60,92,190,129,77,54,107,5,8,114
+Kenya,Nyeri,Tetu,25,35851,27787,59,92,189,128,76,53,106,5,7,113
+Kenya,Nyeri,Tetu,30,35851,25657,57,91,185,125,72,49,99,4,6,111
+Kenya,Nyeri,Tetu,50,35851,19382,53,87,164,113,56,31,73,1,3,98
+Kenya,Nyeri,Tetu,75,35851,11443,48,78,136,97,43,19,53,0,1,31
+Kenya,Samburu,Samburu East,0,1004101,1004101,39,48,17,168,13,7,25,18,13,14
+Kenya,Samburu,Samburu East,10,1004101,78345,2,42,10,111,8,6,20,17,13,8
+Kenya,Samburu,Samburu East,15,1004101,60246,2,41,9,102,6,6,19,17,13,7
+Kenya,Samburu,Samburu East,20,1004101,40963,2,28,8,82,5,6,18,15,13,7
+Kenya,Samburu,Samburu East,25,1004101,38661,2,25,7,82,5,6,18,14,13,7
+Kenya,Samburu,Samburu East,30,1004101,33378,1,19,6,76,4,6,17,11,11,6
+Kenya,Samburu,Samburu East,50,1004101,20790,1,4,3,49,3,4,11,4,7,5
+Kenya,Samburu,Samburu East,75,1004101,8301,0,0,0,10,1,0,6,0,3,1
+Kenya,Samburu,Samburu North,0,844911,844911,12,57,18,190,11,19,20,68,121,55
+Kenya,Samburu,Samburu North,10,844911,87165,7,47,16,158,11,13,18,25,89,49
+Kenya,Samburu,Samburu North,15,844911,69092,5,41,16,145,10,11,17,20,82,47
+Kenya,Samburu,Samburu North,20,844911,44862,1,23,12,104,7,8,15,6,69,43
+Kenya,Samburu,Samburu North,25,844911,41417,1,21,12,99,7,8,15,5,68,43
+Kenya,Samburu,Samburu North,30,844911,35966,1,17,11,86,6,7,15,2,64,41
+Kenya,Samburu,Samburu North,50,844911,21823,0,9,8,48,4,6,14,0,53,34
+Kenya,Samburu,Samburu North,75,844911,8197,0,1,0,6,0,0,11,0,8,8
+Kenya,Samburu,Samburu West,0,246965,246965,47,12,11,30,3,17,8,22,40,90
+Kenya,Samburu,Samburu West,10,246965,37358,10,8,9,27,2,12,7,15,28,48
+Kenya,Samburu,Samburu West,15,246965,30730,7,7,9,25,2,11,7,13,25,42
+Kenya,Samburu,Samburu West,20,246965,19719,3,4,6,23,2,8,5,8,18,23
+Kenya,Samburu,Samburu West,25,246965,17379,3,3,4,22,1,6,4,5,13,17
+Kenya,Samburu,Samburu West,30,246965,14790,2,3,3,21,1,5,3,3,8,12
+Kenya,Samburu,Samburu West,50,246965,8166,1,1,1,15,0,3,2,1,2,6
+Kenya,Samburu,Samburu West,75,246965,2360,0,0,0,3,0,0,2,0,0,1
+Kenya,Siaya,Alego Usonga,0,60722,60722,121,7,385,511,25,583,49,50,86,154
+Kenya,Siaya,Alego Usonga,10,60722,57169,117,7,384,511,24,581,44,50,86,152
+Kenya,Siaya,Alego Usonga,15,60722,37665,87,6,376,511,24,577,42,48,84,144
+Kenya,Siaya,Alego Usonga,20,60722,14087,58,6,345,504,24,567,36,40,78,128
+Kenya,Siaya,Alego Usonga,25,60722,12714,54,6,333,500,24,566,34,38,77,125
+Kenya,Siaya,Alego Usonga,30,60722,9655,41,5,296,491,23,557,28,32,73,118
+Kenya,Siaya,Alego Usonga,50,60722,3502,10,2,90,335,17,451,4,10,54,97
+Kenya,Siaya,Alego Usonga,75,60722,67,0,0,0,0,0,1,0,0,0,0
+Kenya,Siaya,Bondo,0,128904,128904,466,25,349,107,56,321,107,110,137,154
+Kenya,Siaya,Bondo,10,128904,56319,438,25,348,107,56,320,106,110,137,152
+Kenya,Siaya,Bondo,15,128904,36324,283,25,337,104,55,317,102,103,134,146
+Kenya,Siaya,Bondo,20,128904,17065,157,23,277,98,53,310,92,87,121,124
+Kenya,Siaya,Bondo,25,128904,15588,145,23,268,97,52,310,88,85,119,121
+Kenya,Siaya,Bondo,30,128904,11888,112,22,230,91,51,304,79,73,106,108
+Kenya,Siaya,Bondo,50,128904,3376,11,6,44,57,22,204,19,23,53,54
+Kenya,Siaya,Bondo,75,128904,397,0,0,0,0,0,2,1,0,0,0
+Kenya,Siaya,Gem,0,40309,40309,38,1,20,48,25,54,98,36,24,51
+Kenya,Siaya,Gem,10,40309,39329,36,1,20,47,24,53,96,36,23,50
+Kenya,Siaya,Gem,15,40309,30901,29,1,19,43,21,51,89,32,20,47
+Kenya,Siaya,Gem,20,40309,12133,13,0,15,33,18,41,64,25,11,30
+Kenya,Siaya,Gem,25,40309,10508,12,0,14,30,17,39,60,23,10,27
+Kenya,Siaya,Gem,30,40309,5797,8,0,13,23,13,31,45,17,8,20
+Kenya,Siaya,Gem,50,40309,315,2,0,5,3,3,5,8,2,1,3
+Kenya,Siaya,Gem,75,40309,7,0,0,0,0,0,0,0,0,0,0
+Kenya,Siaya,Rarieda,0,67955,67955,16,0,3,10,0,0,3,3,1,3
+Kenya,Siaya,Rarieda,10,67955,35675,14,0,3,10,0,0,3,3,1,3
+Kenya,Siaya,Rarieda,15,67955,24667,8,0,3,10,0,0,3,3,1,3
+Kenya,Siaya,Rarieda,20,67955,4453,3,0,3,8,0,0,2,2,1,2
+Kenya,Siaya,Rarieda,25,67955,3037,3,0,3,6,0,0,2,2,1,2
+Kenya,Siaya,Rarieda,30,67955,1610,2,0,2,2,0,0,1,1,1,1
+Kenya,Siaya,Rarieda,50,67955,219,0,0,1,0,0,0,0,0,0,0
+Kenya,Siaya,Rarieda,75,67955,11,0,0,0,0,0,0,0,0,0,0
+Kenya,Siaya,Ugenya,0,30831,30831,8,2,11,11,15,53,34,10,1,12
+Kenya,Siaya,Ugenya,10,30831,30120,8,2,11,11,15,53,34,9,1,12
+Kenya,Siaya,Ugenya,15,30831,24190,7,2,11,11,15,52,32,9,1,11
+Kenya,Siaya,Ugenya,20,30831,8959,5,1,10,9,11,46,28,6,1,6
+Kenya,Siaya,Ugenya,25,30831,7547,4,1,10,9,9,44,27,6,1,5
+Kenya,Siaya,Ugenya,30,30831,4624,3,1,8,8,7,40,25,4,0,4
+Kenya,Siaya,Ugenya,50,30831,370,1,0,0,1,1,15,11,2,0,0
+Kenya,Siaya,Ugenya,75,30831,5,0,0,0,0,0,0,0,0,0,0
+Kenya,Siaya,Ugunja,0,21124,21124,9,3,6,4,22,31,12,8,3,10
+Kenya,Siaya,Ugunja,10,21124,20053,8,3,6,4,22,31,12,8,3,9
+Kenya,Siaya,Ugunja,15,21124,13593,5,2,4,4,20,30,11,6,2,6
+Kenya,Siaya,Ugunja,20,21124,3535,1,1,2,3,14,18,6,1,1,4
+Kenya,Siaya,Ugunja,25,21124,2959,1,1,2,3,13,17,6,1,1,3
+Kenya,Siaya,Ugunja,30,21124,1551,1,0,1,2,9,11,4,1,0,2
+Kenya,Siaya,Ugunja,50,21124,92,0,0,0,0,2,1,1,0,0,1
+Kenya,Siaya,Ugunja,75,21124,3,0,0,0,0,0,0,0,0,0,0
+Kenya,Taita Taveta,Mwatate,0,281906,281906,218,217,47,6,40,11,293,11,57,18
+Kenya,Taita Taveta,Mwatate,10,281906,31574,168,179,41,6,39,11,272,10,45,7
+Kenya,Taita Taveta,Mwatate,15,281906,19030,111,134,19,4,36,11,234,9,6,4
+Kenya,Taita Taveta,Mwatate,20,281906,9438,61,5,8,3,31,10,152,7,1,2
+Kenya,Taita Taveta,Mwatate,25,281906,8563,56,5,7,2,30,9,140,6,1,2
+Kenya,Taita Taveta,Mwatate,30,281906,6209,43,4,6,2,26,8,107,5,1,1
+Kenya,Taita Taveta,Mwatate,50,281906,2360,13,3,3,2,13,6,31,2,0,1
+Kenya,Taita Taveta,Mwatate,75,281906,302,1,1,1,0,2,1,3,0,0,0
+Kenya,Taita Taveta,Taveta,0,403744,403744,9,7,44,8,0,18,27,7,2,11
+Kenya,Taita Taveta,Taveta,10,403744,11374,5,3,9,3,0,13,18,2,1,0
+Kenya,Taita Taveta,Taveta,15,403744,8333,3,2,3,1,0,13,16,0,0,0
+Kenya,Taita Taveta,Taveta,20,403744,3136,1,0,1,0,0,11,10,0,0,0
+Kenya,Taita Taveta,Taveta,25,403744,2311,1,0,1,0,0,11,9,0,0,0
+Kenya,Taita Taveta,Taveta,30,403744,828,0,0,0,0,0,10,8,0,0,0
+Kenya,Taita Taveta,Taveta,50,403744,102,0,0,0,0,0,9,4,0,0,0
+Kenya,Taita Taveta,Taveta,75,403744,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Taita Taveta,Voi,0,946034,946034,67,8,29,29,37,7,55,4,1,20
+Kenya,Taita Taveta,Voi,10,946034,85905,41,7,27,26,36,7,53,4,1,5
+Kenya,Taita Taveta,Voi,15,946034,41575,35,5,25,23,36,6,52,4,1,1
+Kenya,Taita Taveta,Voi,20,946034,21962,30,5,19,20,36,5,46,3,1,0
+Kenya,Taita Taveta,Voi,25,946034,20386,29,5,18,19,35,5,45,3,1,0
+Kenya,Taita Taveta,Voi,30,946034,16233,27,5,17,19,35,5,40,3,1,0
+Kenya,Taita Taveta,Voi,50,946034,5822,16,4,9,7,14,4,21,1,0,0
+Kenya,Taita Taveta,Voi,75,946034,764,2,0,0,0,4,2,1,0,0,0
+Kenya,Taita Taveta,Wundanyi,0,85065,85065,28,13,7,10,17,19,191,8,5,33
+Kenya,Taita Taveta,Wundanyi,10,85065,20577,25,13,7,10,16,19,187,8,5,2
+Kenya,Taita Taveta,Wundanyi,15,85065,14545,24,13,6,10,16,18,172,7,4,1
+Kenya,Taita Taveta,Wundanyi,20,85065,7623,18,12,4,7,14,16,117,5,3,0
+Kenya,Taita Taveta,Wundanyi,25,85065,6822,18,12,4,7,14,16,112,4,3,0
+Kenya,Taita Taveta,Wundanyi,30,85065,5075,16,12,4,5,13,14,84,4,2,0
+Kenya,Taita Taveta,Wundanyi,50,85065,1992,11,7,2,3,10,9,31,1,1,0
+Kenya,Taita Taveta,Wundanyi,75,85065,325,1,0,0,0,3,3,2,0,0,0
+Kenya,Tana River,Bura,0,1360533,1360533,120,133,256,260,404,180,249,101,139,235
+Kenya,Tana River,Bura,10,1360533,18814,39,89,156,147,224,85,118,45,72,106
+Kenya,Tana River,Bura,15,1360533,8145,25,47,103,84,90,27,40,13,28,35
+Kenya,Tana River,Bura,20,1360533,1569,11,11,63,29,14,4,3,1,2,9
+Kenya,Tana River,Bura,25,1360533,1063,9,10,51,23,10,3,2,0,1,6
+Kenya,Tana River,Bura,30,1360533,836,8,8,44,19,8,2,1,0,1,4
+Kenya,Tana River,Bura,50,1360533,257,3,3,21,7,2,1,0,0,0,1
+Kenya,Tana River,Bura,75,1360533,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Tana River,Galole,0,969209,969209,317,11,25,100,36,58,57,146,122,75
+Kenya,Tana River,Galole,10,969209,25017,247,9,24,97,32,54,47,126,113,68
+Kenya,Tana River,Galole,15,969209,16781,213,8,24,94,30,52,38,112,99,62
+Kenya,Tana River,Galole,20,969209,8736,152,7,21,83,24,41,31,83,82,53
+Kenya,Tana River,Galole,25,969209,7346,135,6,21,80,22,37,28,74,75,49
+Kenya,Tana River,Galole,30,969209,6390,122,6,20,78,20,32,23,66,67,45
+Kenya,Tana River,Galole,50,969209,3270,56,4,13,61,13,22,13,33,39,31
+Kenya,Tana River,Galole,75,969209,32,1,0,0,0,1,0,0,1,1,1
+Kenya,Tana River,Garsen,0,1592006,1592006,1158,244,659,553,246,250,440,625,325,344
+Kenya,Tana River,Garsen,10,1592006,217837,1106,242,652,516,243,241,430,620,319,333
+Kenya,Tana River,Garsen,15,1592006,125265,997,238,641,489,241,231,422,605,316,322
+Kenya,Tana River,Garsen,20,1592006,66976,756,207,490,385,229,214,383,495,295,294
+Kenya,Tana River,Garsen,25,1592006,59969,722,200,451,360,224,206,372,461,288,284
+Kenya,Tana River,Garsen,30,1592006,52879,665,190,390,329,217,195,359,411,273,269
+Kenya,Tana River,Garsen,50,1592006,30409,449,130,224,197,167,125,290,231,174,186
+Kenya,Tana River,Garsen,75,1592006,7060,97,21,39,17,46,27,136,25,16,52
+Kenya,Tharaka-Nithi,Chuka/Igambang'Ombe,0,58243,58243,8,14,18,25,8,20,6,6,1,7
+Kenya,Tharaka-Nithi,Chuka/Igambang'Ombe,10,58243,43979,7,14,17,25,8,20,5,5,1,7
+Kenya,Tharaka-Nithi,Chuka/Igambang'Ombe,15,58243,32516,3,14,16,23,8,19,5,4,1,5
+Kenya,Tharaka-Nithi,Chuka/Igambang'Ombe,20,58243,22471,1,14,12,21,8,14,3,3,1,4
+Kenya,Tharaka-Nithi,Chuka/Igambang'Ombe,25,58243,21535,1,14,12,20,7,13,3,3,1,4
+Kenya,Tharaka-Nithi,Chuka/Igambang'Ombe,30,58243,19262,1,14,12,20,7,10,2,2,1,3
+Kenya,Tharaka-Nithi,Chuka/Igambang'Ombe,50,58243,15893,0,13,10,17,3,3,0,1,0,3
+Kenya,Tharaka-Nithi,Chuka/Igambang'Ombe,75,58243,13684,0,11,9,12,1,0,0,0,0,2
+Kenya,Tharaka-Nithi,Igembe South,0,26549,26549,29,3,3,13,2,1,1,0,0,3
+Kenya,Tharaka-Nithi,Igembe South,10,26549,11484,20,3,2,12,2,1,1,0,0,2
+Kenya,Tharaka-Nithi,Igembe South,15,26549,4474,6,1,1,4,1,1,0,0,0,1
+Kenya,Tharaka-Nithi,Igembe South,20,26549,2251,0,0,0,0,0,0,0,0,0,0
+Kenya,Tharaka-Nithi,Igembe South,25,26549,2134,0,0,0,0,0,0,0,0,0,0
+Kenya,Tharaka-Nithi,Igembe South,30,26549,1733,0,0,0,0,0,0,0,0,0,0
+Kenya,Tharaka-Nithi,Igembe South,50,26549,551,0,0,0,0,0,0,0,0,0,0
+Kenya,Tharaka-Nithi,Igembe South,75,26549,15,0,0,0,0,0,0,0,0,0,0
+Kenya,Tharaka-Nithi,Maara,0,51004,51004,4,25,27,44,32,61,22,5,15,10
+Kenya,Tharaka-Nithi,Maara,10,51004,44126,4,24,27,44,31,61,22,5,15,10
+Kenya,Tharaka-Nithi,Maara,15,51004,36309,4,24,27,43,31,61,22,5,15,10
+Kenya,Tharaka-Nithi,Maara,20,51004,27044,4,22,25,40,29,58,19,4,14,9
+Kenya,Tharaka-Nithi,Maara,25,51004,26092,4,22,25,40,29,57,19,3,14,8
+Kenya,Tharaka-Nithi,Maara,30,51004,23513,3,22,23,39,28,54,17,3,14,8
+Kenya,Tharaka-Nithi,Maara,50,51004,18842,2,18,16,35,24,34,8,2,14,4
+Kenya,Tharaka-Nithi,Maara,75,51004,14078,0,3,1,2,3,3,2,1,13,2
+Kenya,Tharaka-Nithi,Tharaka,0,121136,121136,118,8,6,24,4,6,1,3,2,43
+Kenya,Tharaka-Nithi,Tharaka,10,121136,32073,60,4,6,20,3,4,0,1,1,18
+Kenya,Tharaka-Nithi,Tharaka,15,121136,12237,13,2,3,9,1,2,0,0,1,7
+Kenya,Tharaka-Nithi,Tharaka,20,121136,3215,1,0,0,2,0,0,0,0,0,2
+Kenya,Tharaka-Nithi,Tharaka,25,121136,2670,0,0,0,1,0,0,0,0,0,1
+Kenya,Tharaka-Nithi,Tharaka,30,121136,1611,0,0,0,1,0,0,0,0,0,0
+Kenya,Tharaka-Nithi,Tharaka,50,121136,243,0,0,0,0,0,0,0,0,0,0
+Kenya,Tharaka-Nithi,Tharaka,75,121136,11,0,0,0,0,0,0,0,0,0,0
+Kenya,Trans Nzoia,Cherangany,0,62663,62663,23,9,19,58,43,94,61,41,28,54
+Kenya,Trans Nzoia,Cherangany,10,62663,35442,17,5,16,45,35,71,45,24,20,33
+Kenya,Trans Nzoia,Cherangany,15,62663,24335,11,3,13,38,29,59,35,19,15,25
+Kenya,Trans Nzoia,Cherangany,20,62663,12306,5,2,7,28,19,44,24,10,7,11
+Kenya,Trans Nzoia,Cherangany,25,62663,11342,4,2,7,26,17,42,22,9,7,10
+Kenya,Trans Nzoia,Cherangany,30,62663,9342,4,2,6,25,16,38,20,7,5,7
+Kenya,Trans Nzoia,Cherangany,50,62663,4222,1,1,2,14,7,21,6,2,0,1
+Kenya,Trans Nzoia,Cherangany,75,62663,2607,0,0,1,9,2,12,5,0,0,0
+Kenya,Trans Nzoia,Endebess,0,65370,65370,44,77,34,142,62,63,53,26,5,33
+Kenya,Trans Nzoia,Endebess,10,65370,44149,37,76,33,140,62,62,48,25,4,28
+Kenya,Trans Nzoia,Endebess,15,65370,36632,35,75,31,135,61,60,44,24,3,25
+Kenya,Trans Nzoia,Endebess,20,65370,31035,33,73,30,122,58,58,38,22,3,23
+Kenya,Trans Nzoia,Endebess,25,65370,29993,33,73,29,120,58,58,38,22,2,22
+Kenya,Trans Nzoia,Endebess,30,65370,28708,32,71,27,117,56,57,36,21,2,21
+Kenya,Trans Nzoia,Endebess,50,65370,25216,29,63,23,100,49,54,27,19,2,17
+Kenya,Trans Nzoia,Endebess,75,65370,16785,23,43,19,72,36,37,24,17,1,12
+Kenya,Trans Nzoia,Kiminini,0,36859,36859,8,19,35,52,36,110,75,43,34,91
+Kenya,Trans Nzoia,Kiminini,10,36859,25842,7,19,32,48,30,97,68,35,29,78
+Kenya,Trans Nzoia,Kiminini,15,36859,14197,5,17,27,35,19,73,50,24,19,54
+Kenya,Trans Nzoia,Kiminini,20,36859,4619,3,13,16,16,10,49,33,9,10,39
+Kenya,Trans Nzoia,Kiminini,25,36859,3923,3,12,15,13,9,45,32,7,9,37
+Kenya,Trans Nzoia,Kiminini,30,36859,3216,2,12,14,11,7,42,29,7,8,36
+Kenya,Trans Nzoia,Kiminini,50,36859,741,0,3,3,4,2,26,20,2,3,31
+Kenya,Trans Nzoia,Kiminini,75,36859,300,0,0,2,1,0,19,16,1,1,24
+Kenya,Trans Nzoia,Kwanza,0,30929,30929,5,4,76,131,18,48,60,25,32,47
+Kenya,Trans Nzoia,Kwanza,10,30929,11801,3,3,64,97,12,35,37,15,23,37
+Kenya,Trans Nzoia,Kwanza,15,30929,5811,2,2,39,35,8,29,17,10,13,32
+Kenya,Trans Nzoia,Kwanza,20,30929,2028,1,1,17,18,5,21,5,7,5,27
+Kenya,Trans Nzoia,Kwanza,25,30929,1761,0,1,14,17,4,20,5,7,5,27
+Kenya,Trans Nzoia,Kwanza,30,30929,1384,0,1,12,16,3,18,3,7,4,26
+Kenya,Trans Nzoia,Kwanza,50,30929,344,0,0,8,9,1,6,1,5,2,23
+Kenya,Trans Nzoia,Kwanza,75,30929,121,0,0,1,1,0,1,0,1,0,13
+Kenya,Trans Nzoia,Saboti,0,35505,35505,25,7,12,20,33,38,143,36,38,22
+Kenya,Trans Nzoia,Saboti,10,35505,25842,22,5,8,18,32,31,138,30,35,19
+Kenya,Trans Nzoia,Saboti,15,35505,18613,18,3,7,13,28,27,132,24,29,14
+Kenya,Trans Nzoia,Saboti,20,35505,10154,17,3,6,9,24,24,113,15,15,7
+Kenya,Trans Nzoia,Saboti,25,35505,9382,16,3,6,8,24,24,111,14,14,7
+Kenya,Trans Nzoia,Saboti,30,35505,8300,16,2,5,7,23,23,98,12,13,6
+Kenya,Trans Nzoia,Saboti,50,35505,5127,12,2,2,4,19,15,57,5,7,3
+Kenya,Trans Nzoia,Saboti,75,35505,3477,9,1,1,4,13,7,25,0,3,1
+Kenya,Trans Nzoia,unknown 4,0,15260,15260,3,3,5,3,9,17,11,13,23,26
+Kenya,Trans Nzoia,unknown 4,10,15260,7376,2,3,4,3,4,11,7,8,18,16
+Kenya,Trans Nzoia,unknown 4,15,15260,3330,1,2,2,3,3,4,2,4,17,6
+Kenya,Trans Nzoia,unknown 4,20,15260,868,1,1,1,2,1,1,1,1,2,0
+Kenya,Trans Nzoia,unknown 4,25,15260,711,1,0,1,2,1,1,1,1,1,0
+Kenya,Trans Nzoia,unknown 4,30,15260,489,1,0,1,2,1,1,0,1,1,0
+Kenya,Trans Nzoia,unknown 4,50,15260,45,0,0,1,0,0,0,0,0,0,0
+Kenya,Trans Nzoia,unknown 4,75,15260,12,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Loima,0,976908,976908,5,7,7,4,9,2,2,125,60,4
+Kenya,Turkana,Loima,10,976908,21249,2,3,2,3,3,0,1,35,20,0
+Kenya,Turkana,Loima,15,976908,13921,1,3,1,3,3,0,0,26,16,0
+Kenya,Turkana,Loima,20,976908,7320,0,1,0,3,1,0,0,1,1,0
+Kenya,Turkana,Loima,25,976908,6649,0,1,0,2,1,0,0,1,0,0
+Kenya,Turkana,Loima,30,976908,5225,0,0,0,1,1,0,0,0,0,0
+Kenya,Turkana,Loima,50,976908,1913,0,0,0,0,1,0,0,0,0,0
+Kenya,Turkana,Loima,75,976908,189,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana Central,0,660653,660653,2,4,27,11,2,0,0,2,1,0
+Kenya,Turkana,Turkana Central,10,660653,3,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana Central,15,660653,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana Central,20,660653,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana Central,25,660653,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana Central,30,660653,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana Central,50,660653,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana Central,75,660653,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana East,0,801976,801976,1,2,1,2,0,3,0,1,0,1
+Kenya,Turkana,Turkana East,10,801976,2839,0,0,0,0,0,1,0,0,0,0
+Kenya,Turkana,Turkana East,15,801976,2238,0,0,0,0,0,1,0,0,0,0
+Kenya,Turkana,Turkana East,20,801976,193,0,0,0,0,0,1,0,0,0,0
+Kenya,Turkana,Turkana East,25,801976,104,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana East,30,801976,45,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana East,50,801976,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana East,75,801976,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana North,0,1460953,1460953,0,3,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana North,10,1460953,1789,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana North,15,1460953,738,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana North,20,1460953,124,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana North,25,1460953,71,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana North,30,1460953,18,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana North,50,1460953,5,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana North,75,1460953,1,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana South,0,741066,741066,57,12,127,92,117,140,54,301,78,24
+Kenya,Turkana,Turkana South,10,741066,5887,38,6,52,45,51,37,9,75,25,7
+Kenya,Turkana,Turkana South,15,741066,4478,34,6,48,42,45,32,6,60,23,7
+Kenya,Turkana,Turkana South,20,741066,1713,16,3,29,24,20,16,2,22,13,3
+Kenya,Turkana,Turkana South,25,741066,1451,13,3,27,21,16,12,1,19,12,2
+Kenya,Turkana,Turkana South,30,741066,835,7,2,16,14,6,6,0,12,9,0
+Kenya,Turkana,Turkana South,50,741066,35,0,0,0,2,0,0,0,0,0,0
+Kenya,Turkana,Turkana South,75,741066,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana West,0,1410907,1410907,12,13,11,13,55,12,83,19,13,16
+Kenya,Turkana,Turkana West,10,1410907,20493,2,1,3,1,9,1,3,1,3,0
+Kenya,Turkana,Turkana West,15,1410907,6343,1,0,2,0,5,1,2,0,1,0
+Kenya,Turkana,Turkana West,20,1410907,912,0,0,0,0,1,0,0,0,0,0
+Kenya,Turkana,Turkana West,25,1410907,592,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana West,30,1410907,155,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana West,50,1410907,13,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,Turkana West,75,1410907,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,unknown 2,0,319612,319612,5,2,3,6,1,1,0,1,0,5
+Kenya,Turkana,unknown 2,10,319612,485,1,0,1,3,0,0,0,0,0,1
+Kenya,Turkana,unknown 2,15,319612,400,0,0,1,2,0,0,0,0,0,1
+Kenya,Turkana,unknown 2,20,319612,75,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,unknown 2,25,319612,53,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,unknown 2,30,319612,29,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,unknown 2,50,319612,2,0,0,0,0,0,0,0,0,0,0
+Kenya,Turkana,unknown 2,75,319612,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Uasin Gishu,Ainabkoi,0,50213,50213,180,141,223,147,115,123,106,88,94,
+Kenya,Uasin Gishu,Ainabkoi,10,50213,21118,129,127,200,125,89,95,77,66,71,
+Kenya,Uasin Gishu,Ainabkoi,15,50213,15166,114,117,187,115,81,77,67,58,64,
+Kenya,Uasin Gishu,Ainabkoi,20,50213,9234,95,97,157,95,54,55,46,36,40,
+Kenya,Uasin Gishu,Ainabkoi,25,50213,8849,93,96,153,93,52,53,44,34,38,
+Kenya,Uasin Gishu,Ainabkoi,30,50213,7352,87,88,139,83,41,42,35,26,29,
+Kenya,Uasin Gishu,Ainabkoi,50,50213,4911,71,72,106,54,21,21,18,13,13,
+Kenya,Uasin Gishu,Ainabkoi,75,50213,3277,55,57,76,27,7,5,5,4,4,
+Kenya,Uasin Gishu,Kapseret,0,35805,35805,203,103,171,184,125,194,155,130,117,
+Kenya,Uasin Gishu,Kapseret,10,35805,13982,141,76,97,112,82,127,89,69,47,
+Kenya,Uasin Gishu,Kapseret,15,35805,7561,99,55,62,85,52,93,57,42,24,
+Kenya,Uasin Gishu,Kapseret,20,35805,4338,59,22,31,46,22,50,27,19,10,
+Kenya,Uasin Gishu,Kapseret,25,35805,4090,56,20,29,41,19,45,24,18,10,
+Kenya,Uasin Gishu,Kapseret,30,35805,3510,52,16,21,30,14,32,17,13,7,
+Kenya,Uasin Gishu,Kapseret,50,35805,2371,21,7,6,7,6,10,5,3,2,
+Kenya,Uasin Gishu,Kapseret,75,35805,1624,2,1,0,1,1,2,1,1,0,
+Kenya,Uasin Gishu,Kesses,0,70236,70236,400,614,499,684,355,201,113,121,131,
+Kenya,Uasin Gishu,Kesses,10,70236,39963,330,595,471,630,323,151,74,57,57,
+Kenya,Uasin Gishu,Kesses,15,70236,29844,308,584,454,599,296,124,59,40,27,
+Kenya,Uasin Gishu,Kesses,20,70236,22778,272,569,437,562,258,97,45,23,16,
+Kenya,Uasin Gishu,Kesses,25,70236,22366,270,568,434,559,255,95,43,22,15,
+Kenya,Uasin Gishu,Kesses,30,70236,20876,263,563,426,546,246,91,40,18,12,
+Kenya,Uasin Gishu,Kesses,50,70236,18179,245,543,391,504,215,77,28,6,6,
+Kenya,Uasin Gishu,Kesses,75,70236,15394,217,496,334,428,167,59,17,2,2,
+Kenya,Uasin Gishu,Moiben,0,77536,77536,332,111,20,58,32,50,39,33,22,
+Kenya,Uasin Gishu,Moiben,10,77536,9616,69,40,10,30,9,11,9,12,8,
+Kenya,Uasin Gishu,Moiben,15,77536,5543,26,27,8,25,7,6,6,10,7,
+Kenya,Uasin Gishu,Moiben,20,77536,2636,7,17,5,15,6,3,4,8,5,
+Kenya,Uasin Gishu,Moiben,25,77536,2310,7,16,5,14,6,3,4,8,4,
+Kenya,Uasin Gishu,Moiben,30,77536,1686,5,14,3,10,4,3,3,7,4,
+Kenya,Uasin Gishu,Moiben,50,77536,621,2,10,1,4,2,1,1,4,2,
+Kenya,Uasin Gishu,Moiben,75,77536,206,2,8,0,1,1,0,0,1,1,
+Kenya,Uasin Gishu,Soy,0,65780,65780,118,26,11,31,49,46,35,34,14,
+Kenya,Uasin Gishu,Soy,10,65780,10680,39,13,5,12,9,26,13,19,8,
+Kenya,Uasin Gishu,Soy,15,65780,5334,13,10,4,11,8,19,11,16,6,
+Kenya,Uasin Gishu,Soy,20,65780,1927,2,6,2,7,5,9,8,10,2,
+Kenya,Uasin Gishu,Soy,25,65780,1563,2,5,2,5,5,7,8,9,1,
+Kenya,Uasin Gishu,Soy,30,65780,1043,1,4,1,3,3,6,7,7,1,
+Kenya,Uasin Gishu,Soy,50,65780,189,0,2,1,1,1,0,2,2,0,
+Kenya,Uasin Gishu,Soy,75,65780,70,0,0,1,0,0,0,0,0,0,
+Kenya,Uasin Gishu,Turbo,0,43284,43284,45,21,16,28,23,34,34,30,21,
+Kenya,Uasin Gishu,Turbo,10,43284,15535,21,12,11,16,14,25,24,18,12,
+Kenya,Uasin Gishu,Turbo,15,43284,7234,8,8,8,13,13,18,12,11,8,
+Kenya,Uasin Gishu,Turbo,20,43284,2551,5,4,5,7,8,10,5,4,4,
+Kenya,Uasin Gishu,Turbo,25,43284,2179,4,4,4,6,8,9,5,3,3,
+Kenya,Uasin Gishu,Turbo,30,43284,1501,3,3,3,5,7,7,4,2,3,
+Kenya,Uasin Gishu,Turbo,50,43284,171,0,1,1,1,2,1,0,0,1,
+Kenya,Uasin Gishu,Turbo,75,43284,27,0,0,0,0,0,0,0,0,0,
+Kenya,Vihiga,Emuhaya,0,8975,8975,0,0,1,3,0,2,5,2,7,4
+Kenya,Vihiga,Emuhaya,10,8975,8841,0,0,1,3,0,2,5,2,7,4
+Kenya,Vihiga,Emuhaya,15,8975,7812,0,0,1,3,0,2,5,2,7,3
+Kenya,Vihiga,Emuhaya,20,8975,3238,0,0,1,1,0,1,4,1,3,2
+Kenya,Vihiga,Emuhaya,25,8975,2851,0,0,1,1,0,1,4,1,3,2
+Kenya,Vihiga,Emuhaya,30,8975,1466,0,0,0,1,0,1,3,0,2,1
+Kenya,Vihiga,Emuhaya,50,8975,61,0,0,0,0,0,0,1,0,0,0
+Kenya,Vihiga,Emuhaya,75,8975,7,0,0,0,0,0,0,0,0,0,0
+Kenya,Vihiga,Hamisi,0,18443,18443,100,74,59,54,39,27,13,34,23,25
+Kenya,Vihiga,Hamisi,10,18443,17984,100,74,59,54,38,27,13,34,22,25
+Kenya,Vihiga,Hamisi,15,18443,14829,100,73,58,47,33,25,12,31,19,21
+Kenya,Vihiga,Hamisi,20,18443,8267,99,70,52,38,18,22,10,19,12,15
+Kenya,Vihiga,Hamisi,25,18443,7695,98,69,50,37,17,21,10,18,11,15
+Kenya,Vihiga,Hamisi,30,18443,5982,98,67,46,35,15,19,9,15,8,13
+Kenya,Vihiga,Hamisi,50,18443,3307,92,57,32,25,7,11,2,5,3,5
+Kenya,Vihiga,Hamisi,75,18443,2685,85,51,24,7,3,8,0,1,0,3
+Kenya,Vihiga,Luanda,0,8304,8304,1,1,2,5,3,1,2,1,4,3
+Kenya,Vihiga,Luanda,10,8304,8019,1,1,2,5,3,1,2,1,3,3
+Kenya,Vihiga,Luanda,15,8304,6472,1,0,2,5,2,0,1,1,3,3
+Kenya,Vihiga,Luanda,20,8304,2390,1,0,1,3,1,0,0,0,1,2
+Kenya,Vihiga,Luanda,25,8304,2058,1,0,1,3,1,0,0,0,1,1
+Kenya,Vihiga,Luanda,30,8304,1023,0,0,1,2,1,0,0,0,1,1
+Kenya,Vihiga,Luanda,50,8304,43,0,0,0,0,0,0,0,0,0,0
+Kenya,Vihiga,Luanda,75,8304,5,0,0,0,0,0,0,0,0,0,0
+Kenya,Vihiga,Sabatia,0,11152,11152,2,5,6,8,1,11,26,9,11,6
+Kenya,Vihiga,Sabatia,10,11152,10713,2,5,6,8,1,10,26,9,11,6
+Kenya,Vihiga,Sabatia,15,11152,8230,2,5,6,8,1,9,24,8,8,4
+Kenya,Vihiga,Sabatia,20,11152,3457,1,4,4,7,1,7,21,6,5,3
+Kenya,Vihiga,Sabatia,25,11152,3122,1,3,4,7,1,7,21,6,4,3
+Kenya,Vihiga,Sabatia,30,11152,2045,1,3,4,6,1,6,20,5,4,3
+Kenya,Vihiga,Sabatia,50,11152,328,0,1,2,2,0,2,7,0,1,1
+Kenya,Vihiga,Sabatia,75,11152,34,0,0,1,0,0,0,1,0,0,0
+Kenya,Vihiga,Vihiga,0,8952,8952,1,0,4,2,2,6,18,4,5,6
+Kenya,Vihiga,Vihiga,10,8952,8509,1,0,4,2,2,6,18,4,5,6
+Kenya,Vihiga,Vihiga,15,8952,6995,1,0,3,2,2,5,17,3,4,5
+Kenya,Vihiga,Vihiga,20,8952,2918,1,0,3,1,1,3,13,3,2,3
+Kenya,Vihiga,Vihiga,25,8952,2617,1,0,3,1,1,3,12,3,2,3
+Kenya,Vihiga,Vihiga,30,8952,1526,1,0,2,1,1,3,11,2,1,2
+Kenya,Vihiga,Vihiga,50,8952,134,1,0,1,0,0,0,2,1,0,1
+Kenya,Vihiga,Vihiga,75,8952,11,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Eldas,0,474468,474468,26,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Eldas,10,474468,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Eldas,15,474468,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Eldas,20,474468,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Eldas,25,474468,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Eldas,30,474468,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Eldas,50,474468,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Eldas,75,474468,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Tarbaj,0,754693,754693,42,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Tarbaj,10,754693,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Tarbaj,15,754693,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Tarbaj,20,754693,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Tarbaj,25,754693,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Tarbaj,30,754693,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Tarbaj,50,754693,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Tarbaj,75,754693,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir East,0,425697,425697,2,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir East,10,425697,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir East,15,425697,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir East,20,425697,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir East,25,425697,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir East,30,425697,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir East,50,425697,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir East,75,425697,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir North,0,1039050,1039050,28,0,0,0,0,0,0,0,0,2
+Kenya,Wajir,Wajir North,10,1039050,1796,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir North,15,1039050,679,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir North,20,1039050,207,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir North,25,1039050,94,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir North,30,1039050,32,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir North,50,1039050,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir North,75,1039050,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir South,0,2157404,2157404,69,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir South,10,2157404,3,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir South,15,2157404,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir South,20,2157404,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir South,25,2157404,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir South,30,2157404,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir South,50,2157404,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir South,75,2157404,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir West,0,812347,812347,11,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir West,10,812347,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir West,15,812347,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir West,20,812347,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir West,25,812347,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir West,30,812347,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir West,50,812347,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Wajir,Wajir West,75,812347,0,0,0,0,0,0,0,0,0,0,0
+Kenya,West Pokot,Kacheliba,0,411282,411282,327,163,175,184,170,87,41,192,332,383
+Kenya,West Pokot,Kacheliba,10,411282,128550,279,150,162,171,162,81,38,153,295,337
+Kenya,West Pokot,Kacheliba,15,411282,65224,208,130,146,154,147,69,33,105,238,246
+Kenya,West Pokot,Kacheliba,20,411282,23885,88,77,99,87,101,35,16,41,130,125
+Kenya,West Pokot,Kacheliba,25,411282,19962,72,66,88,78,92,32,14,33,115,104
+Kenya,West Pokot,Kacheliba,30,411282,14544,48,48,64,53,71,23,9,21,88,70
+Kenya,West Pokot,Kacheliba,50,411282,5231,6,11,16,14,22,7,1,6,50,37
+Kenya,West Pokot,Kacheliba,75,411282,1244,0,3,3,3,4,2,0,1,14,12
+Kenya,West Pokot,Kapenguria,0,146890,146890,160,153,77,195,114,88,32,55,118,109
+Kenya,West Pokot,Kapenguria,10,146890,63211,134,141,72,177,106,80,29,47,106,78
+Kenya,West Pokot,Kapenguria,15,146890,40515,113,127,65,162,98,73,26,42,96,63
+Kenya,West Pokot,Kapenguria,20,146890,21230,79,90,48,122,76,54,21,30,71,39
+Kenya,West Pokot,Kapenguria,25,146890,18575,69,81,45,114,72,51,20,28,66,37
+Kenya,West Pokot,Kapenguria,30,146890,14660,56,67,40,94,62,43,18,22,52,32
+Kenya,West Pokot,Kapenguria,50,146890,5193,19,24,23,41,22,21,9,7,14,16
+Kenya,West Pokot,Kapenguria,75,146890,1641,3,3,10,14,5,6,5,0,2,3
+Kenya,West Pokot,Pokot South,0,147504,147504,43,51,49,207,77,142,116,32,39,55
+Kenya,West Pokot,Pokot South,10,147504,86526,34,35,44,191,69,134,111,29,36,40
+Kenya,West Pokot,Pokot South,15,147504,69732,28,31,40,181,66,129,108,26,31,30
+Kenya,West Pokot,Pokot South,20,147504,49775,19,23,28,152,55,114,96,17,19,18
+Kenya,West Pokot,Pokot South,25,147504,48014,19,21,27,148,54,112,94,15,18,17
+Kenya,West Pokot,Pokot South,30,147504,41847,18,18,23,137,50,108,89,12,16,13
+Kenya,West Pokot,Pokot South,50,147504,29359,13,11,16,111,42,92,63,7,9,8
+Kenya,West Pokot,Pokot South,75,147504,16417,8,6,9,58,23,54,36,4,6,2
+Kenya,West Pokot,Sigor,0,215136,215136,384,319,214,848,213,300,275,300,348,194
+Kenya,West Pokot,Sigor,10,215136,65744,280,301,191,783,198,288,251,276,315,170
+Kenya,West Pokot,Sigor,15,215136,51908,230,265,169,707,186,266,239,251,269,147
+Kenya,West Pokot,Sigor,20,215136,34173,141,197,116,521,152,209,160,171,192,105
+Kenya,West Pokot,Sigor,25,215136,31982,125,184,108,495,146,199,153,158,180,100
+Kenya,West Pokot,Sigor,30,215136,27938,109,158,95,442,135,182,145,144,165,88
+Kenya,West Pokot,Sigor,50,215136,17891,36,92,31,228,88,138,106,40,80,46
+Kenya,West Pokot,Sigor,75,215136,10067,14,47,9,110,48,96,69,11,45,26
+Kenya,West Pokot,unknown 3,0,30245,30245,6,10,8,25,20,9,7,14,10,62
+Kenya,West Pokot,unknown 3,10,30245,9124,5,10,7,24,14,8,5,10,8,44
+Kenya,West Pokot,unknown 3,15,30245,4624,3,9,7,20,11,6,4,5,6,30
+Kenya,West Pokot,unknown 3,20,30245,2138,1,6,5,12,7,5,1,1,3,12
+Kenya,West Pokot,unknown 3,25,30245,1725,1,6,5,11,5,5,0,1,2,10
+Kenya,West Pokot,unknown 3,30,30245,1209,0,6,5,10,4,4,0,0,1,7
+Kenya,West Pokot,unknown 3,50,30245,284,0,3,1,5,1,1,0,0,0,1
+Kenya,West Pokot,unknown 3,75,30245,47,0,1,0,1,0,0,0,0,0,0
+Kenya,West Pokot,unknown 8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,West Pokot,unknown 8,10,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,West Pokot,unknown 8,15,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,West Pokot,unknown 8,20,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,West Pokot,unknown 8,25,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,West Pokot,unknown 8,30,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,West Pokot,unknown 8,50,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,West Pokot,unknown 8,75,0,0,0,0,0,0,0,0,0,0,0,0
