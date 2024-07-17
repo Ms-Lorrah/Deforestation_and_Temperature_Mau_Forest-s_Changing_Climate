@@ -44,11 +44,23 @@ if selected_option == "Home":
 
     Kenya Forest Fund by use Green A.I. aims to restore forest coverage and combat climate change through reforestation. Your donations help us buy and plant seedlings, allowing you to contribute to this vital cause from the comfort of your home, office, or social gathering. Join us in making a difference!
     """)
+
+    # Add PayPal donate button
+    donate_button = """
+    <form action="https://www.paypal.com/donate" method="post" target="_top">
+    <input type="hidden" name="hosted_button_id" value="TCLMPEGDFYHQC" />
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+    <img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+    </form>
+    """
+    st.markdown(donate_button, unsafe_allow_html=True)
+
 elif selected_option == "About Us":
     st.write("About Us section coming soon.")
 elif selected_option == "Projects":
     st.write("Projects section coming soon.")
 elif selected_option == "Donations/Support":
     st.write("Donations/Support section coming soon.")
+
 # Add YouTube video
-st.video("https://youtu.be/k7FOhuTy3RA?si=A1ZYWRdMyZ2TyMXY") 
+st.video("https://youtu.be/k7FOhuTy3RA?si=A1ZYWRdMyZ2TyMXY")
