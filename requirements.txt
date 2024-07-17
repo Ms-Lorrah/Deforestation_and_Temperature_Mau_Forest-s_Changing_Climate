@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+folium
+streamlit-folium
+requests
+python-dotenv
+sqlalchemy
+psycopg2-binary
+Pillow
