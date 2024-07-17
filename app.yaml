@@ -1,6 +1,0 @@
-runtime: python39
-
-entrypoint: streamlit run app.py --server.port $PORT --server.enableCORS false
-
-manual_scaling:
-  instances: 1
