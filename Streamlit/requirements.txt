@@ -1,5 +1,5 @@
 streamlit==1.13.0
 folium==0.12.1
 streamlit-folium==0.3.0
-earthengine-api==0.1.274
+earthengine-api==0.1.347
 geemap==0.33.0
