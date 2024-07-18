@@ -3,3 +3,4 @@ folium==0.13.0
 streamlit-folium==0.3.0
 earthengine-api==0.1.347
 geemap==0.33.0
+altair==4.2.0
