@@ -1,6 +1,6 @@
 import streamlit as st
 import folium
-from streamlit_folium import st_folium
+from streamlit_folium import folium_static
 from auth import login_or_sign_up, logout
 
 # Set page title
@@ -43,7 +43,7 @@ def main():
         st.write("Below is a map showing forest coverage in Kenya.")
         # Display the map
         map_object = create_map()
-        st_folium(map_object, width=700, height=500)
+        folium_static(map_object, width=700, height=500)
         # Add additional text
         st.write("""
         Trees are essential to our ecosystem, providing oxygen, improving air quality, conserving water, and supporting wildlife. However, deforestation is causing severe consequences to our planet.
